@@ -1,0 +1,55 @@
+html, body { height: 100%; margin: 0; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: #0b0f14; color: #e6edf3; }
+
+#topbar {
+  position: fixed;
+  z-index: 1000;
+  top: 12px;
+  left: 12px;
+  right: 12px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: 14px;
+  backdrop-filter: blur(8px);
+  background: rgba(10, 14, 20, 0.72);
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
+.brand { font-weight: 700; letter-spacing: 0.2px; }
+#search {
+  flex: 1;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: #e6edf3;
+  outline: none;
+}
+#search::placeholder { color: rgba(230,237,243,0.55); }
+#counter { opacity: 0.8; font-size: 14px; white-space: nowrap; }
+
+#map { height: 100%; width: 100%; }
+
+.leaflet-popup-content-wrapper {
+  background: rgba(12, 16, 22, 0.95);
+  color: #e6edf3;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.10);
+}
+.leaflet-popup-tip { background: rgba(12, 16, 22, 0.95); }
+
+.popup-title { font-weight: 700; font-size: 16px; margin-bottom: 4px; }
+.popup-sub { opacity: 0.85; margin-bottom: 8px; }
+.popup-links a { color: #7dd3fc; text-decoration: none; }
+.popup-links a:hover { text-decoration: underline; }
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #e11d48;       /* rose/red */
+  box-shadow: 0 0 0 2px rgba(225,29,72,0.35), 0 0 18px rgba(225,29,72,0.5);
+}

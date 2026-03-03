@@ -1,0 +1,327 @@
+html, body { height: 100%; margin: 0; }
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: #0b0f14;
+  color: #e6edf3;
+}
+
+#app {
+  height: 100%;
+  display: flex;
+}
+.photo-controls{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  margin-top:10px;
+}
+
+.photo-btn{
+  padding:8px 10px;
+  border-radius:10px;
+  border:1px solid rgba(255,255,255,0.14);
+  background: rgba(255,255,255,0.06);
+  color:#e6edf3;
+  cursor:pointer;
+  font-weight:700;
+  font-size:12px;
+}
+.photo-btn:disabled{
+  opacity:.45;
+  cursor:not-allowed;
+}
+.photo-page{
+  font-size:12px;
+  opacity:.85;
+  white-space:nowrap;
+}
+
+
+.submit-link{
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+
+  margin-top: 10px;
+  padding: 14px 16px;
+
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.12);
+
+  background: linear-gradient(
+    145deg,
+    rgba(255,255,255,0.06),
+    rgba(255,255,255,0.03)
+  );
+
+  color: #7dd3fc;
+  font-weight: 800;
+  text-decoration: none;
+  text-align: center;
+
+  transition: all 0.2s ease;
+}
+
+.submit-link:hover{
+  background: rgba(255,255,255,0.10);
+  border-color: rgba(255,255,255,0.18);
+}
+/* --- Sidebar collapse toggle --- */
+.sidebar-toggle{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+
+  border: 1px solid rgba(255,255,255,0.14);
+  background: rgba(255,255,255,0.06);
+  color: #e6edf3;
+
+  cursor: pointer;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+
+/* Smooth animate */
+#sidebar{
+  transition: width 220ms ease, min-width 220ms ease, max-width 220ms ease, padding 220ms ease;
+}
+
+/* Collapsed state (desktop/tablet) */
+#app.sidebar-collapsed #sidebar{
+  width: 56px;
+  min-width: 56px;
+  max-width: 56px;
+  padding: 14px 8px;
+}
+
+
+#app.sidebar-collapsed #sidebar .sidebar-toggle{
+  display: inline-flex;
+  margin-bottom: 0;
+}
+
+#app.sidebar-collapsed #sidebar .brand,
+#app.sidebar-collapsed #sidebar .label,
+#app.sidebar-collapsed #sidebar #search,
+#app.sidebar-collapsed #sidebar .section,
+#app.sidebar-collapsed #sidebar .hint{
+  display: none;
+}
+
+#sidebar {
+  width: 260px;
+  min-width: 260px;
+  max-width: 260px;
+  padding: 14px 14px;
+  border-right: 1px solid rgba(255,255,255,0.10);
+  background: rgba(10, 14, 20, 0.92);
+  backdrop-filter: blur(10px);
+  box-shadow: 12px 0 30px rgba(0,0,0,0.35);
+  z-index: 900; /* below Leaflet controls/popup */
+  overflow-y: auto;
+}
+
+.sheet-link{
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+
+  margin-top: 10px;
+  padding: 14px 16px;
+
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.12);
+
+  background: linear-gradient(
+    145deg,
+    rgba(255,255,255,0.06),
+    rgba(255,255,255,0.03)
+  );
+
+  color: #7dd3fc;
+  font-weight: 800;
+  text-decoration: none;
+  text-align: center;
+
+  transition: all 0.2s ease;
+}
+
+.sheet-link:hover{
+  background: rgba(255,255,255,0.10);
+  border-color: rgba(255,255,255,0.18);
+}
+
+.brand {
+  font-weight: 900;
+  letter-spacing: 0.2px;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.label {
+  display: block;
+  font-size: 12px;
+  opacity: 0.8;
+  margin: 8px 0 6px;
+}
+
+#search {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: #e6edf3;
+  outline: none;
+}
+#search::placeholder { color: rgba(230,237,243,0.55); }
+
+#genderFilter{
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: #e6edf3;
+  outline: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.section {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255,255,255,0.05);
+}
+
+.section-title {
+  font-size: 12px;
+  opacity: 0.85;
+  margin-bottom: 8px;
+}
+
+#yearRange{
+  margin: 40px auto 0 auto;
+  width: 90%;
+  max-width: 100%;
+  padding: 0 1px;   /* THIS creates breathing room */
+  box-sizing: border-box;
+}
+.yearrow {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  opacity: 0.85;
+  margin-top: 8px;
+}
+
+#ageRange {margin: 40px auto 0 auto;
+  width: 90%;
+  max-width: 100%;
+  padding: 0 1px;   /* THIS creates breathing room */
+  box-sizing: border-box;}
+
+#counter {
+  font-size: 18px;
+  font-weight: 800;
+  margin-top: 4px;
+}
+
+.hint {
+  margin-top: 15px;
+  font-size: 12px;
+  opacity: 0.7;
+  line-height: 1.4;
+}
+
+#mapwrap { flex: 1; position: relative; }
+#map { height: 100%; width: 100%; }
+
+/* Leaflet popup look (keep your photobook CSS additions below if you already have them) */
+.leaflet-popup-content-wrapper {
+  background: rgba(12, 16, 22, 0.95);
+  color: #e6edf3;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.10);
+}
+.leaflet-popup-tip { background: rgba(12, 16, 22, 0.95); }
+
+.popup-title { font-weight: 800; font-size: 16px; margin-bottom: 4px; }
+.popup-sub { opacity: 0.85; margin-bottom: 8px; }
+.popup-links a { color: #7dd3fc; text-decoration: none; }
+.popup-links a:hover { text-decoration: underline; }
+
+/* ✅ NEW: make sure photos fit inside popup nicely (won’t break your existing photobook) */
+.photobook .photo-frame { width: 100%; overflow: hidden; border-radius: 12px; }
+.photobook .photo-img { width: 100%; height: auto; display: block; object-fit: contain; }
+
+.photobook .photo-frame{
+  position: relative;
+  overflow:hidden;
+  border-radius:12px;
+}
+
+.photobook .edge-flash{
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  border-radius:12px;
+  opacity:0;
+  background: linear-gradient(to left,
+    rgba(255,255,255,0.00) 0%,
+    rgba(255,255,255,0.10) 70%,
+    rgba(255,255,255,0.00) 100%);
+  transform: translateX(0);
+}
+.photobook.flash .edge-flash{
+  opacity:1;
+  transition: opacity 140ms ease;
+}
+
+
+/* noUiSlider styling to match dark UI */
+.noUi-target { border: 1px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.06); box-shadow: none; }
+.noUi-connect { background: rgba(125,211,252,0.35); }
+.noUi-handle { background: rgba(230,237,243,0.9); border-radius: 10px; box-shadow: none; border: none; }
+.noUi-tooltip { background: rgba(12,16,22,0.95); color: #e6edf3; border: 1px solid rgba(255,255,255,0.12); }
+.noUi-tooltip{
+  font-size: 11px;
+  padding: 3px 6px;
+  border-radius: 8px;
+  white-space: nowrap;
+}
+
+.noUi-handle{
+  width: 18px !important;
+  height: 18px !important;
+  right: -9px !important; /* keeps handle centered */
+  top: -7px !important;
+  border-radius: 10px;
+}
+.noUi-horizontal .noUi-tooltip{transform: translate(-50%, 10%);}
+.noUi-horizontal .noUi-handle-lower .noUi-tooltip{left: 50%;}
+.noUi-horizontal .noUi-handle-upper .noUi-tooltip{left: 50%;}
+
+/* Optional: on small screens, sidebar becomes bottom drawer */
+@media (max-width: 900px) {
+  #app { flex-direction: column; }
+  #sidebar { width: 100%; min-width: 100%; max-width: 100%; border-right: none; border-top: 1px solid rgba(255,255,255,0.10); }
+}
+@media (max-width: 900px) {
+  /* On mobile, collapsed = hide content, but keep the bar */
+  #app.sidebar-collapsed #sidebar{
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    padding: 10px 14px;
+  }
+  #app.sidebar-collapsed #sidebar > *:not(.sidebar-toggle){
+    display: none;
+  }
+}
+

@@ -1,0 +1,216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "سینا ملایری",
+        "name_en": "Sina Malayeri",
+        "age": 25,
+        "city": "Arak",
+        "province": "Markazi",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7013,
+          34.0956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "پویا مولایی راد",
+        "name_en": "Pouya Molaei Rad",
+        "age": 18,
+        "city": "Izeh",
+        "province": "Khuzestan",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.865,
+          31.835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "رافع نارویی",
+        "name_en": "Rafe Naroui",
+        "age": 15,
+        "city": "Zahedan",
+        "province": "Sistan Baluchestan",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8629,
+          29.4963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "نادیا عارفان",
+        "name_en": "Nadia Arefani",
+        "age": 23,
+        "city": "Fardis",
+        "province": "Karaj",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.978,
+          35.727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مطلب سعید پیرو",
+        "name_en": "Motaleb Saeid Peiro",
+        "age": 30,
+        "city": "Tehran",
+        "province": "Tehran",
+        "sources": [
+          "https://www.youtube.com/watch?v=Oe4NdMDT74c",
+          "https://fa.wikipedia.org/wiki/%D9%85%D8%B7%D9%84%D8%A8_%D8%B3%D8%B9%DB%8C%D8%AF%D9%BE%DB%8C%D8%B1%D9%88"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "محمد شریعتی",
+        "name_en": "Mohammad Shariati",
+        "age": 21,
+        "city": "Bandar Anzali",
+        "province": "Gilan",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4576,
+          37.4726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "حبیب الله یعقوبی",
+        "name_en": "Habibolah Yaaghoobi Najib",
+        "age": 32,
+        "city": "Babol",
+        "province": "Mazandaran",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6789,
+          36.5386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "سروش پوراحمدی",
+        "name_en": "Soroush Pour Ahmadi",
+        "age": 32,
+        "city": "Rasht",
+        "province": "Gilan",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5832,
+          37.2808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "پویا بختیاری",
+        "name_en": "Pouya Bakhtiari",
+        "age": null,
+        "city": "Karaj",
+        "province": "Alborz",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مهدی فرحانی",
+        "name_en": "Mehdi Farhani",
+        "age": 17,
+        "city": "Qasr-e Shirin",
+        "province": "Kermanshah",
+        "sources": [
+          "https://haalvsh.org/2022/10/02/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%D9%81%D8%B9/"
+        ],
+        "links": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5776,
+          34.5159
+        ]
+      }
+    }
+  ]
+}
