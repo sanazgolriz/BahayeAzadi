@@ -21976,7 +21976,9 @@
         ],
         "links": [],
         "photos": [
-          "Amir (Shahpour) Ojani/Amir (Shahpour) Ojani.jpg"
+          "Amir (Shahpour) Ojani/Amir (Shahpour) Ojani.jpg",
+          "Amir (Shahpour) Ojani/amir1.PNG",
+          "Amir (Shahpour) Ojani/Amir2.PNG"
         ]
       },
       "geometry": {
@@ -56275,13 +56277,17 @@
       "properties": {
         "name_fa": "امیر شاهپور اوجانی",
         "name_en": "Amir Shahpour Ojani",
-        "year": null,
-        "age": null,
+        "year": 2019,
+        "age": 45,
         "gender": "male",
-        "city": null,
-        "province": null,
+        "city": "Parand",
+        "province": "Tehran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://www.instagram.com/p/C-Hi32hR69V/",
+          "https://www.instagram.com/p/C14aonvNf42/",
+          "https://www.facebook.com/iranianpoliticalprisoner/posts/%D8%A7%D9%85%DB%8C%D8%B1-%D8%B4%D8%A7%D9%87%D9%BE%D9%88%D8%B1-%D8%A7%D9%88%D8%AC%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%A7%D9%87-%D8%A7%D9%85%D8%B3%D8%A7%D9%84-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1-%D9%BE%D8%B1%D9%86%D8%AF-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%D8%A7/1854101838055709/"
+        ],
         "links": [],
         "photos": [
           "Amir Shahpour Ojani/Amir J.jpg"
@@ -56290,8 +56296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.5,
-          33.3
+          53.688,
+          32.4279
         ]
       }
     },
@@ -57287,6 +57293,381 @@
         "coordinates": [
           52.5837,
           29.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "حامد جاهدی کیا",
+        "name_en": "Hamed Jahedi Kiya",
+        "year": 2026,
+        "age": null,
+        "gender": "male",
+        "city": "Shemiran No",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.498701,
+          35.7590248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "امیرمحمد رهنما",
+        "name_en": "Amirmohammad Rahnama",
+        "year": 2026,
+        "age": 18,
+        "gender": "male",
+        "city": "Kianshahr",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4503847,
+          35.6344204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ماهان کارگری",
+        "name_en": "Mahan Kargari",
+        "year": 2026,
+        "age": 19,
+        "gender": "male",
+        "city": "Isfahan",
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.668,
+          32.6546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "میثم بیژنی زارعی",
+        "name_en": "Maysam Bizhani Zarei",
+        "year": 2026,
+        "age": 17,
+        "gender": "male",
+        "city": "Shahriyar",
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0586022,
+          35.6589015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مجتبی اسماعیل‌پور",
+        "name_en": "Mojtaba Esmaeilpour",
+        "year": 2026,
+        "age": 32,
+        "gender": "male",
+        "city": "Babolsar",
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6481047,
+          36.7008777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مجتبی بیگی",
+        "name_en": "Mojtaba Beigi",
+        "year": 2026,
+        "age": 30,
+        "gender": "male",
+        "city": null,
+        "province": "Kermanshah",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.065,
+          34.3142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مجتبی دلاوری",
+        "name_en": "Mojtaba Delavari",
+        "year": 2026,
+        "age": 32,
+        "gender": "male",
+        "city": "Tehranpars",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5259,
+          35.7446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "میرمُرتضی بنی‌فاطمه",
+        "name_en": "Mirmorteza Bani Fatemeh",
+        "year": 2026,
+        "age": 41,
+        "gender": "male",
+        "city": "Ghale Hassan Khan",
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0863,
+          35.5524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "داوود احمدزاده",
+        "name_en": "Davoud Ahmadzadeh",
+        "year": 2026,
+        "age": 30,
+        "gender": "male",
+        "city": "Marlik Karaj",
+        "province": "Alborz",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "حمزه آریان‌راد خان کی",
+        "name_en": "Hamze Aryan Rad Khanki",
+        "year": 2026,
+        "age": 42,
+        "gender": "male",
+        "city": "Besat Karaj",
+        "province": "Alborz",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "امیرحسین حضرتی",
+        "name_en": "Amirhossain Hazrati",
+        "year": 2026,
+        "age": null,
+        "gender": "male",
+        "city": "Khalijfars",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "احسان زال نژاد",
+        "name_en": "Ehsan Zalnezhad",
+        "year": 2026,
+        "age": null,
+        "gender": "male",
+        "city": "Chaloos",
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4223717,
+          36.6506329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "محمد فؤاد صفایی",
+        "name_en": "Mohammad Foad Safaei",
+        "year": 2026,
+        "age": 24,
+        "gender": "male",
+        "city": "Tehran",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مازیار سمیعی",
+        "name_en": "Maziyar Samiei",
+        "year": null,
+        "age": 28,
+        "gender": "male",
+        "city": "Rasht",
+        "province": "Gilan",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5832,
+          37.2808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ناصر جهان‌بین",
+        "name_en": "Naser Jahanbin",
+        "year": null,
+        "age": null,
+        "gender": "male",
+        "city": "Iranshahr",
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6848,
+          27.2025
         ]
       }
     }

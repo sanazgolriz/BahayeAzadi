@@ -2594,5 +2594,33 @@
   "azimiyeh karaj, iran": [
     null,
     null
+  ],
+  "shemiran no, tehran, iran": [
+    35.7590248,
+    51.498701
+  ],
+  "kianshahr, tehran, iran": [
+    35.6344204,
+    51.4503847
+  ],
+  "babolsar, iran": [
+    36.7008777,
+    52.6481047
+  ],
+  "besat karaj, alborz, iran": [
+    null,
+    null
+  ],
+  "besat karaj, iran": [
+    null,
+    null
+  ],
+  "khalijfars, tehran, iran": [
+    null,
+    null
+  ],
+  "khalijfars, iran": [
+    null,
+    null
   ]
 }
