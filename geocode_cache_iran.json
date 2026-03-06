@@ -2570,5 +2570,21 @@
   "tonekabon, mazandaran, iran": [
     36.8154324,
     50.8787003
+  ],
+  "fardis, khuzestan, iran": [
+    null,
+    null
+  ],
+  "sardasht, west azerbaijan, iran": [
+    36.1553184,
+    45.4799637
+  ],
+  "shahriyar, iran": [
+    35.6589015,
+    51.0586022
+  ],
+  "haddadi blvd, iran": [
+    null,
+    null
   ]
 }
