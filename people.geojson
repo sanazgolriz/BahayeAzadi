@@ -451,14 +451,17 @@
       "properties": {
         "name_fa": "هاجر عباسی",
         "name_en": "Hajar Abassi",
-        "year": null,
-        "age": null,
+        "year": 2022,
+        "age": 70,
         "gender": "female",
         "city": "Mahabad",
         "province": "West Azerbaijan",
         "country": "Iran",
         "sources": [
-          "HRANA"
+          "https://www.instagram.com/p/DNbPyZyg5E6/?hl=en",
+          "https://www.hra-news.org/2022/hranews/a-37176/",
+          "https://www.instagram.com/p/DOx1fwvDdIn/?hl=en",
+          "https://x.com/dadban4/status/1704148587926483148"
         ],
         "links": [],
         "photos": []
@@ -575,18 +578,21 @@
         "name_fa": "دنیا فرهادی",
         "name_en": "Donya Farhadi",
         "year": 2022,
-        "age": null,
+        "age": 22,
         "gender": "female",
         "city": "Ahvaz",
         "province": "Khuzestan",
         "country": "Iran",
         "sources": [
-          "https://fa.wikipedia.org/wiki/%D8%AF%D9%86%DB%8C%D8%A7_%D9%81%D8%B1%D9%87%D8%A7%D8%AF%DB%8C"
+          "https://fa.wikipedia.org/wiki/%D8%AF%D9%86%DB%8C%D8%A7_%D9%81%D8%B1%D9%87%D8%A7%D8%AF%DB%8C",
+          "https://www.instagram.com/p/DMJE8PKA_H8/",
+          "https://wncri.org/fa/%D8%AF%D9%86%DB%8C%D8%A7-%D9%81%D8%B1%D9%87%D8%A7%D8%AF%DB%8C-%DA%86%D9%87%D9%84%D9%85/"
         ],
         "links": [],
         "photos": [
           "Donya Farhadi/Donya Farhadi.jpg",
-          "Donya Farhadi/Donya Farhadi.png"
+          "Donya Farhadi/Donya Farhadi.png",
+          "Donya Farhadi/donya1.PNG"
         ]
       },
       "geometry": {
