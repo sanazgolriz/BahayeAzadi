@@ -2670,5 +2670,25 @@
   "najmabad, alborz, iran": [
     35.8625752,
     50.5133063
+  ],
+  "lanjan, iran": [
+    32.3783604,
+    51.3148844
+  ],
+  "shabad, kermanshah, iran": [
+    null,
+    null
+  ],
+  "shabad, iran": [
+    35.6916105,
+    51.4280678
+  ],
+  "pardis, iran": [
+    35.7411286,
+    51.815509
+  ],
+  "dolatabad shahr-e ray, iran": [
+    null,
+    null
   ]
 }
