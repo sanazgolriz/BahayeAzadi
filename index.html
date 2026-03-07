@@ -1,98 +1,105 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<TITLE>The Price of Liberty &acirc;&euro;&ldquo; Map</TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.7  (Win32)">
-	<META NAME="CREATED" CONTENT="0;0">
-	<META NAME="CHANGED" CONTENT="20260306;23264508">
-	<META NAME="" CONTENT="">
-	<META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
-	<!-- Leaflet -->
-	<!-- MarkerCluster -->
-	<!-- noUiSlider (two-handle range slider) -->
-	<STYLE TYPE="text/css">
-	<!--
-		P { color: #e6edf3; font-family: "system-ui", "apple-system", "Segoe UI", "Roboto", "Arial", sans-serif }
-	-->
-	</STYLE>
-</HEAD>
-<BODY LANG="en-CA" TEXT="#e6edf3" BGCOLOR="#0b0f14" DIR="LTR">
-<DIV ID="app" DIR="LTR">
-	<P STYLE="margin-bottom: 0cm">&acirc;&tilde;&deg; 
-	</P>
-	<P STYLE="margin-bottom: 0.32cm"><FONT SIZE=3><B>The Price of
-	Liberty &Oslash;&uml;&Ugrave;&Dagger;&Oslash;&sect;&Ucirc;&OElig;
-	&Oslash;&cent;&Oslash;&sup2;&Oslash;&sect;&Oslash;&macr;&Ucirc;&OElig;</B></FONT></P>
-	<P STYLE="margin-bottom: 0cm">Search 
-	</P>
-	<P STYLE="margin-top: 0.37cm; margin-bottom: 0.21cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-	<FONT SIZE=2 STYLE="font-size: 9pt">Year / &Oslash;&sup3;&Oslash;&sect;&Ugrave;&bdquo;
-	</FONT>
-	</P>
-	<DIV ID="yearRange" DIR="LTR">
-		<P STYLE="margin-left: 1.06cm; margin-right: 1.06cm; margin-top: 0.37cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-		<BR><BR>
-		</P>
-	</DIV>
-	<P STYLE="margin-top: 0.21cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm"><A NAME="yearLabel"></A>
-	<FONT SIZE=2 STYLE="font-size: 9pt">Years: &acirc;&euro;&rdquo; </FONT>
-	</P>
-	<P STYLE="margin-top: 0.37cm; margin-bottom: 0.21cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-	<FONT SIZE=2 STYLE="font-size: 9pt">Age / &Oslash;&sup3;&Ugrave;&dagger;
-	</FONT>
-	</P>
-	<DIV ID="ageRange" DIR="LTR">
-		<P STYLE="margin-left: 1.06cm; margin-right: 1.06cm; margin-top: 0.37cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-		<BR><BR>
-		</P>
-	</DIV>
-	<P STYLE="margin-top: 0.21cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm"><A NAME="ageLabel"></A>
-	<FONT SIZE=2 STYLE="font-size: 9pt">Ages: &acirc;&euro;&rdquo; </FONT>
-	</P>
-	<P STYLE="margin-top: 0.37cm; margin-bottom: 0.21cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-	<FONT SIZE=2 STYLE="font-size: 9pt">Gender / &Oslash;&not;&Ugrave;&dagger;&Oslash;&sup3;&Ucirc;&OElig;&Oslash;&ordf;</FONT></P>
-	<P STYLE="margin-top: 0.37cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-	All / &Ugrave;&Dagger;&Ugrave;&hellip;&Ugrave;&Dagger; Male / &Ugrave;&hellip;&Oslash;&plusmn;&Oslash;&macr;
-	Female / &Oslash;&sup2;&Ugrave;&dagger; 
-	</P>
-	<P STYLE="margin-top: 0.37cm; margin-bottom: 0.21cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-	<FONT SIZE=2 STYLE="font-size: 9pt">Shown</FONT></P>
-	<DIV ID="counter" DIR="LTR">
-		<P STYLE="margin-top: 0.11cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm">
-		<FONT SIZE=3 STYLE="font-size: 13pt"><B>&acirc;&euro;&rdquo;</B></FONT></P>
-	</DIV>
-	<P STYLE="margin-top: 0.4cm; line-height: 140%"><FONT SIZE=2 STYLE="font-size: 9pt">Tip:
-	Click a tulip marker to open the person card.<BR>&Oslash;&uml;&Oslash;&plusmn;
-	&Oslash;&plusmn;&Ugrave;&circ;&Ucirc;&OElig; &Ugrave;&bdquo;&Oslash;&sect;&Ugrave;&bdquo;&Ugrave;&Dagger;
-	&Uacute;&copy;&Ugrave;&bdquo;&Ucirc;&OElig;&Uacute;&copy; &Uacute;&copy;&Ugrave;&dagger;&Ucirc;&OElig;&Oslash;&macr;
-	&Oslash;&ordf;&Oslash;&sect; &Oslash;&sect;&Oslash;&middot;&Ugrave;&bdquo;&Oslash;&sect;&Oslash;&sup1;&Oslash;&sect;&Oslash;&ordf;
-	&Ugrave;&hellip;&Oslash;&plusmn;&Oslash;&uml;&Ugrave;&circ;&Oslash;&middot;
-	&Oslash;&uml;&Ugrave;&Dagger; &Ugrave;&Dagger;&Oslash;&plusmn;
-	&Oslash;&not;&Oslash;&sect;&Ugrave;&circ;&Ucirc;&OElig;&Oslash;&macr;&Ugrave;&dagger;&Oslash;&sect;&Ugrave;&hellip;
-	&Oslash;&plusmn;&Oslash;&sect; &Oslash;&uml;&Oslash;&uml;&Ucirc;&OElig;&Ugrave;&dagger;&Ucirc;&OElig;&Oslash;&macr;
-	</FONT>
-	</P>
-	<P ALIGN=CENTER STYLE="margin-top: 0.26cm; border: 1px solid #000000; padding: 0.37cm 0.42cm">
-	<A HREF="https://docs.google.com/forms/d/e/1FAIpQLSd2pQm8CVvGX2QCjmMZrHyUuk9ROqgthd2sabhVLVdkBLPIJA/viewform?usp=dialog" TARGET="_blank"><FONT COLOR="#7dd3fc"><SPAN STYLE="text-decoration: none"><B>Add
-	a Name<BR>&Oslash;&sect;&Ugrave;</B></SPAN></FONT><SPAN LANG="zh-CN"><FONT COLOR="#7dd3fc"><SPAN STYLE="text-decoration: none"><SPAN LANG="zh-CN"><B>&#65409;</B></SPAN></SPAN></FONT></A></SPAN><FONT COLOR="#7dd3fc"><SPAN STYLE="text-decoration: none"><B><A HREF="https://docs.google.com/forms/d/e/1FAIpQLSd2pQm8CVvGX2QCjmMZrHyUuk9ROqgthd2sabhVLVdkBLPIJA/viewform?usp=dialog" TARGET="_blank">&Oslash;&sup2;&Ugrave;&circ;&Oslash;&macr;&Ugrave;&dagger;
-	&Ugrave;&dagger;&Oslash;&sect;&Ugrave;&hellip; &acirc;&dagger;&mdash;
-	</A><A HREF="https://docs.google.com/spreadsheets/d/19IE4FLYkJ1MAvawhhZx5WEnj0xowtOIoqPIB-E-6rSU/edit?usp=sharing" TARGET="_blank">The
-	Memorial Archive<BR>&Oslash;&cent;&Oslash;&plusmn;&Oslash;&acute;&Ucirc;&OElig;&Ugrave;&circ;
-	&Oslash;&sect;&Oslash;&sup3;&Oslash;&sect;&Ugrave;&hellip;&Ucirc;&OElig;
-	&Oslash;&not;&Oslash;&sect;&Ugrave;&circ;&Ucirc;&OElig;&Oslash;&macr;&Ugrave;&dagger;&Oslash;&sect;&Ugrave;&hellip;&Oslash;&sect;&Ugrave;&dagger;
-	&acirc;&dagger;&mdash; </A></B></SPAN></FONT>
-	</P>
-	<P STYLE="margin-top: 0.05cm; border-top: 1px solid #000000; border-bottom: none; border-left: none; border-right: none; padding-top: 0.32cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm; line-height: 140%">
-	<FONT SIZE=2 STYLE="font-size: 9pt">This link opens a read-only
-	sheet in a new tab. </FONT>
-	</P>
-	<DIV ID="map" DIR="LTR">
-		<P STYLE="margin-bottom: 0cm"><BR>
-		</P>
-	</DIV>
-</DIV>
-<P><SCRIPT SRC="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></SCRIPT><SCRIPT SRC="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></SCRIPT><SCRIPT SRC="https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.js"></SCRIPT><SCRIPT SRC="script.js"></SCRIPT><BR><BR>
-</P>
-</BODY>
-</HTML>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Price of Liberty – Map</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+  <!-- MarkerCluster -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+  <!-- noUiSlider (two-handle range slider) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.css">
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+     <button id="sidebarToggle" class="sidebar-toggle" type="button" aria-expanded="true">
+       ☰
+     </button>
+      <div class="brand">The Price of Liberty بهای آزادی</div>
+      
+      <label class="label">Search</label>
+      <input id="search" type="search" placeholder="Search name / city / province…" />
+
+      <div class="section">
+        <div class="section-title">Year / سال </div>
+        <div id="yearRange"></div>
+        <div class="yearrow">
+          <span id="yearLabel">Years: —</span>
+        </div>
+      </div>
+      
+     <div class="section">
+       <div class="section-title">Age / سن </div>
+       <div id="ageRange"></div>
+       <div class="yearrow">
+         <span id="ageLabel">Ages: —</span>
+       </div>
+     </div>
+     
+     <div class="section">
+      <div class="section-title">Gender / جنسیت</div>
+      <select id="genderFilter">
+        <option value="all">All / همه </option>
+        <option value="male">Male / مرد </option>
+        <option value="female">Female / زن </option>
+      </select>
+    </div>
+    
+      <div class="section">
+        <div class="section-title">Shown</div>
+        <div id="counter">—</div>
+      </div>
+
+      <div class="hint">
+        Tip: Click a tulip marker to open the person card.<br>
+        بر روی لاله کلیک کنید تا اطلاعات مربوط به هر جاویدنام را ببینید  
+      </div> 
+       
+     <div class="section">
+      <a class="submit-link"
+         href="https://docs.google.com/forms/d/e/1FAIpQLSd2pQm8CVvGX2QCjmMZrHyUuk9ROqgthd2sabhVLVdkBLPIJA/viewform?usp=dialog"
+         target="_blank"
+         rel="noopener noreferrer">
+        Add a Name<br>
+        افزودن نام ↗
+      </a>
+
+      <a class="sheet-link"
+         href="https://docs.google.com/spreadsheets/d/19IE4FLYkJ1MAvawhhZx5WEnj0xowtOIoqPIB-E-6rSU/edit?usp=sharing"
+         target="_blank"
+         rel="noopener noreferrer">
+        The Memorial Archive<br>
+    آرشیو اسامی جاویدنامان ↗
+      </a>
+      <div class="hint" style="margin-top:2px;">
+        This link opens a read-only sheet in a new tab.
+       </div>
+      </div>
+
+   
+    </aside>
+
+    <main id="mapwrap">
+      <div id="map"></div>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.js"></script>
+
+  <script src="script.js"></script>
+</body>
+</html>
