@@ -7609,7 +7609,10 @@
         ],
         "links": [],
         "photos": [
-          "Reza Esmaeilzadeh/22.jpg"
+          "Reza Esmaeilzadeh/22.jpg",
+          "Reza Esmaeilzadeh/reza3.PNG",
+          "Reza Esmaeilzadeh/reza34.PNG",
+          "Reza Esmaeilzadeh/Reza6.PNG"
         ]
       },
       "geometry": {
@@ -39489,16 +39492,23 @@
       "properties": {
         "name_fa": "رضا اسماعیل‌زاده",
         "name_en": "Reza Esmaeilzadeh",
-        "year": null,
-        "age": null,
-        "gender": null,
+        "year": 2022,
+        "age": 29,
+        "gender": "male",
         "city": "Chaldoran",
         "province": "West Azerbaijan",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://www.aznews.tv/%D8%B1%D8%B6%D8%A7-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84-%D8%B2%D8%A7%D8%AF%D9%87-%D8%A7%D9%87%D9%84-%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%AD%D8%B1%D9%88%D9%85-%DA%86%D8%A7%D9%84//",
+          "https://www.instagram.com/p/CkRjr_HuunR/",
+          "https://www.instagram.com/p/Ck0oYgkNJ0c/"
+        ],
         "links": [],
         "photos": [
-          "Reza Esmaeilzadeh/22.jpg"
+          "Reza Esmaeilzadeh/22.jpg",
+          "Reza Esmaeilzadeh/reza3.PNG",
+          "Reza Esmaeilzadeh/reza34.PNG",
+          "Reza Esmaeilzadeh/Reza6.PNG"
         ]
       },
       "geometry": {
@@ -39583,21 +39593,42 @@
       "properties": {
         "name_fa": "رضا رسایی",
         "name_en": "Reza Resaei",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
+        "year": 2024,
+        "age": 34,
+        "gender": "male",
+        "city": "Diselabad Prison",
+        "province": "Kermanshahd",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://fa.wikipedia.org/wiki/%D8%B1%D8%B6%D8%A7_%D8%B1%D8%B3%D8%A7%DB%8C%DB%8C",
+          "https://news.mojahedin.org/i/%D9%85%D8%A7%D8%AF%D8%B1-%D8%B2%D9%86%D8%AF%D8%A7%D9%86%DB%8C-%D9%82%DB%8C%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7-%D8%B1%D8%B3%D8%A7%DB%8C%DB%8C-%D9%85%D8%B2%D8%A7%D8%B1-%D9%81%D8%B1%D8%B2%D9%86%D8%AF%D8%B4-%D8%A7%D8%B9%D8%AF%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7%DB%8C-%D8%B1%D8%B3%D8%A7%DB%8C%DB%8C-%D8%AE%D8%A7%D9%85%D9%88%D8%B4-%D8%B4%D8%AF%D9%86%DB%8C",
+          "https://www.youtube.com/watch?v=zgvH_EhgoBM",
+          "https://x.com/IranIntl/status/1820714946453180636"
+        ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Reza Resaei/01000000-0a00-0242-2082-08dc0f7b9c3e_w408_r1_s.jpg",
+          "Reza Resaei/01000000-0aff-0242-074e-08dbcc243585_w1080_h608.jpg",
+          "Reza Resaei/01000000-0aff-0242-9f3b-08dbcc234fbe_w408_r1.jpg",
+          "Reza Resaei/222.jpg",
+          "Reza Resaei/4616ce51-55ff-4c25-8fb5-fe30b31515c6.jpg",
+          "Reza Resaei/download.jpg",
+          "Reza Resaei/GCS6SmTWsAAWEi6.jpg",
+          "Reza Resaei/images33.jpg",
+          "Reza Resaei/P6ujnbmRdJpck-uo.jpg",
+          "Reza Resaei/rasaeii-300x191.jpg",
+          "Reza Resaei/Reza-R-min-1.jpg",
+          "Reza Resaei/reza-rasaei.jpg",
+          "Reza Resaei/Reza-Rasai.jpg",
+          "Reza Resaei/reza-resaei2.png",
+          "Reza Resaei/خطر_اعدام_قریب_الوقوع_رضا_رسایی_به_در_زندان_کرمانشاه_2.jpg"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.1039,
-          35.5611
+          55.5,
+          33.3
         ]
       }
     },
@@ -39606,21 +39637,32 @@
       "properties": {
         "name_fa": "رضا روزبان",
         "name_en": "Reza Ruzban",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": null,
-        "province": null,
+        "year": 2019,
+        "age": 21,
+        "gender": "male",
+        "city": "Najmabad",
+        "province": "Alborz",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://x.com/aban_khoonin/status/1881450918321000589",
+          "https://www.iranianheroes.org/post/%D9%85%D9%86-%D8%B1%D8%B6%D8%A7-%D8%B1%D9%88%D8%B2%D8%A8%D8%A7%D9%86-%D9%87%D8%B3%D8%AA%D9%85",
+          "https://www.instagram.com/p/DVQqfKTDBX3/"
+        ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Reza Ruzban/425265_de84a4a35c7042248c50b12abe60a6b7~mv2.jpg",
+          "Reza Ruzban/GhxBhADWgAIkFq1.jpg",
+          "Reza Ruzban/GhxBhqdX0AAkoUy.jpg",
+          "Reza Ruzban/GhxBhWTX0AAtf5f.jpg",
+          "Reza Ruzban/GhxBn-iXsAEPifI.jpg",
+          "Reza Ruzban/Reza Roozban.jpg"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.5,
-          33.3
+          50.5133063,
+          35.8625752
         ]
       }
     },
@@ -39794,7 +39836,7 @@
       "properties": {
         "name_fa": "زهرا لری",
         "name_en": "Zahra Lori",
-        "year": null,
+        "year": 2022,
         "age": 56,
         "gender": "female",
         "city": "Kerman",
@@ -39819,23 +39861,31 @@
       "properties": {
         "name_fa": "سالار آبتین",
         "name_en": "Salar Abtin",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": null,
-        "province": null,
+        "year": 2019,
+        "age": 26,
+        "gender": "male",
+        "city": "Tehran",
+        "province": "Tehran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://x.com/Goftaniha/status/1805812289418797336",
+          "https://www.instagram.com/reels/CzBdQpiA8cG/",
+          "https://x.com/aban_khoonin/status/1770918828932731066"
+        ],
         "links": [],
         "photos": [
+          "Salar Abtin/abain2.PNG",
+          "Salar Abtin/GJORPnaXQAAZaad.jpg",
+          "Salar Abtin/GJORPoFXcAAPmZJ.jpg",
+          "Salar Abtin/GJORPowXoAE-0zC.jpg",
           "Salar Abtin/Salar Abtin.jpg"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.5,
-          33.3
+          51.1039,
+          35.5611
         ]
       }
     },
@@ -39945,7 +39995,7 @@
         "name_en": "Sepehr Azami",
         "year": null,
         "age": 24,
-        "gender": null,
+        "gender": "male",
         "city": "Karaj",
         "province": "Alborz",
         "country": "Iran",
