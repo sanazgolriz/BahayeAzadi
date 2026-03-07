@@ -33351,16 +33351,22 @@
         "name_fa": "امیرحسین اویسی",
         "name_en": "Amir Hossein Ovaysi",
         "year": 2020,
-        "age": null,
-        "gender": null,
+        "age": 41,
+        "gender": "male",
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.ps752justice.com/"
+          "https://www.ps752justice.com/",
+          "https://www.ps752justice.com/fa/victims/amir-hossein-ovaysi/?tab=all"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Amir Hossein Ovaysi/8eb05eca-amir-hossein-ovaysi-g90.png",
+          "Amir Hossein Ovaysi/Amir-Hossein-Ovaysi.png",
+          "Amir Hossein Ovaysi/images.jpg",
+          "Amir Hossein Ovaysi/mqdefault.jpg"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -33376,16 +33382,37 @@
         "name_fa": "عسل اویسی",
         "name_en": "Asal Ovaysi",
         "year": 2020,
-        "age": null,
-        "gender": null,
+        "age": 6,
+        "gender": "female",
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.ps752justice.com/"
+          "https://www.ps752justice.com/",
+          "https://www.ps752justice.com/fa/victims/asal-ovaysi/?tab=all"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Asal Ovaysi/17e92814-asal-ovaysi-g9-300x157.png",
+          "Asal Ovaysi/1db884bb-asal-ovaysi-g02-300x157.png",
+          "Asal Ovaysi/21673ec2-asal-ovaysi-g3-300x157.png",
+          "Asal Ovaysi/408ba9af-sara_hamzeei-g2-300x157.png",
+          "Asal Ovaysi/433bf921-asal-ovaysi-g04-300x157.png",
+          "Asal Ovaysi/58e32db4-asal-ovaysi-g7-300x157.png",
+          "Asal Ovaysi/59f5a134-asal-ovaysi-g8-300x157.png",
+          "Asal Ovaysi/5c17f234-amir-hossein-ovaysi-g1-300x157.png",
+          "Asal Ovaysi/610242fc-amir-hossein-ovaysi-g3-300x157.png",
+          "Asal Ovaysi/67cf7854-asal-ovaysi-g1-300x157.png",
+          "Asal Ovaysi/8031f2bb-asal-ovaysi-g01-300x157.png",
+          "Asal Ovaysi/9fafa41d-asal-ovaysi-g0-300x157.png",
+          "Asal Ovaysi/Asal-Ovaysi.png",
+          "Asal Ovaysi/c0aad822-asal-ovaysi-g03-300x157.png",
+          "Asal Ovaysi/ca32b64b-asal-ovaysi-g5-300x157.png",
+          "Asal Ovaysi/cfb4903d-asal-ovaysi-g2-300x157.png",
+          "Asal Ovaysi/de9f52d3-asal-ovaysi-g6-300x157.png",
+          "Asal Ovaysi/f1602086-asal-ovaysi-g4-300x157.png",
+          "Asal Ovaysi/f34540c1-asal-ovaysi-g05-300x157.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -33830,16 +33857,27 @@
         "name_fa": "سارا حمزه‌ای",
         "name_en": "Sara Hamzeei",
         "year": 2020,
-        "age": null,
+        "age": 33,
         "gender": "female",
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.ps752justice.com/"
+          "https://www.ps752justice.com/",
+          "https://www.ps752justice.com/fa/victims/sara-hamzeei/?tab=all"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Sara Hamzeei/408ba9af-sara_hamzeei-g2-300x157.png",
+          "Sara Hamzeei/6161183b-amir-hossein-ovaysi-g2-300x157.png",
+          "Sara Hamzeei/80511fbb-amir-hossein-ovaysi-g4-300x157.png",
+          "Sara Hamzeei/8eb05eca-amir-hossein-ovaysi-g90-300x157.png",
+          "Sara Hamzeei/ae47cc44-amir-hossein-ovaysi-g8-300x157.png",
+          "Sara Hamzeei/d436cc8e-sara_hamzeei-g1-300x157.png",
+          "Sara Hamzeei/dba38a17-amir-hossein-ovaysi-g7-300x157.png",
+          "Sara Hamzeei/fe314cdc-amir-hossein-ovaysi-g5-300x157.png",
+          "Sara Hamzeei/Sara-Hamzeei.png"
+        ]
       },
       "geometry": {
         "type": "Point",
