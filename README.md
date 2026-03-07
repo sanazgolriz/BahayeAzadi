@@ -2,7 +2,7 @@
 
 I'm building a memorial archive to document all those who have been brutally killed by the dictatorial Islamic republic regime since 1979. My goal is to make this archive as complete as possible, so none will ever be forgotten. I deeply appreciate everyone's input and help in ensuring that every name and story is remembered.
 
-من دارم یک آرشیو یادبود می‌سازم تا همه‌ی کسانی که از سال ۱۳۵۷ به‌دست رژیم دیکتاتوری جمهوری اسلامی به‌طور وحشیانه کشته شده‌اند، ثبت کنم. هدفم این است که این آرشیو تا حد امکان کامل باشد تا هیچ‌کس فراموش نشود. از کمک و نظرات همه‌ی شما عمیقاً سپاسگزارم تا هر نام و هر داستانی به یاد سپرده شود
+من دارم یک آرشیو یادبود می‌سازم تا همه‌ی کسانی که از سال ۱۳۵۷ به‌دست رژیم دیکتاتوری جمهوری اسلامی به‌طور وحشیانه کشته شده‌اند، ثبت کنم. هدفم این است که این آرشیو تا حد امکان کامل باشد تا هیچ‌کس فراموش نشود. از کمک و نظرات همه‌ی شما عمیقاً سپاسگزارم تا جاویدنامان به یاد سپرده شود
 
 ## What this is
 A free, static site (no backend) with:
