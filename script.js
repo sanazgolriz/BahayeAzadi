@@ -53,10 +53,7 @@ function escapeHtml(s) {
 }
 
 /* =========================================================
-   IMPORTANT:
-   KEEP CURRENT PHOTOBOOK popupHtml(p) FUNCTION HERE.
-   If current popupHtml includes images + next/prev buttons,
-   paste it exactly over this placeholder function body.
+   PHOTOBOOK popupHtml(p) FUNCTION HERE.
    ========================================================= */
 function popupHtml(p) {
   const name = [p.name_en, p.name_fa].filter(Boolean).join(' / ');
@@ -163,7 +160,7 @@ function makeMarker(feature) {
     iconUrl: 'tulip_icon.svg',
     iconSize: [32, 32],
     iconAnchor: [16, 32],
-    // keep your existing popup positioning
+    // keep existing popup positioning
     popupAnchor: [0, -30]
   });
 
@@ -174,7 +171,7 @@ function makeMarker(feature) {
     keepInView: true
   });
 
-  // ✅ NEW: attach photobook button wiring when popup opens (this is the missing piece)
+  //attach photobook button wiring when popup opens
   m.on('popupopen', (e) => {
     const photos = Array.isArray(p.photos) ? p.photos.filter(Boolean) : [];
     if (!photos.length) return;

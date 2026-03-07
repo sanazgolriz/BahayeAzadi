@@ -242,7 +242,7 @@ body {
 #mapwrap { flex: 1; position: relative; }
 #map { height: 100%; width: 100%; }
 
-/* Leaflet popup look (keep your photobook CSS additions below if you already have them) */
+/* Leaflet popup look (keep photobook CSS additions below if you already have them) */
 .leaflet-popup-content-wrapper {
   background: rgba(12, 16, 22, 0.95);
   color: #e6edf3;
@@ -256,7 +256,7 @@ body {
 .popup-links a { color: #7dd3fc; text-decoration: none; }
 .popup-links a:hover { text-decoration: underline; }
 
-/* ✅ NEW: make sure photos fit inside popup nicely (won’t break your existing photobook) */
+/* ✅ NEW: make sure photos fit inside popup nicely (won’t break existing photobook) */
 .photobook .photo-frame { width: 100%; overflow: hidden; border-radius: 12px; }
 .photobook .photo-img { width: 100%; height: auto; display: block; object-fit: contain; }
 
