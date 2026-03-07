@@ -39434,6 +39434,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name_fa": "طاها صادقی",
+        "name_en": "Taha Sadeghi",
+        "year": 2026,
+        "age": 17,
+        "gender": "male",
+        "city": "Shahrak-e Andisheh",
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://www.instagram.com/reels/DUTmYDGFP1X/",
+          "https://www.iranintl.com/202602084315",
+          "https://www.instagram.com/reels/DUTEEj7EaNg/"
+        ],
+        "links": [],
+        "photos": [
+          "Taha Sadeghi/images1.jpg",
+          "Taha Sadeghi/images2.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.536847,
+          36.6789003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name_fa": "رضا اسکندرپور",
         "name_en": "Reza Eskandarpour",
         "year": 2026,
