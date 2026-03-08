@@ -49485,6 +49485,7 @@
         ],
         "links": [],
         "photos": [
+          "Sanaz Mousavi/Sanaz Mousavi.jpeg",
           "Sanaz Mousavi/Sanaz Mousavi.jpg"
         ]
       },
@@ -49782,6 +49783,7 @@
         ],
         "links": [],
         "photos": [
+          "Asal Mansouri/Asal Mansouri.jpeg",
           "Asal Mansouri/Asal Mansouri.jpg"
         ]
       },
@@ -59838,6 +59840,656 @@
         "links": [],
         "photos": [
           "Ghazaleh Sadat Hosseini/Ghazaleh Sadat Hosseini.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "فهمیه نجار عجم",
+        "name_en": "Fahimeh Najjar Ajam",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Fahimeh Najjar Ajam/Fahimeh Najjar Ajam.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "سارا عرب",
+        "name_en": "Sara Arab",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Sara Arab/Sara Arab.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ساناز موسوی",
+        "name_en": "Sanaz Mousavi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Sanaz Mousavi/Sanaz Mousavi.jpeg",
+          "Sanaz Mousavi/Sanaz Mousavi.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ساناز قره‌داغی",
+        "name_en": "Sanaz Gharedaghi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Sanaz Gharedaghi/Sanaz Gharedaghi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "سانا توسنگی",
+        "name_en": "Sana Tosangi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Sana Tosangi/Sana Tosangi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ساجده کریمی",
+        "name_en": "Sajedeh Karimi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Sajedeh Karimi/Sajedeh Karimi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مریم ابراهیمی",
+        "name_en": "Maryam Ebrahimi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Maryam Ebrahimi/Maryam Ebrahimi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ملیحه انحکانی",
+        "name_en": "Maliheh Anjakani",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Maliheh Anjakani/Maliheh Anjakani.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ساغر سیف‌اللهی",
+        "name_en": "Saghar Seifollahi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Saghar Seifollahi/Saghar Seifollahi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "رضوان عبدی",
+        "name_en": "Rezvan Abdi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Rezvan Abdi/Rezvan Abdi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ریحانه قدسی",
+        "name_en": "Reyhaneh Ghodsi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Reyhaneh Ghodsi/Reyhaneh Ghodsi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "نیوشا حمیدی",
+        "name_en": "Niusha Hamidi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Niusha Hamidi/Niusha Hamidi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "هانیه کاشانی",
+        "name_en": "Hanieh Kashani",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Hanieh Kashani/Hanieh Kashani.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "لیلا عظیمی",
+        "name_en": "Leila Azimi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Leila Azimi/Leila Azimi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "لیلا گردانی",
+        "name_en": "Leila Gardani",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Leila Gardani/Leila Gardani.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مژگان زینعلی",
+        "name_en": "Mojgan Zeinali",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Mojgan Zeinali/Mojgan Zeinali.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مریم محمد ظاهری",
+        "name_en": "Maryam Mohammad Zaheri",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Maryam Mohammad Zaheri/Maryam Mohammad Zaheri.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مریم کلاته",
+        "name_en": "Maryam Kalateh",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Maryam Kalateh/Maryam Kalateh.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "افسانه مهدی‌نژاد",
+        "name_en": "Afsaneh Mehdinejad",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Afsaneh Mehdinejad/Afsaneh Mehdinejad.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "اندیشه غریبی",
+        "name_en": "Andisheh Gharibi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Andisheh Gharibi/Andisheh Gharibi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "عسل منصوری",
+        "name_en": "Asal Mansouri",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Asal Mansouri/Asal Mansouri.jpeg",
+          "Asal Mansouri/Asal Mansouri.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "فرزانه جهان‌بخشی",
+        "name_en": "Farzaneh Jahanbakhshi",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Farzaneh Jahanbakhshi/Farzaneh Jahanbakhshi.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "فرزانه ساسانی‌پور",
+        "name_en": "Farzaneh Sasanipour",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Farzaneh Sasanipour/Farzaneh Sasanipour.jpeg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5,
+          33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "غزل دومارچلی",
+        "name_en": "Ghazal Domarcheli",
+        "year": 2026,
+        "age": null,
+        "gender": "female",
+        "city": null,
+        "province": null,
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+        ],
+        "links": [],
+        "photos": [
+          "Ghazal Domarcheli/Ghazal Domarcheli.jpeg"
         ]
       },
       "geometry": {

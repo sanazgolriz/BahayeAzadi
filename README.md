@@ -24,7 +24,7 @@ A static site with:
 ## Run locally
 Do NOT double-click index.html.
 Run a local server:
-    cd "C:\Users\sanaz\OneDrive\Documents\ThePriceofLibertyMAP"
-    python -m http.server 8000
+cd "C:\Users\sanaz\OneDrive\Documents\ThePriceofLibertyMAP"
+python -m http.server 8000
 Then open:
     http://localhost:8000
