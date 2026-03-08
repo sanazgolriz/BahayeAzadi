@@ -46526,7 +46526,7 @@
       "type": "Feature",
       "properties": {
         "name_fa": "غزل دمیرچلی",
-        "name_en": "Ghazal Demircheli",
+        "name_en": "Ghazal Domarcheli",
         "year": 2026,
         "age": 17,
         "gender": "female",
@@ -46538,7 +46538,8 @@
         ],
         "links": [],
         "photos": [
-          "Ghazal Demircheli/Ghazal Demircheli.JPG"
+          "Ghazal Domarcheli/Ghazal Demircheli.JPG",
+          "Ghazal Domarcheli/Ghazal Domarcheli.jpeg"
         ]
       },
       "geometry": {
@@ -60463,33 +60464,6 @@
         "links": [],
         "photos": [
           "Farzaneh Sasanipour/Farzaneh Sasanipour.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "غزل دومارچلی",
-        "name_en": "Ghazal Domarcheli",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Ghazal Domarcheli/Ghazal Domarcheli.jpeg"
         ]
       },
       "geometry": {
