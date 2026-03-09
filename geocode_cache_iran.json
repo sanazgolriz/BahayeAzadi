@@ -2706,5 +2706,17 @@
   "shahrak valiasr, iran": [
     37.5433842,
     45.0048258
+  ],
+  "mohamadiye qazvin, qazvin, iran": [
+    36.2634343,
+    50.0053347
+  ],
+  "meshkin dasht karaj, alborz, iran": [
+    null,
+    null
+  ],
+  "meshkin dasht karaj, iran": [
+    null,
+    null
   ]
 }
