@@ -3638,9 +3638,25 @@
         "city": "Shadabad",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://www.iranintl.com/202601253497",
+          "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+          "https://www.instagram.com/reels/DUVaJw8D40V/",
+          "https://www.instagram.com/reels/DUs_YVQE6Hp/"
+        ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Yazdan Afroogh/2222.jpg",
+          "Yazdan Afroogh/G_gfBT3WkAM99lA.jpg",
+          "Yazdan Afroogh/images.jpg",
+          "Yazdan Afroogh/images2.jpg",
+          "Yazdan Afroogh/images22.jpg",
+          "Yazdan Afroogh/ya3.PNG",
+          "Yazdan Afroogh/ya4.PNG",
+          "Yazdan Afroogh/ya55.PNG",
+          "Yazdan Afroogh/yazadan.PNG",
+          "Yazdan Afroogh/yazdan2.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3681,12 +3697,16 @@
         "name_fa": "یاسین الهی",
         "name_en": "Yassin Elahi",
         "year": 2026,
-        "age": 18,
+        "age": 17,
         "gender": "male",
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://kolbarnews.com/190120261112-2/",
+          "https://www.instagram.com/reels/DUe7oYjiOrK/",
+          "https://www.instagram.com/reels/DT5Jt7slN1z/"
+        ],
         "links": [],
         "photos": []
       },
@@ -3867,15 +3887,23 @@
       "properties": {
         "name_fa": "یاسر جعفری",
         "name_en": "Yaser Jaefari",
-        "year": null,
-        "age": null,
+        "year": 2022,
+        "age": 31,
         "gender": "male",
         "city": "Ilam",
         "province": "Ilam",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+          "https://acmiran.net/about/doc/152-killeds",
+          "https://www.iranglobal.info/fa/node/181138",
+          "https://www.instagram.com/p/CmrYM7du95E/"
+        ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Yaser Jaefari/Yaser Ja.jpg",
+          "Yaser Jaefari/yaser.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4794,16 +4822,29 @@
       "type": "Feature",
       "properties": {
         "name_fa": "میلاد معظمی گودرزی",
-        "name_en": "Mild Moazami Godarzi",
-        "year": 2024,
-        "age": null,
+        "name_en": "Milad Moazami Godarzi",
+        "year": 2026,
+        "age": 28,
         "gender": "male",
         "city": "Kerman",
         "province": "Kerman",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
+        "sources": [
+          "https://www.instagram.com/p/DVIphzwjMJA/",
+          "https://x.com/seven777sevennn/status/2018687443596104105",
+          "https://www.instagram.com/p/DUEGuS8CCtK/?hl=en",
+          "https://www.instagram.com/p/DURCZyFiIdB/"
+        ],
+        "links": [
+          "https://www.instagram.com/p/DU5lDljgrnf/"
+        ],
+        "photos": [
+          "Milad Moazami Godarzi/as2.PNG",
+          "Milad Moazami Godarzi/HANa4JBWUAEemKy.jpg",
+          "Milad Moazami Godarzi/Milad1.PNG",
+          "Milad Moazami Godarzi/Milad2.PNG",
+          "Milad Moazami Godarzi/milad3.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4971,6 +5012,38 @@
         "coordinates": [
           60.8629,
           29.4963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "سارا دلدار",
+        "name_en": "Sara Deldar",
+        "year": 2024,
+        "age": 34,
+        "gender": "female",
+        "city": "Rasht",
+        "province": "Gilan",
+        "country": "Iran",
+        "sources": [
+          "https://iranwire.com/fa/news-1/133740-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%D9%87%D8%A7-%D8%A7%D8%B2-%D8%AC%D8%A7%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA%D9%86-%D8%B3%D8%A7%D8%B1%D8%A7-%D8%AF%D9%84%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1-%D8%A7%D8%AB%D8%B1-%D8%B9%D9%81%D9%88%D9%86%D8%AA-%D9%86%D8%A7%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%B3%D8%A7%DA%86%D9%85%D9%87/",
+          "https://www.bbc.com/persian/articles/czdp994lng1o",
+          "https://www.iranintl.com/202409106554"
+        ],
+        "links": [
+          "https://www.instagram.com/iranrevolutionplus/p/C_rTRjfISQ_/"
+        ],
+        "photos": [
+          "Sara Deldar/Sara1.PNG",
+          "Sara Deldar/Sara12.PNG"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5832,
+          37.2808
         ]
       }
     },
@@ -6752,23 +6825,36 @@
       "properties": {
         "name_fa": "مهسا زرین چنگ",
         "name_en": "Mahsa Zarrin Chang",
-        "year": null,
-        "age": null,
+        "year": 2022,
+        "age": 32,
         "gender": "female",
-        "city": null,
-        "province": null,
+        "city": "Ilam",
+        "province": "Ilam",
         "country": "Iran",
-        "sources": [],
-        "links": [],
+        "sources": [
+          "https://stopfemicideiran.org/fa/%D9%85%D8%B1%DA%AF-%D9%85%D8%B4%DA%A9%D9%88%DA%A9-%D9%81%D8%B9%D8%A7%D9%84-%D9%85%D8%AF%D9%86%DB%8C-%D9%88-%D9%88%D8%B1%D8%B2%D8%B4%DA%A9%D8%A7%D8%B1-%D9%85%D9%87%D8%B3%D8%A7-%D8%B2%D8%B1%DB%8C%D9%86/",
+          "https://www.instagram.com/reels/DJIE1HjAkQ4/",
+          "https://www.instagram.com/p/CvlOVmZPHBb/",
+          "https://jinhaagency.com/fa/rwzanh/mrg-mshkwk-mhsa-zryn-chng-wrzshkar-w-fal-mdny-dr-artfaat-shhr-thran-37958"
+        ],
+        "links": [
+          "https://x.com/Goftaniha/status/1768679034844565548"
+        ],
         "photos": [
-          "Mahsa Zarrin Chang/Mahsa Zarrin Chang.jpg"
+          "Mahsa Zarrin Chang/20230501-photo-2023-05-01-16-40-50-jpg6816bb-image.jpg",
+          "Mahsa Zarrin Chang/download.jpg",
+          "Mahsa Zarrin Chang/GIucNP-X0AEWtNG.jpg",
+          "Mahsa Zarrin Chang/images.jpg",
+          "Mahsa Zarrin Chang/mahsa 4.PNG",
+          "Mahsa Zarrin Chang/Mahsa Zarrin Chang.jpg",
+          "Mahsa Zarrin Chang/mahsa3.PNG"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.5,
-          33.3
+          46.4227,
+          33.6374
         ]
       }
     },
@@ -43096,7 +43182,10 @@
           "https://iranhrs.org/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D9%88-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%DB%B6%DB%B6%DB%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%A7%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA/"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Yaser Jaefari/Yaser Ja.jpg",
+          "Yaser Jaefari/yaser.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -46524,7 +46613,18 @@
           "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Yazdan Afroogh/2222.jpg",
+          "Yazdan Afroogh/G_gfBT3WkAM99lA.jpg",
+          "Yazdan Afroogh/images.jpg",
+          "Yazdan Afroogh/images2.jpg",
+          "Yazdan Afroogh/images22.jpg",
+          "Yazdan Afroogh/ya3.PNG",
+          "Yazdan Afroogh/ya4.PNG",
+          "Yazdan Afroogh/ya55.PNG",
+          "Yazdan Afroogh/yazadan.PNG",
+          "Yazdan Afroogh/yazdan2.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -58293,7 +58393,12 @@
         "links": [
           "https://www.youtube.com/watch?v=LUCCvOcvvU8"
         ],
-        "photos": []
+        "photos": [
+          "Yasin Elahi/8030_w1280.jpg",
+          "Yasin Elahi/images2.jpg",
+          "Yasin Elahi/images4.jpg",
+          "Yasin Elahi/photo_2026-01-19-18.52.41-1024x562.jpg"
+        ]
       },
       "geometry": {
         "type": "Point",
