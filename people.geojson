@@ -381,7 +381,8 @@
         "country": "Iran",
         "sources": [
           "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%DA%A9%D8%AA%D8%A7_%D8%A7%D8%B3%D9%81%D9%86%D8%AF%D8%A7%D9%86%DB%8C",
-          "https://javidnam.com/javidnam/nikta_esfandani"
+          "https://javidnam.com/javidnam/nikta_esfandani",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
@@ -67015,31 +67016,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "نیکتا اسفندانی",
-        "name_en": "Nikita Esfandani",
-        "year": 2019,
-        "age": 14,
-        "gender": null,
-        "city": "Tehran",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "هادی قربانی",
         "name_en": "Hadi Ghorbani",
         "year": 2019,
@@ -67121,36 +67097,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "کانون حقوق بشر ایران",
-        "name_en": "Kanun Hoghough-e Bashar-e Iran",
-        "year": 2019,
-        "age": null,
-        "gender": null,
-        "city": "Kilan",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.1684289,
-          35.5505069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "گلناز صمصامی",
         "name_en": "Golnaz Samsami",
         "year": 2019,
         "age": null,
-        "gender": null,
+        "gender": "female",
         "city": "Shahriar",
         "province": null,
         "country": "Iran",
@@ -67175,7 +67126,7 @@
         "name_en": "Yasin Ramazannejad Dehka",
         "year": 2019,
         "age": 34,
-        "gender": null,
+        "gender": "male",
         "city": "Qaleh Hasan Khan Tehran",
         "province": null,
         "country": "Iran",
@@ -67200,7 +67151,7 @@
         "name_en": "Yaghoub Najafi Babadi",
         "year": 2019,
         "age": null,
-        "gender": null,
+        "gender": "male",
         "city": "Isfahan",
         "province": null,
         "country": "Iran",
@@ -67225,7 +67176,7 @@
         "name_en": "Yousef Albuabadi",
         "year": 2019,
         "age": null,
-        "gender": null,
+        "gender": "male",
         "city": "Mahshahr",
         "province": null,
         "country": "Iran",
@@ -67250,7 +67201,7 @@
         "name_en": "Hamidreza Ghabooli",
         "year": 2019,
         "age": 19,
-        "gender": null,
+        "gender": "male",
         "city": "Tehran",
         "province": null,
         "country": "Iran",
@@ -67265,6 +67216,34 @@
         "coordinates": [
           51.1039,
           35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "سارینا شیری",
+        "name_en": "Sarina Shiri",
+        "year": 2022,
+        "age": 18,
+        "gender": "female",
+        "city": "Javanrud",
+        "province": "Kermanshah",
+        "country": "Iran",
+        "sources": [
+          "https://wncri.org/fa/%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7-%D8%B4%DB%8C%D8%B1%DB%8C/",
+          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86?utm_source=chatgpt.com"
+        ],
+        "links": [],
+        "photos": [
+          "Sarina Shiri/Sarian-Shiri-min-750x375.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4939,
+          34.8058
         ]
       }
     }
