@@ -2858,5 +2858,609 @@
   "qaleh hasan khan tehran, iran": [
     null,
     null
+  ],
+  "yaftabad tehran, tehran, iran": [
+    35.6612358,
+    51.3421551
+  ],
+  "nurabad, lorestan, iran": [
+    34.07252,
+    47.9730368
+  ],
+  "yazdanshahr, najafabad, iran": [
+    32.6307826,
+    51.3064849
+  ],
+  "hamadan, hamadan, iran": [
+    34.7992888,
+    48.5152464
+  ],
+  "chenaran, razavi khorasan, iran": [
+    36.6483961,
+    59.1185005
+  ],
+  "malard, alborz, iran": [
+    35.7803328,
+    51.0060792
+  ],
+  "neyshabur, razavi khorasan, iran": [
+    36.2105604,
+    58.7922291
+  ],
+  "darreh derij, kermanshah, iran": [
+    null,
+    null
+  ],
+  "darreh derij, iran": [
+    null,
+    null
+  ],
+  "bandar abbas, hormozgan, iran": [
+    27.1901938,
+    56.2842212
+  ],
+  "zarneh, ilam, iran": [
+    33.928499,
+    46.1826201
+  ],
+  "haft-hoz, tehran, iran": [
+    35.819107,
+    51.3805536
+  ],
+  "borujerd, lorestan, iran": [
+    33.8937669,
+    48.7560382
+  ],
+  "badreh, ilam, iran": [
+    33.3060497,
+    47.0385999
+  ],
+  "rostamabad, gilan, iran": [
+    null,
+    null
+  ],
+  "rostamabad, iran": [
+    31.1787888,
+    49.6480081
+  ],
+  "rasht / bandar anzali, gilan, iran": [
+    37.4554104,
+    49.553012
+  ],
+  "chalus, mazandaran, iran": [
+    36.6506329,
+    51.4223717
+  ],
+  "bojnourd, north khorasan, iran": [
+    37.4759752,
+    57.3319881
+  ],
+  "afsarieh, tehran, iran": [
+    35.6523159,
+    51.4930224
+  ],
+  "shahroud, semnan, iran": [
+    36.4195026,
+    54.9649915
+  ],
+  "piroozi, tehran, iran": [
+    35.6908955,
+    51.4679657
+  ],
+  "chenar shahijan, fars, iran": [
+    null,
+    null
+  ],
+  "chenar shahijan, iran": [
+    null,
+    null
+  ],
+  "astaneh-ye ashrafieh, gilan, iran": [
+    37.2627568,
+    49.9438901
+  ],
+  "asadabad, hamadan, iran": [
+    34.7825885,
+    48.1217832
+  ],
+  "talesh, gilan, iran": [
+    37.7974981,
+    48.904184
+  ],
+  "baghershahr, tehran, iran": [
+    null,
+    null
+  ],
+  "baghershahr, iran": [
+    null,
+    null
+  ],
+  "qir, fars, iran": [
+    28.482802,
+    53.0357558
+  ],
+  "naziabad, tehran, iran": [
+    null,
+    null
+  ],
+  "naziabad, iran": [
+    null,
+    null
+  ],
+  "marlik, karaj, iran": [
+    null,
+    null
+  ],
+  "baharistan, isfahan, iran": [
+    null,
+    null
+  ],
+  "baharistan, iran": [
+    null,
+    null
+  ],
+  "yazd, yazd, iran": [
+    31.9052223,
+    54.3701235
+  ],
+  "dolatabad, tehran, iran": [
+    null,
+    null
+  ],
+  "dolatabad, iran": [
+    32.803716,
+    51.69628
+  ],
+  "chaf, gilan, iran": [
+    37.383419,
+    50.1103094
+  ],
+  "gohardasht, karaj, iran": [
+    35.8530698,
+    50.9762339
+  ],
+  "fars, karaj, iran": [
+    35.9194138,
+    50.9936534
+  ],
+  "mah, tehran, iran": [
+    35.681911,
+    52.3531504
+  ],
+  "sedeh, isfahan, iran": [
+    32.3783604,
+    51.3148844
+  ],
+  "shahinshahr, isfahan, iran": [
+    32.8604273,
+    51.5273149
+  ],
+  "esfarayen, north khorasan, iran": [
+    37.0750975,
+    57.5096169
+  ],
+  "golshahr, karaj, iran": [
+    35.8249517,
+    50.9329176
+  ],
+  "yaftabad, tehran, iran": [
+    35.6612358,
+    51.3421551
+  ],
+  "ab pakhsh, dashtestan, iran": [
+    29.3604336,
+    51.0713656
+  ],
+  "bandar genaveh, bushehr, iran": [
+    null,
+    null
+  ],
+  "bandar genaveh, iran": [
+    null,
+    null
+  ],
+  "rumeshkan, lorestan, iran": [
+    33.2560225,
+    47.4355913
+  ],
+  "andarzgoo, tehran, iran": [
+    35.7994326,
+    51.449525
+  ],
+  "fereydunkenar, mazandaran, iran": [
+    36.6830883,
+    52.5217808
+  ],
+  "nezamabad, tehran, iran": [
+    35.7184215,
+    51.4642016
+  ],
+  "kerend-e gharb, kermanshah, iran": [
+    34.2827909,
+    46.2436869
+  ],
+  "manjil, gilan, iran": [
+    36.7448499,
+    49.4000305
+  ],
+  "vilashahr, najafabad, iran": [
+    null,
+    null
+  ],
+  "vilashahr, iran": [
+    36.336077,
+    59.4367866
+  ],
+  "ab pakhsh, bushehr, iran": [
+    29.3604336,
+    51.0713656
+  ],
+  "kelachay, gilan, iran": [
+    37.0769158,
+    50.3971953
+  ],
+  "azimieh, karaj, iran": [
+    35.8375094,
+    51.0188006
+  ],
+  "saeedabad, shahriar, iran": [
+    null,
+    null
+  ],
+  "saeedabad, iran": [
+    36.0371243,
+    49.8168368
+  ],
+  "ansheh, karaj, iran": [
+    null,
+    null
+  ],
+  "ansheh, iran": [
+    null,
+    null
+  ],
+  "qaemieh, kuhchenar, iran": [
+    null,
+    null
+  ],
+  "qaemieh, iran": [
+    35.5296778,
+    51.2236417
+  ],
+  "marivan, kurdistan, iran": [
+    35.5219063,
+    46.1758889
+  ],
+  "chamestan, mazandaran, iran": [
+    36.4773762,
+    52.1167325
+  ],
+  "golestan, saveh road, iran": [
+    null,
+    null
+  ],
+  "mohammadshahr, karaj, iran": [
+    35.7527246,
+    50.9039864
+  ],
+  "nazabad, tehran, iran": [
+    35.794711,
+    51.5326078
+  ],
+  "baghbahadoran, isfahan, iran": [
+    null,
+    null
+  ],
+  "baghbahadoran, iran": [
+    null,
+    null
+  ],
+  "lowshan, gilan, iran": [
+    36.6279334,
+    49.5162305
+  ],
+  "zicheh, mobarakeh, iran": [
+    null,
+    null
+  ],
+  "zicheh, iran": [
+    null,
+    null
+  ],
+  "mobarakeh, iran": [
+    32.3424135,
+    51.5046633
+  ],
+  "firuzabad, rask, iran": [
+    null,
+    null
+  ],
+  "firuzabad, iran": [
+    28.845604,
+    52.5727236
+  ],
+  "shahrak-e valiasr, tehran, iran": [
+    null,
+    null
+  ],
+  "shahrak-e valiasr, iran": [
+    35.0062768,
+    50.3642754
+  ],
+  "bijar, kurdistan, iran": [
+    35.8721066,
+    47.600064
+  ],
+  "qasr-e shirin, kermanshah, iran": [
+    34.515594,
+    45.5800155
+  ],
+  "dansfahan, qazvin, iran": [
+    null,
+    null
+  ],
+  "dansfahan, iran": [
+    null,
+    null
+  ],
+  "golchin, tehran, iran": [
+    35.6535839,
+    51.3672088
+  ],
+  "farrokhshahr, chaharmahal and bakhtiari, iran": [
+    32.2732354,
+    50.9836849
+  ],
+  "kaj square, tehran, iran": [
+    35.7816063,
+    51.374782
+  ],
+  "tehransar, tehran, iran": [
+    35.6942692,
+    51.2558471
+  ],
+  "ferdowsi, shahriar, iran": [
+    null,
+    null
+  ],
+  "ferdowsi, iran": [
+    29.6233476,
+    52.5385093
+  ],
+  "qaleh hasan khan, tehran, iran": [
+    null,
+    null
+  ],
+  "qaleh hasan khan, iran": [
+    null,
+    null
+  ],
+  "shazand, markazi, iran": [
+    33.9293155,
+    49.4070049
+  ],
+  "aligudarz, lorestan, iran": [
+    33.4035124,
+    49.6921874
+  ],
+  "boldaji, chaharmahal and bakhtiari, iran": [
+    31.9365711,
+    51.0513348
+  ],
+  "sedeh, lenjan, iran": [
+    32.3783604,
+    51.3148844
+  ],
+  "pareh sar, gilan, iran": [
+    37.6026842,
+    49.0656917
+  ],
+  "shahrekord, chaharmahal and bakhtiari, iran": [
+    32.2939401,
+    50.8398898
+  ],
+  "chermahin, lenjan, iran": [
+    32.3333972,
+    51.1898097
+  ],
+  "shahin vila, karaj, iran": [
+    35.8527306,
+    50.9523211
+  ],
+  "nurabad, mamasani, iran": [
+    30.1154071,
+    51.5229633
+  ],
+  "haft, mashhad, iran": [
+    36.3277382,
+    59.5004042
+  ],
+  "babameydan, fars, iran": [
+    null,
+    null
+  ],
+  "babameydan, iran": [
+    null,
+    null
+  ],
+  "golpayegan, isfahan, iran": [
+    33.456488,
+    50.2883303
+  ],
+  "mahmeh, qazvin, iran": [
+    null,
+    null
+  ],
+  "mahmeh, iran": [
+    null,
+    null
+  ],
+  "soudarjan, isfahan, iran": [
+    null,
+    null
+  ],
+  "soudarjan, iran": [
+    null,
+    null
+  ],
+  "shahrak-e ansheh, tehran, iran": [
+    null,
+    null
+  ],
+  "shahrak-e ansheh, iran": [
+    null,
+    null
+  ],
+  "mahallat, markazi, iran": [
+    33.9060573,
+    50.4526427
+  ],
+  "nazarabad, alborz, iran": [
+    35.9558897,
+    50.6097443
+  ],
+  "golsar, rasht, iran": [
+    37.3024357,
+    49.58757
+  ],
+  "sar asiab, karaj, iran": [
+    null,
+    null
+  ],
+  "sar asiab, iran": [
+    34.3063889,
+    58.4341667
+  ],
+  "shahrak-e vahdat, hashtgerd, iran": [
+    null,
+    null
+  ],
+  "shahrak-e vahdat, iran": [
+    null,
+    null
+  ],
+  "se-rah-e simin, isfahan, iran": [
+    null,
+    null
+  ],
+  "se-rah-e simin, iran": [
+    null,
+    null
+  ],
+  "gilan, gilan, iran": [
+    37.4731389,
+    49.4623667
+  ],
+  "ayatollah kashani st., tehran, iran": [
+    null,
+    null
+  ],
+  "ayatollah kashani st., iran": [
+    36.3040196,
+    59.6062854
+  ],
+  "moshirieh, tehran, iran": [
+    35.624493,
+    51.4796751
+  ],
+  "ahmadabad, mashhad, iran": [
+    36.2325705,
+    59.884489
+  ],
+  "vakilabad, mashhad, iran": [
+    36.3450952,
+    59.4421504
+  ],
+  "tous blvd., mashhad, iran": [
+    null,
+    null
+  ],
+  "tous blvd., iran": [
+    null,
+    null
+  ],
+  "saadatabad, tehran, iran": [
+    null,
+    null
+  ],
+  "saadatabad, iran": [
+    29.9933556,
+    52.3704707
+  ],
+  "kuhchenar, fars, iran": [
+    null,
+    null
+  ],
+  "kuhchenar, iran": [
+    null,
+    null
+  ],
+  "qarchak, tehran, iran": [
+    35.4421824,
+    51.5697005
+  ],
+  "khazaneh, tehran, iran": [
+    35.6407457,
+    51.4204924
+  ],
+  "rudbar, gilan, iran": [
+    36.8219055,
+    49.4268249
+  ],
+  "hor square, tehran, iran": [
+    35.6881807,
+    51.392845
+  ],
+  "malayer, hamadan, iran": [
+    34.2922623,
+    48.8215749
+  ],
+  "rostamkola, mazandaran, iran": [
+    36.6805079,
+    53.4268953
+  ],
+  "nahavand, hamadan, iran": [
+    34.1896877,
+    48.3716218
+  ],
+  "zirab, savadkuh, iran": [
+    36.1797175,
+    52.9770067
+  ],
+  "towhid, qazvin, iran": [
+    null,
+    null
+  ],
+  "towhid, iran": [
+    33.728139,
+    47.0678839
+  ],
+  "zibashahr, qazvin, iran": [
+    36.2151843,
+    50.1770325
+  ],
+  "kahrizsang, isfahan, iran": [
+    null,
+    null
+  ],
+  "kahrizsang, iran": [
+    null,
+    null
+  ],
+  "shahrak-e ansheh, alborz, iran": [
+    null,
+    null
+  ],
+  "shirvan, north khorasan, iran": [
+    37.3964405,
+    57.9303523
+  ],
+  "ashtarjan, falavarjan, iran": [
+    null,
+    null
+  ],
+  "ashtarjan, iran": [
+    null,
+    null
   ]
 }
