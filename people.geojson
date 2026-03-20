@@ -44520,7 +44520,9 @@
         "city": "Fereydoon Kenar",
         "province": "Mazandaran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "links": [],
         "photos": []
       },
@@ -44529,34 +44531,6 @@
         "coordinates": [
           52.5265,
           36.6858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "خسرو اسدی کناری",
-        "name_en": "Khsru Asadi Knari",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Fereydunkenar",
-        "province": "Mazandaran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Khsru Asadi Knari/Khsru Asadi Knari.jpg",
-          "Khsru Asadi Knari/Khsru Asadi Knari_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.5217808,
-          36.6830883
         ]
       }
     },
