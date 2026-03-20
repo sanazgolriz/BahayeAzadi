@@ -32,6 +32,31 @@
     {
       "type": "Feature",
       "properties": {
+        "name_fa": "بهروز منصوری",
+        "name_en": "Behrouz Mansouri",
+        "year": 2026,
+        "age": null,
+        "gender": null,
+        "city": "Bushehr",
+        "province": "Bushehr",
+        "country": "Iran",
+        "sources": [
+          "https://t.me/RememberTheirNames/"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8203,
+          28.9234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name_fa": "پریماه نیک‌ پرور",
         "name_en": "Parimah Nikparvar",
         "year": 2026,
@@ -367,10 +392,11 @@
         "year": 2026,
         "age": 20,
         "gender": "male",
-        "city": "Karaj",
+        "city": "Fardis Karaj",
         "province": "Alborz",
         "country": "Iran",
         "sources": [
+          "https://t.me/RememberTheirNames/",
           "https://www.instagram.com/p/DVS7nzzjZZP/"
         ],
         "links": [],
@@ -382,37 +408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آراد قاسمی",
-        "name_en": "Arad Ghasemi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Fardis",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Arad Ghasemi/Arad Ghasemi.jpg",
-          "Arad Ghasemi/Arad Ghasemi.PNG"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9796,
-          35.7247
+          51.0091955,
+          35.7557008
         ]
       }
     },
@@ -491,7 +488,7 @@
         "name_fa": "آرتین خواجوی‌نیا",
         "name_en": "Artin Khajouei-Nia",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Qaleh Hasan Khan",
         "province": "Tehran",
@@ -575,7 +572,7 @@
         "name_fa": "آرزو مدنی",
         "name_en": "Arezou Madani",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": "female",
         "city": null,
         "province": null,
@@ -663,7 +660,7 @@
         "name_fa": "آرش (مجید) بهفر",
         "name_en": "Arash (Majid) Behfar",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Nezamabad",
         "province": "Tehran",
@@ -719,7 +716,7 @@
         "name_fa": "آرش احمدوند",
         "name_en": "Arash Ahmadvand",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": "Tehran",
         "province": "Tehran",
@@ -747,7 +744,7 @@
         "name_fa": "آرش ایوبی",
         "name_en": "Arash Ayoubi",
         "year": 2019,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": null,
         "province": "Tehran",
@@ -772,7 +769,7 @@
         "name_fa": "آرش بهشتی",
         "name_en": "Arash Beheshti",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": "Haft-e Hoz",
         "province": "Tehran",
@@ -867,7 +864,7 @@
         "name_fa": "آرش حسنی",
         "name_en": "Arash Hasani",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": "Bandar Anzali",
         "province": "Gilan",
@@ -895,7 +892,7 @@
         "name_fa": "آرش رحیمی",
         "name_en": "Arash Rahimi",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": "Pirouzi (Tehran)",
         "province": "Tehran",
@@ -974,7 +971,7 @@
         "name_fa": "آرش طلوع شیخ‌زاده",
         "name_en": "Arash Tolou Sheikhzadeh",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": null,
         "province": null,
@@ -1034,40 +1031,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "آرش عسگری",
-        "name_en": "Arash Asgari",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Arash Asgari/623777732_18526173634066210_2016808421349194155_n.jpg",
-          "Arash Asgari/Arash Asgari.jpg",
-          "Arash Asgari/Arash Asgari_.jpg",
-          "Arash Asgari/Arash.PNG"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "آرش قریشی",
         "name_en": "Arash Qoreishi",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": "Eslamshahr",
         "province": "Tehran",
@@ -1156,7 +1123,7 @@
         "name_fa": "آرش ملکشاهی",
         "name_en": "Arash Malekshahi",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Gorgan",
         "province": "Golestan",
@@ -1184,7 +1151,7 @@
         "name_fa": "آرش موسی‌زاده",
         "name_en": "Arash Mousazadeh",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Pirouzi",
         "province": "Tehran",
@@ -1242,7 +1209,7 @@
         "name_fa": "آرشان قاسمی",
         "name_en": "Arshan Ghasemi",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Haft Hoz",
         "province": "Tehran",
@@ -1270,7 +1237,7 @@
         "name_fa": "آرلن سرکیسیان",
         "name_en": "Arlen Sarkisian",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Takht-e Tavous (Tehran)",
         "province": "Tehran",
@@ -1353,7 +1320,7 @@
         "name_fa": "آرمان باقری",
         "name_en": "Arman Bagheri",
         "year": null,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": "Hengam",
         "province": "Tehran",
@@ -1406,7 +1373,7 @@
         "name_fa": "آرمان حاجی‌یوسفی",
         "name_en": "Arman Hajiyousefi",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": null,
         "city": "Arak",
         "province": "Markazi",
@@ -1734,44 +1701,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "آرمین جشن‌نژاد",
-        "name_en": "Behnam Kashani",
-        "year": 2026,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b26"
-        ],
-        "links": [],
-        "photos": [
-          "Behnam Kashani/Behnam Kashani.jpg",
-          "Behnam Kashani/Behnam Kashani_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "آرمین جشنی‌نژاد",
         "name_en": "Armin Jashninejad",
         "year": 2026,
         "age": null,
-        "gender": null,
+        "gender": "male",
         "city": "Mahshahr",
         "province": "Khuzestan",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b26"
         ],
         "links": [],
         "photos": [
@@ -1855,7 +1795,9 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.youtube.com/watch?v=-W4VfDNi2_o"
+          "https://www.youtube.com/watch?v=-W4VfDNi2_o",
+          "https://www.youtube.com/watch?v=BQfIpuHXUow",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": []
@@ -1865,62 +1807,6 @@
         "coordinates": [
           51.3896004,
           35.6892523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمین سلطان‌محمدی",
-        "name_en": "Armin Soltanmohammadi",
-        "year": 2026,
-        "age": 25,
-        "gender": null,
-        "city": "Tehranpars",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://www.youtube.com/watch?v=BQfIpuHXUow"
-        ],
-        "links": [],
-        "photos": [
-          "Armin Soltanmohammadi/Armin Soltanmohammadi.jpg",
-          "Armin Soltanmohammadi/Armin Soltanmohammadi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5259,
-          35.7446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمین سلطان‌محمدی",
-        "name_en": "Armin Soltanmohammadi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Armin Soltanmohammadi/Armin Soltanmohammadi.jpg",
-          "Armin Soltanmohammadi/Armin Soltanmohammadi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
         ]
       }
     },
@@ -1982,43 +1868,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "آرمین عسکری",
-        "name_en": "Armin Skri",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Isfahan",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Armin Skri/Armin Skri.jpg",
-          "Armin Skri/Armin Skri_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "آرمین عسگری",
         "name_en": "Armin Asgari",
         "year": 2026,
         "age": 36,
         "gender": "male",
         "city": "ShahinShahr",
-        "province": null,
+        "province": "Isfahan",
         "country": "Iran",
         "sources": [
+          "https://t.me/RememberTheirNames/",
           "https://www.instagram.com/p/DVQdmpfAdiq/"
         ],
         "links": [
@@ -2350,7 +2209,9 @@
         "city": "Aryashahr",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "links": [],
         "photos": []
       },
@@ -2359,34 +2220,6 @@
         "coordinates": [
           51.3148,
           35.7219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آریا آرین‌خو",
-        "name_en": "Aria Ariankhoo",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Yousefabad",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Aria Ariankhoo/Aria Ariankhoo.jpg",
-          "Aria Ariankhoo/Aria Ariankhoo_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
         ]
       }
     },
@@ -3007,7 +2840,8 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
@@ -3021,35 +2855,6 @@
         "coordinates": [
           50.9796,
           35.7247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آزاده ضربی",
-        "name_en": "Azadeh Zarbi",
-        "year": 2019,
-        "age": 28,
-        "gender": null,
-        "city": "Shahriar",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Azadeh Zarbi/222.jpg",
-          "Azadeh Zarbi/434.jpg",
-          "Azadeh Zarbi/Azadeh Zarbi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.059,
-          35.659
         ]
       }
     },
@@ -3473,70 +3278,17 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b44"
-        ],
-        "links": [],
-        "photos": [
-          "Aida Heydari/Aida Heydari.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آیدا حیدری",
-        "name_en": "Aida Heydari",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Aida Heydari/Aida Heydari.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آیدا حیدری",
-        "name_en": "Aida Heidari",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b44",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Aida Heidari/Aida Heidari.jpg",
-          "Aida Heidari/Aida Heidari_.jpg"
+          "Aida Heydari/Aida Heydari.jpeg"
         ]
       },
       "geometry": {
@@ -3801,96 +3553,15 @@
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Aynaz Rahimi/Aynaz Rahimi.jpeg",
-          "Aynaz Rahimi/Aynaz Rahimi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3668,
-          32.6344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آیناز رحیمی",
-        "name_en": "Aynaz Rahimi",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Aynaz Rahimi/Aynaz Rahimi.jpeg",
-          "Aynaz Rahimi/Aynaz Rahimi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آیناز رحیمی",
-        "name_en": "Ainaz Rahimi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Najafabad",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Ainaz Rahimi/Ainaz Rahimi.jpg",
-          "Ainaz Rahimi/Ainaz Rahimi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3668,
-          32.6344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آیناز رحیمی",
-        "name_en": "Ainaz Rahimi",
-        "year": 2026,
-        "age": 13,
-        "gender": "female",
-        "city": "Najafabad",
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
+          "https://t.me/RememberTheirNames/",
           "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b45"
         ],
         "links": [],
         "photos": [
-          "Ainaz Rahimi/Ainaz Rahimi.jpg",
-          "Ainaz Rahimi/Ainaz Rahimi_.jpg"
+          "Aynaz Rahimi/Aynaz Rahimi.jpeg",
+          "Aynaz Rahimi/Aynaz Rahimi.jpg"
         ]
       },
       "geometry": {
@@ -4256,7 +3927,8 @@
         "province": null,
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -4268,34 +3940,6 @@
         "coordinates": [
           49.5832,
           37.2808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ابراهیم قیومی",
-        "name_en": "Ebrahim Ghyvmi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Rasht / Bandar Anzali",
-        "province": "Gilan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Ebrahim Ghyvmi/Ebrahim Ghyvmi.jpg",
-          "Ebrahim Ghyvmi/Ebrahim Ghyvmi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.553012,
-          37.4554104
         ]
       }
     },
@@ -4863,35 +4507,8 @@
         "name_fa": "ابوالفضل آذرم",
         "name_en": "Abolfazl Azarm",
         "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Abolfazl Azarm/Abolfazl Azarm.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ابوالفضل آذرم",
-        "name_en": "Abolfazl Azarm",
-        "year": 2019,
         "age": 30,
-        "gender": null,
+        "gender": "male",
         "city": "Shahrak-e Andisheh",
         "province": null,
         "country": "Iran",
@@ -4979,7 +4596,8 @@
         "province": "Markazi",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -4992,34 +4610,6 @@
         "coordinates": [
           49.7,
           34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ابوالفضل اسکندری",
-        "name_en": "Abolfazl Eskandari",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Shazand",
-        "province": "Markazi",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Abolfazl Eskandari/Abolfazl Eskandari.jpg",
-          "Abolfazl Eskandari/Abolfazl Eskandari_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.4070049,
-          33.9293155
         ]
       }
     },
@@ -6976,7 +6566,8 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/articles/cj4l8dkw851o",
-          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF."
+          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF.",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b38"
         ],
         "links": [],
         "photos": [
@@ -6988,33 +6579,6 @@
         "coordinates": [
           47.9725,
           34.0734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احد ابراهیمی",
-        "name_en": "Ahad Ebrahimi",
-        "year": 2026,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b38"
-        ],
-        "links": [],
-        "photos": [
-          "Ahad Ebrahimi/Ahad Ebrahimi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
         ]
       }
     },
@@ -7503,7 +7067,8 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": []
@@ -7513,31 +7078,6 @@
         "coordinates": [
           50.9796,
           35.7247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احسان شیری",
-        "name_en": "Ehsan Shiri",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
         ]
       }
     },
@@ -7656,34 +7196,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "احسان عبدالله نژاد",
-        "name_en": "Ehsan Abdollahnejad",
-        "year": 2019,
-        "age": null,
-        "gender": null,
-        "city": "Behbahan",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Ehsan Abdollahnejad/Ehsan Abdollahnejad.jpg",
-          "Ehsan Abdollahnejad/Ehsan Abdollahnejad2.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.2417,
-          30.5959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "احسان عبدالله‌نژاد",
         "name_en": "Ehsan Abdollahnejad",
         "year": 2019,
@@ -7694,7 +7206,8 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
@@ -7719,38 +7232,10 @@
         "age": null,
         "gender": "male",
         "city": "Najafabad",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Ehsan Azimi/Ehsan Azimi.jpg",
-          "Ehsan Azimi/Ehsan Azimi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3668,
-          32.6344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احسان عظیمی",
-        "name_en": "Ehsan Azimi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Najafabad",
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -8053,32 +7538,6 @@
         "city": "Karaj",
         "province": "Alborz",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Ahmad Asghari/Ahmad Asghari.jpg",
-          "Ahmad Asghari/Ahmad Asghari_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احمد اصغری",
-        "name_en": "Ahmad Asghari",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Unknown",
-        "province": "Unknown",
-        "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
@@ -8091,8 +7550,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.3814338,
-          35.7482708
+          50.9391,
+          35.84
         ]
       }
     },
@@ -8250,34 +7709,7 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/articles/cj4l8dkw851o",
-          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF."
-        ],
-        "links": [],
-        "photos": [
-          "Ahmad Jalil/Ahmad Jalil.jpg",
-          "Ahmad Jalil/Ahmad Jalil_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8294,
-          31.5103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احمد جلیل",
-        "name_en": "Ahmad Jalil",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Lordegan",
-        "province": "Chaharmahal and Bakhtiari",
-        "country": "Iran",
-        "sources": [
+          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF.",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -8444,39 +7876,12 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Ahmad Khosravani/Ahmad Khosravani.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احمد خسروانی",
-        "name_en": "Ahmad Khsrvani",
-        "year": 2026,
-        "age": 16,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Ahmad Khsrvani/Ahmad Khsrvani.jpg",
-          "Ahmad Khsrvani/Ahmad Khsrvani_.jpg"
+          "Ahmad Khosravani/Ahmad Khosravani.jpg"
         ]
       },
       "geometry": {
@@ -9564,35 +8969,7 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/articles/cj4l8dkw851o",
-          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF."
-        ],
-        "links": [],
-        "photos": [
-          "Ahmadreza Amani/Ahmadreza Amani.JPG",
-          "Ahmadreza Amani/Ahmadreza Amani.png",
-          "Ahmadreza Amani/Ahmadreza Amani_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.4569,
-          33.4563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احمدرضا امانی",
-        "name_en": "Ahmadreza Amani",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Azna",
-        "province": "Lorestan",
-        "country": "Iran",
-        "sources": [
+          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF.",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -9890,38 +9267,11 @@
         "year": 2026,
         "age": 40,
         "gender": "male",
-        "city": "Zanjan",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.youtube.com/watch?v=cBUqTYolopM"
-        ],
-        "links": [],
-        "photos": [
-          "Ahmadali Mohammadi/Ahmadali Mohammadi.jpg",
-          "Ahmadali Mohammadi/Ahmadali Mohammadi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.49628,
-          36.6736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "احمدعلی محمدی",
-        "name_en": "Ahmadali Mohammadi",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Tarom",
         "province": "Zanjan",
         "country": "Iran",
         "sources": [
+          "https://www.youtube.com/watch?v=cBUqTYolopM",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -10236,7 +9586,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "ارشیا عسکری ۱۷ ساله",
+        "name_fa": "ارشیا عسکری",
         "name_en": "Arshia Askari",
         "year": null,
         "age": 17,
@@ -10459,43 +9809,16 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Asra Tavousi Nia/Asra Tavousi Nia.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اسرا طاووسی‌نیا",
-        "name_en": "Esra Tavoosi Nia",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Kermanshah",
         "province": "Kermanshah",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Esra Tavoosi Nia/Esra Tavoosi Nia.jpg",
-          "Esra Tavoosi Nia/Esra Tavoosi Nia_.jpg"
+          "Asra Tavousi Nia/Asra Tavousi Nia.jpeg"
         ]
       },
       "geometry": {
@@ -10861,7 +10184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "اسماعیل پیشرو ۱۷ ساله",
+        "name_fa": "اسماعیل پیشرو",
         "name_en": "Esmail Pishro",
         "year": null,
         "age": 17,
@@ -11001,7 +10324,8 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
@@ -11013,33 +10337,6 @@
         "coordinates": [
           51.1097,
           35.7122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اسماعیل رضایی",
-        "name_en": "Esmaeil Rezaei",
-        "year": 2019,
-        "age": 30,
-        "gender": null,
-        "city": "Gilan",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Esmaeil Rezaei/Esmaeil Rezaei.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.15263,
-          37.19548
         ]
       }
     },
@@ -11081,7 +10378,8 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
@@ -11100,74 +10398,20 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "اسماعیل شجاعی",
-        "name_en": "Esmaeil Shojaei",
-        "year": 2019,
-        "age": null,
-        "gender": null,
-        "city": "Robat Karim",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Esmaeil Shojaei/Esmaeil Shojaei.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.0781568,
-          35.4805558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "اسماعیل شفیعی",
         "name_en": "Esmaeil Shafeie",
         "year": 2026,
         "age": null,
         "gender": "male",
         "city": "Rasht",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.youtube.com/watch?v=GUWg-8xUkr17"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5832,
-          37.2808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اسماعیل شفیعی",
-        "name_en": "Esmaeil Shafiei",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Rasht",
         "province": "Gilan",
         "country": "Iran",
         "sources": [
+          "https://www.youtube.com/watch?v=GUWg-8xUkr17",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Esmaeil Shafiei/Esmaeil Shafiei.jpg",
-          "Esmaeil Shafiei/Esmaeil Shafiei_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -11292,34 +10536,6 @@
       "type": "Feature",
       "properties": {
         "name_fa": "اسماعیل عرب احمدی",
-        "name_en": "Esmail Arab Ahmadi",
-        "year": 2019,
-        "age": 28,
-        "gender": "male",
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
-        ],
-        "links": [],
-        "photos": [
-          "Esmail Arab Ahmadi/Esmail Arab Ahmadi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اسماعیل عرب احمدی",
         "name_en": "Esmaeil Arab Ahmadi",
         "year": 2019,
         "age": 28,
@@ -11328,7 +10544,9 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/",
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf"
         ],
         "links": [],
         "photos": [
@@ -11408,71 +10626,17 @@
         "year": 2019,
         "age": null,
         "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Esmaeil Gholipour/Esmaeil Gholipour.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اسماعیل قلی پور",
-        "name_en": "Esmaeil Gholipour",
-        "year": 2019,
-        "age": null,
-        "gender": null,
-        "city": "Shahriar",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Esmaeil Gholipour/Esmaeil Gholipour.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.059,
-          35.659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اسماعیل قلی‌پور",
-        "name_en": "Esmail Gholipour",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
         "city": "Shahriar",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/",
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
           "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
         ],
         "links": [],
         "photos": [
-          "Esmail Gholipour/Esmail Gholipour.jpg",
-          "Esmail Gholipour/Esmail Gholipour.png"
+          "Esmaeil Gholipour/Esmaeil Gholipour.jpg"
         ]
       },
       "geometry": {
@@ -11527,39 +10691,13 @@
           "https://www.instagram.com/p/DURssEDgklZ/",
           "https://www.instagram.com/p/DVT15BCETyn/"
         ],
-        "links": [],
+        "links": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "photos": [
           "Esmaeil Ganj Goli/Esmaeil Ganj Goli.JPG",
           "Esmaeil Ganj Goli/Esmaeil Ganj Goli.PNG",
           "Esmaeil Ganj Goli/G-9nJakXsAAOU-r.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7,
-          34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اسماعیل گنج‌گلی",
-        "name_en": "Esmail Ganj-Goli",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Arak",
-        "province": "Markazi",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Esmail Ganj-Goli/Esmail Ganj-Goli.jpg",
-          "Esmail Ganj-Goli/Esmail Ganj-Goli_.jpg"
         ]
       },
       "geometry": {
@@ -11881,34 +11019,7 @@
         "province": null,
         "country": "Iran",
         "sources": [
-          "https://www.youtube.com/watch?v=-W4VfDNi2_o"
-        ],
-        "links": [],
-        "photos": [
-          "Ashkan Shahbazi/Ashkan Shahbazi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.2933,
-          38.2498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اشکان شهبازی",
-        "name_en": "Ashkan Shahbazi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Ardabil",
-        "province": "Ardabil",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
+          "https://www.youtube.com/watch?v=-W4VfDNi2_o",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -11932,11 +11043,12 @@
         "year": 2026,
         "age": 35,
         "gender": "male",
-        "city": "Tehran",
-        "province": null,
+        "city": "Shahrak-e Andisheh",
+        "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -11946,36 +11058,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اشکان عرار شوشتری",
-        "name_en": "Ashkan Arar Shoushtari",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Shahrak-e Ansheh",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Ashkan Arar Shoushtari/Ashkan Arar Shoushtari.jpg",
-          "Ashkan Arar Shoushtari/Ashkan Arar Shoushtari_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
+          48.536847,
+          36.6789003
         ]
       }
     },
@@ -12412,7 +11496,7 @@
       "type": "Feature",
       "properties": {
         "name_fa": "اصغر ولایتی رازلیقی",
-        "name_en": "Asghar Velayati Razliq i",
+        "name_en": "Asghar Velayati Razliqi",
         "year": null,
         "age": null,
         "gender": null,
@@ -12424,9 +11508,7 @@
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Asghar Velayati Razliq i/Asghar Velayati Razliq i.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -12500,43 +11582,16 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Azam Hassani/Azam Hassani.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اعظم حسنی",
-        "name_en": "Azm Hasani",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Yaftabad",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Azm Hasani/Azm Hasani.jpg",
-          "Azm Hasani/Azm Hasani_.jpg"
+          "Azam Hassani/Azam Hassani.jpeg"
         ]
       },
       "geometry": {
@@ -12555,40 +11610,12 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Afsaneh Razavian/Afsaneh Razavian.jpeg",
-          "Afsaneh Razavian/Afsaneh Razavian.jpg",
-          "Afsaneh Razavian/Afsaneh Razavian_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "افسانه رضویان",
-        "name_en": "Afsaneh Razavian",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Chalous",
         "province": "Mazandaran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
         "links": [],
         "photos": [
@@ -12641,39 +11668,11 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Afsaneh Mehdinejad/Afsaneh Mehdinejad.jpeg",
-          "Afsaneh Mehdinejad/Afsaneh Mehdinejad.jpg",
-          "Afsaneh Mehdinejad/Afsaneh Mehdinejad_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "افسانه مهدی‌نژاد",
-        "name_en": "Afsaneh Mehdinejad",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Rasht",
         "province": "Gilan",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -12723,29 +11722,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "افشین اسفندیاری",
-        "name_en": "Afshin Esfandyari",
-        "year": 2026,
-        "age": 24,
-        "gender": "male",
-        "city": "Karaj",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "افشین اسفندیار‌ی",
         "name_en": "Afshin Esfandiyari",
         "year": 2026,
@@ -12755,39 +11731,12 @@
         "province": "Alborz",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Afshin Esfandiyari/Afshin Esfandiyari.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "افشین اسفندیاری",
-        "name_en": "Afshin Asfndyari",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Karaj",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Afshin Asfndyari/Afshin Asfndyari.jpg",
-          "Afshin Asfndyari/Afshin Asfndyari_.jpg"
+          "Afshin Esfandiyari/Afshin Esfandiyari.jpg"
         ]
       },
       "geometry": {
@@ -12887,43 +11836,17 @@
       "properties": {
         "name_fa": "افشین میار کیانی",
         "name_en": "Afshin Miyar Kiani",
-        "year": null,
+        "year": 2026,
         "age": 53,
         "gender": "male",
         "city": "Chaloos",
-        "province": null,
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4223717,
-          36.6506329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "افشین میارکیانی",
-        "name_en": "Afshin Myarkyani",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Chalus",
         "province": "Mazandaran",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Afshin Myarkyani/Afshin Myarkyani.jpg",
-          "Afshin Myarkyani/Afshin Myarkyani_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -13111,7 +12034,9 @@
         "city": "Qalehassan Khan",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "links": [],
         "photos": []
       },
@@ -13120,34 +12045,6 @@
         "coordinates": [
           51.238,
           35.5415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "اکبر اسفندیاری بنه کهل",
-        "name_en": "Akbar Esfandiari Boneh Kohal",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Qaleh Hasan Khan",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Akbar Esfandiari Boneh Kohal/Akbar Esfandiari Boneh Kohal.jpg",
-          "Akbar Esfandiari Boneh Kohal/Akbar Esfandiari Boneh Kohal_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
         ]
       }
     },
@@ -13940,34 +12837,9 @@
       "properties": {
         "name_fa": "الهام احدی",
         "name_en": "Elham Ahadi",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": "Karaj",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Elham Ahadi/Elham Ahadi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "الهام احدی",
-        "name_en": "Elham Ahadi",
         "year": null,
         "age": null,
-        "gender": null,
+        "gender": "female",
         "city": "Hosseinabad",
         "province": "Alborz",
         "country": "Iran",
@@ -14017,42 +12889,15 @@
       "type": "Feature",
       "properties": {
         "name_fa": "الهام رئیسیان",
-        "name_en": "Elham Raisian",
+        "name_en": "Elham Raeisian",
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Elham Raisian/Elham Raisian.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "الهام رئیسیان",
-        "name_en": "Elham Raeisian",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Isfahan",
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -14076,43 +12921,16 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Elham Zeinali/Elham Zeinali.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "الهام زینلی",
-        "name_en": "Alham Zeynali",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Kermanshah",
         "province": "Kermanshah",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Alham Zeynali/Alham Zeynali.jpg",
-          "Alham Zeynali/Alham Zeynali_.jpg"
+          "Elham Zeinali/Elham Zeinali.jpeg"
         ]
       },
       "geometry": {
@@ -14355,66 +13173,13 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
+          "https://t.me/RememberTheirNames/",
           "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
         "links": [],
         "photos": [
           "Elina Hojjati/Elina Hojjati.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "الینا حجتی",
-        "name_en": "Elina Hojjati",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Elina Hojjati/Elina Hojjati.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "الینا حجتی",
-        "name_en": "Alyna Hjti",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Alyna Hjti/Alyna Hjti.jpg",
-          "Alyna Hjti/Alyna Hjti_.jpg"
         ]
       },
       "geometry": {
@@ -14547,32 +13312,6 @@
         "city": "Haft Hoz",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Omid Abu/Omid Abu.jpg",
-          "Omid Abu/Omid Abu_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.367,
-          35.817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امید ابو",
-        "name_en": "Omid Abu",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Haft-Hoz",
-        "province": "Tehran",
-        "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
@@ -14585,8 +13324,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.3805536,
-          35.819107
+          51.367,
+          35.817
         ]
       }
     },
@@ -15900,16 +14639,19 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیر ابراهیم‌نژاد",
-        "name_en": "Amir Ebrahim nezhad",
+        "name_en": "Amir Ebrahimnejad",
         "year": 2026,
         "age": null,
-        "gender": "male",
+        "gender": null,
         "city": "Rostam Kala (Behshahr)",
         "province": "Mazandaran",
         "country": "Iran",
         "sources": [],
         "links": [],
-        "photos": []
+        "photos": [
+          "Amir Ebrahimnejad/Amir Ebrahimnejad.jpg",
+          "Amir Ebrahimnejad/Amir Ebrahimnejad_.jpg"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -15922,43 +14664,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیر ابراهیم‌نژاد",
-        "name_en": "Amir Ebrahimnejad",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Rostamkola",
-        "province": "Mazandaran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Ebrahimnejad/Amir Ebrahimnejad.jpg",
-          "Amir Ebrahimnejad/Amir Ebrahimnejad_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.4268953,
-          36.6805079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "امیر احمدوند",
         "name_en": "Amir Ahmadvand",
         "year": 2026,
-        "age": null,
+        "age": 39,
         "gender": "male",
         "city": "Tehran Pars",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
+        ],
         "links": [],
         "photos": [
           "Amir Ahmadvand/Amir Ahmadvand.jpg",
@@ -15970,62 +14687,6 @@
         "coordinates": [
           51.3896004,
           35.6892523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر احمدوند",
-        "name_en": "Amir Ahmadvand",
-        "year": 2026,
-        "age": 39,
-        "gender": "male",
-        "city": "Tehran",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Ahmadvand/Amir Ahmadvand.jpg",
-          "Amir Ahmadvand/Amir Ahmadvand_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر احمدوند",
-        "name_en": "Amir Ahmadvand",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Tehranpars",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Ahmadvand/Amir Ahmadvand.jpg",
-          "Amir Ahmadvand/Amir Ahmadvand_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5259,
-          35.7446
         ]
       }
     },
@@ -16358,34 +15019,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیر تیموری راد",
-        "name_en": "Amir Tymvri Rad",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Karaj",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Tymvri Rad/Amir Tymvri Rad.jpg",
-          "Amir Tymvri Rad/Amir Tymvri Rad_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "امیر تیموری‌راد",
         "name_en": "Amir Teimuri Rad",
         "year": 2026,
@@ -16395,7 +15028,8 @@
         "province": "Alborz",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -16470,40 +15104,16 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیر جلیلیان",
-        "name_en": "Amir Jaliliyan",
+        "name_en": "Amir Jalilian",
         "year": 2026,
         "age": 62,
         "gender": "male",
         "city": "Shabad",
         "province": "Kermanshah",
         "country": "Iran",
-        "sources": [],
-        "links": [
-          "https://www.youtube.com/watch?v=LUCCvOcvvU5"
-        ],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4280678,
-          35.6916105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر جلیلیان",
-        "name_en": "Amir Jalilian",
-        "year": 2026,
-        "age": 62,
-        "gender": "male",
-        "city": "Shabad",
-        "province": null,
-        "country": "Iran",
         "sources": [
-          "https://www.youtube.com/watch?v=BQfIpuHXUow"
+          "https://www.youtube.com/watch?v=BQfIpuHXUow",
+          "https://www.youtube.com/watch?v=LUCCvOcvvU5"
         ],
         "links": [],
         "photos": []
@@ -16629,38 +15239,11 @@
         "year": 2026,
         "age": 42,
         "gender": "male",
-        "city": "Karaj",
+        "city": "Golshahr Karaj",
         "province": "Alborz",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Heshmati/Amir Heshmati.jpg",
-          "Amir Heshmati/Amir Heshmati_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر حشمتی",
-        "name_en": "Amir Heshmati",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Golshahr",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/",
           "https://t.me/RememberTheirNames/"
         ],
@@ -16673,8 +15256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.9329176,
-          35.8249517
+          50.9387721,
+          35.8282802
         ]
       }
     },
@@ -16766,33 +15349,6 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیر رادمان‌مهر",
-        "name_en": "Amir Radman Mehr",
-        "year": 2026,
-        "age": null,
-        "gender": "male",
-        "city": "Isfahan",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Radman Mehr/Amir Radman Mehr.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر رادمان‌مهر",
         "name_en": "Amir Radmanmehr",
         "year": 2026,
         "age": 41,
@@ -16801,7 +15357,8 @@
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://www.youtube.com/watch?v=BQfIpuHXUow"
+          "https://www.youtube.com/watch?v=BQfIpuHXUow",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
         ],
         "links": [],
         "photos": []
@@ -16992,39 +15549,12 @@
         "province": "Gilan",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Shakuri/Amir Shakuri.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.0034,
-          37.2076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر شکوری",
-        "name_en": "Amir Shkvri",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Lahijan",
-        "province": "Gilan",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Amir Shkvri/Amir Shkvri.jpg",
-          "Amir Shkvri/Amir Shkvri_.jpg"
+          "Amir Shakuri/Amir Shakuri.jpg"
         ]
       },
       "geometry": {
@@ -17203,38 +15733,11 @@
         "year": 2026,
         "age": null,
         "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b24"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Abbaspour/Amir Abbaspour.jpg",
-          "Amir Abbaspour/Amir Abbaspour_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر عباس‌پور",
-        "name_en": "Amir Abbaspour",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Karaj",
         "province": "Alborz",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b24",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -17778,31 +16281,6 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیر مصدق",
-        "name_en": "Amir Mossadegh",
-        "year": null,
-        "age": 20,
-        "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://twitter.com/1500tasvir/status/1675824850626043904"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیر مصدق",
         "name_en": "Amir Mosadegh",
         "year": 2023,
         "age": 20,
@@ -17811,7 +16289,8 @@
         "province": null,
         "country": "Iran",
         "sources": [
-          "https://iranhrs.org/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D9%88-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%DB%B6%DB%B6%DB%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%A7%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA/"
+          "https://iranhrs.org/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D9%88-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%DB%B6%DB%B6%DB%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%A7%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA/",
+          "https://twitter.com/1500tasvir/status/1675824850626043904"
         ],
         "links": [],
         "photos": [
@@ -18364,31 +16843,6 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیرحسین احمدی شریف",
-        "name_en": "Amirhossain Ahmadi Shrif",
-        "year": 2026,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین احمدی شریف",
         "name_en": "Amirhossein Ahmadi Sharif",
         "year": 2026,
         "age": null,
@@ -18397,7 +16851,8 @@
         "province": "Alborz",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
         ],
         "links": [],
         "photos": [
@@ -18500,29 +16955,6 @@
         "year": 2026,
         "age": 29,
         "gender": "male",
-        "city": "Narmak",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4864,
-          35.7368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین امام‌جمعه",
-        "name_en": "Amirhossein Emamjomeh",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Haft-e Hoz",
         "province": "Tehran",
         "country": "Iran",
@@ -18530,10 +16962,7 @@
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Amirhossein Emamjomeh/Amirhossein Emamjomeh.jpg",
-          "Amirhossein Emamjomeh/Amirhossein Emamjomeh_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -18719,38 +17148,11 @@
         "year": 2026,
         "age": null,
         "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b06"
-        ],
-        "links": [],
-        "photos": [
-          "Amirhossein Bayati/Amirhossein Bayati.jpg",
-          "Amirhossein Bayati/Amirhossein Bayati_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین بیاتی",
-        "name_en": "Amirhossein Bayati",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Hamadan",
         "province": "Hamadan",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b06",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -18798,9 +17200,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرحسین پرنیان (میرکازهیریگی) فرزند ابراهیم ۹ (شلیک از پشت به ناحیه سر و قلب)",
-        "name_en": "Amirhossein Prnyan Mirkazhirigi Farznd Abrahim a۹ Salhshlik Az Pasht Bah Nahih Sar V Qalb",
-        "year": 2022,
+        "name_fa": "امیرحسین پرنیان میرکازهی ریگی",
+        "name_en": "Amirhossein Parnian Mirkazehi Reigi",
+        "year": null,
         "age": 19,
         "gender": "male",
         "city": null,
@@ -18809,29 +17211,6 @@
         "sources": [
           "https://iranhrs.org/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D9%88-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%DB%B6%DB%B6%DB%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%A7%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA/"
         ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین پرنیان میرکازهی ریگی",
-        "name_en": "Amirhossein Parnian Mirkazehi Reigi",
-        "year": null,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [],
         "links": [],
         "photos": []
       },
@@ -18935,42 +17314,15 @@
         "year": 2026,
         "age": null,
         "gender": "male",
-        "city": "Khalijfars",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین حضرتی",
-        "name_en": "Amirhossein Hazrati",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Khalij-e Fars",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.youtube.com/watch?v=W9ZwprwVkoY"
         ],
         "links": [],
-        "photos": [
-          "Amirhossein Hazrati/Amirhossein Hazrati.jpg",
-          "Amirhossein Hazrati/Amirhossein Hazrati_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -19039,31 +17391,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرحسین خدادائی",
-        "name_en": "Amirhossain Khodadaei",
-        "year": 2026,
-        "age": null,
-        "gender": "male",
-        "city": "Najafabad",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3668,
-          32.6344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "امیرحسین خدادادی",
         "name_en": "Amirhossein Khodadadi",
         "year": 2026,
@@ -19073,7 +17400,8 @@
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
         ],
         "links": [],
         "photos": [
@@ -19092,44 +17420,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرحسین دادوند",
-        "name_en": "Amirhossein Dadvand",
-        "year": 2019,
-        "age": 17,
-        "gender": null,
-        "city": "Isfahan",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Amirhossein Dadvand/Amirhossein Dadvand.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "امیرحسین داوودوند",
         "name_en": "Amirhossein Davoud Vand",
         "year": 2019,
         "age": 16,
         "gender": "male",
         "city": "Yazdanshahr",
-        "province": "Esfahan",
+        "province": "Isfahan",
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
@@ -19156,7 +17458,9 @@
         "province": "Markazi",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -19174,35 +17478,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرحسین دولت‌آبادی فراهانی",
-        "name_en": "Amirhossein Dowlatabadi Farahani",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Arak",
-        "province": "Markazi",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amirhossein Dowlatabadi Farahani/Amirhossein Dowlatabadi Farahani.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7,
-          34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین دونلو ۱۵ ساله",
+        "name_fa": "امیرحسین دونلو",
         "name_en": "Amirhossein Donlou",
         "year": null,
         "age": 15,
@@ -19371,42 +17647,15 @@
         "age": null,
         "gender": "male",
         "city": "Najafabad",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amirhossain Zeinali/Amirhossain Zeinali.png"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3668,
-          32.6344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین زینلی",
-        "name_en": "Amirhossein Zeinali",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Najafabad",
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Amirhossein Zeinali/Amirhossein Zeinali.jpg",
-          "Amirhossein Zeinali/Amirhossein Zeinali_.jpg"
+          "Amirhossain Zeinali/Amirhossain Zeinali.png"
         ]
       },
       "geometry": {
@@ -19672,31 +17921,6 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیرحسین شمس",
-        "name_en": "Amirhossein Shams",
-        "year": null,
-        "age": null,
-        "gender": "male",
-        "city": "Noshahr",
-        "province": "Mazandaran",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Amirhossein Shams/Amirhossein Shams.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.49621,
-          36.64852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین شمس",
         "name_en": "Amirhossein Sahms",
         "year": 2022,
         "age": null,
@@ -19778,42 +18002,16 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیرحسین صادقی",
-        "name_en": "Amirhossain Sadeghi",
+        "name_en": "Amirhossein Sadeghi",
         "year": 2026,
         "age": 24,
         "gender": "male",
-        "city": "Shahryar",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amirhossain Sadeghi/Amirhossain Sadeghi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.05775,
-          35.65884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین صادقی",
-        "name_en": "Amirhossein Sadeghi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Azimieh",
         "province": "Karaj",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
         ],
         "links": [],
         "photos": [
@@ -20221,7 +18419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرحسین کارگران ۱۷ساله",
+        "name_fa": "امیرحسین کارگران",
         "name_en": "Amirhossein Kargar",
         "year": null,
         "age": 17,
@@ -20452,39 +18650,12 @@
         "year": 2026,
         "age": null,
         "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b20"
-        ],
-        "links": [],
-        "photos": [
-          "Amirhossein Mohammadzadeh/Amirhossein Mohammadzadeh.jpg",
-          "Amirhossein Mohammadzadeh/Amirhossein Mohammadzadeh_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین محمدزاده",
-        "name_en": "Amirhossein Mohammadzadeh",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Afsarieh",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b20"
         ],
         "links": [],
         "photos": [
@@ -20511,32 +18682,6 @@
         "city": "Karaj",
         "province": "Alborz",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Amirhossein Mohammadi/Amirhossein Mohammadi.jpg",
-          "Amirhossein Mohammadi/Amirhossein Mohammadi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین محمدی",
-        "name_en": "Amirhossein Mohammadi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
@@ -20549,8 +18694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.1039,
-          35.5611
+          50.9391,
+          35.84
         ]
       }
     },
@@ -20585,7 +18730,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرحسین مرادی ۱۶ ساله",
+        "name_fa": "امیرحسین مرادی",
         "name_en": "Amirhossein Moradi",
         "year": null,
         "age": 16,
@@ -20623,7 +18768,9 @@
         "country": "Iran",
         "sources": [
           "https://iranwire.com/fa/news-1/148898-%D8%AA%DA%A9%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D9%85%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%D9%81%D8%A7-%D8%B1%D8%A7-%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF-%D9%88-%DA%A9%D8%B4%D8%AA/",
-          "https://x.com/iranwire/status/2020540821997560242"
+          "https://x.com/iranwire/status/2020540821997560242",
+          "https://t.me/RememberTheirNames/",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -20636,34 +18783,6 @@
         "coordinates": [
           47.065,
           34.314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرحسین مرادی‌وفا",
-        "name_en": "Amirhossein Moradi-Vafa",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Kermanshah",
-        "province": "Kermanshah",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amirhossein Moradi-Vafa/Amirhossein Moradi-Vafa.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.065,
-          34.3142
         ]
       }
     },
@@ -20891,7 +19010,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرحسین نصرتی ۱۶ساله",
+        "name_fa": "امیرحسین نصرتی",
         "name_en": "Amirhossein Nosrati",
         "year": null,
         "age": 16,
@@ -21420,10 +19539,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیررضا شبانی شاندیز ۱۷ ساله",
+        "name_fa": "امیررضا شبانی شاندیز",
         "name_en": "Amirreza Shbani Shandyz",
         "year": 2026,
-        "age": null,
+        "age": 17,
         "gender": null,
         "city": "Mashhad",
         "province": "Razavi Khorasan",
@@ -21486,35 +19605,7 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
-        ],
-        "links": [],
-        "photos": [
-          "Amirreza Abdollahi/Amirreza Abdollahi.jpg",
-          "Amirreza Abdollahi/Amirreza Abdollahi.png",
-          "Amirreza Abdollahi/Amirreza Abdollahi2.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیررضا عبداللهی",
-        "name_en": "Amirreza Abdollahi",
-        "year": 2019,
-        "age": 13,
-        "gender": null,
-        "city": "Eslamshahr",
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
           "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
@@ -21571,39 +19662,13 @@
         "city": "Isfahan",
         "province": "Isfahan",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "links": [
           "https://www.youtube.com/watch?v=LUCCvOcvvU0"
         ],
         "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیررضا فتحیان",
-        "name_en": "Amirreza Fthyan",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Isfahan",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amirreza Fthyan/Amirreza Fthyan.jpg",
-          "Amirreza Fthyan/Amirreza Fthyan_.jpg"
-        ]
       },
       "geometry": {
         "type": "Point",
@@ -21753,68 +19818,14 @@
         "name_fa": "امیررضا میرزایی",
         "name_en": "Amirreza Mirzaei",
         "year": 2026,
-        "age": 27,
-        "gender": "male",
-        "city": "Eslamshahr",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amirreza Mirzaei/Amirreza Mirzaei.jpg",
-          "Amirreza Mirzaei/Amirreza Mirzaei_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیررضا میرزایی",
-        "name_en": "Amirreza Mirzaei",
-        "year": 2026,
         "age": 28,
         "gender": "male",
         "city": "Eslamshahr",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.youtube.com/watch?v=cBUqTYolopM"
-        ],
-        "links": [],
-        "photos": [
-          "Amirreza Mirzaei/Amirreza Mirzaei.jpg",
-          "Amirreza Mirzaei/Amirreza Mirzaei_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیررضا میرزایی",
-        "name_en": "Amirreza Mirzaei",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Eslamshahr",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
+          "https://www.youtube.com/watch?v=cBUqTYolopM",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -22048,37 +20059,11 @@
           "https://x.com/IranNewsAgency0/status/2018533211274408130",
           "https://www.instagram.com/p/DT2-huDDpgp/"
         ],
-        "links": [],
-        "photos": [
-          "Amir Abbas Amini/HANFQIOXkAEHxKj.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.3585,
-          35.0236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرعباس امینی (پسر)",
-        "name_en": "Amyrbas Amini (Psr)",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Saveh",
-        "province": "Markazi",
-        "country": "Iran",
-        "sources": [
+        "links": [
           "https://t.me/RememberTheirNames/"
         ],
-        "links": [],
         "photos": [
-          "Amyrbas Amini (Psr)/Amyrbas Amini (Psr).jpg",
-          "Amyrbas Amini (Psr)/Amyrbas Amini (Psr)_.jpg"
+          "Amir Abbas Amini/HANFQIOXkAEHxKj.jpg"
         ]
       },
       "geometry": {
@@ -22204,7 +20189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرعباس سلیمی افجانی ۱۸ساله",
+        "name_fa": "امیرعباس سلیمی افجانی",
         "name_en": "Amirabbas Salimi Afjani",
         "year": null,
         "age": 18,
@@ -22241,7 +20226,8 @@
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -22259,39 +20245,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرعباس مزروعی",
-        "name_en": "Amirabbas Mazrouei",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Isfahan",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amirabbas Mazrouei/Amirabbas Mazrouei.jpg",
-          "Amirabbas Mazrouei/Amirabbas Mazrouei_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرعباس مومنی ۱۷ ساله",
+        "name_fa": "امیرعباس مومنی",
         "name_en": "Amirabbas Momeni",
-        "year": null,
-        "age": null,
-        "gender": null,
+        "year": 2026,
+        "age": 17,
+        "gender": "male",
         "city": "Eslamshahr",
         "province": "Tehran",
         "country": "Iran",
@@ -22422,7 +20380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرعلی پرویزی ۱۷ ساله",
+        "name_fa": "امیرعلی پرویزی",
         "name_en": "Amirali Prvyzi",
         "year": 2026,
         "age": 17,
@@ -22646,9 +20604,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرعلی ذاکری ۱۸ ساله",
+        "name_fa": "امیرعلی ذاکری",
         "name_en": "Amirali Zakari",
-        "year": null,
+        "year": 2026,
         "age": 18,
         "gender": null,
         "city": "Qarchak",
@@ -22730,9 +20688,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرعلی صیامی ۱۷ ساله",
+        "name_fa": "امیرعلی صیامی",
         "name_en": "Amirali Siyami",
-        "year": null,
+        "year": 2026,
         "age": 17,
         "gender": null,
         "city": "Mashhad",
@@ -22814,13 +20772,14 @@
         "name_fa": "امیرعلی قنبرزاده",
         "name_en": "Amirali Ghanbarzadeh",
         "year": 2026,
-        "age": 15,
+        "age": 16,
         "gender": "male",
         "city": "Garmdarreh",
         "province": null,
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -22832,34 +20791,6 @@
         "coordinates": [
           51.066017,
           35.7510396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرعلی قنبرزاده نوشنق ۱۶ ساله",
-        "name_en": "Amirali Ghanbarzadeh Noushnaq",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amirali Ghanbarzadeh Noushnaq/Amirali Ghanbarzadeh Noushnaq.jpg",
-          "Amirali Ghanbarzadeh Noushnaq/Amirali Ghanbarzadeh Noushnaq_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
         ]
       }
     },
@@ -23005,11 +20936,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرعلی موذنی ۱۷ساله",
+        "name_fa": "امیرعلی موذنی",
         "name_en": "Amirali Mozani",
         "year": null,
         "age": 17,
-        "gender": null,
+        "gender": "male",
         "city": "Lenjan",
         "province": "Isfahan",
         "country": "Iran",
@@ -23062,11 +20993,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرعلی یحیایی ۱۷ ساله",
+        "name_fa": "امیرعلی یحیایی",
         "name_en": "Amirali Yahyaei",
         "year": null,
         "age": 17,
-        "gender": null,
+        "gender": "male",
         "city": "Dezful",
         "province": "Khuzestan",
         "country": "Iran",
@@ -23093,29 +21024,6 @@
         "name_fa": "امیرمحسن اللهیاری",
         "name_en": "Amir mohsen Allahyari",
         "year": 2026,
-        "age": 29,
-        "gender": "male",
-        "city": "Fardis",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9796,
-          35.7247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرمحسن اللهیاری",
-        "name_en": "Amyrmhsn Allhyari",
-        "year": 2026,
         "age": 16,
         "gender": null,
         "city": "Fars",
@@ -23125,10 +21033,7 @@
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Amyrmhsn Allhyari/Amyrmhsn Allhyari.jpg",
-          "Amyrmhsn Allhyari/Amyrmhsn Allhyari_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -23194,7 +21099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرمحمد ارباب‌پوری ۱۵ ساله",
+        "name_fa": "امیرمحمد ارباب‌پوری",
         "name_en": "Amirmohammad Arbab-Pvri",
         "year": 2026,
         "age": 15,
@@ -23230,37 +21135,11 @@
         "city": "Ramsar",
         "province": "Mazandaran",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6589,
-          36.9033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرمحمد استاددوست",
-        "name_en": "Amirmohammad Astaddoost",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Ramsar",
-        "province": "Mazandaran",
-        "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Amirmohammad Astaddoost/Amirmohammad Astaddoost.jpg",
-          "Amirmohammad Astaddoost/Amirmohammad Astaddoost_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -23531,38 +21410,11 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
+          "https://t.me/RememberTheirNames/",
           "https://www.youtube.com/watch?v=W9ZwprwVkoY"
         ],
         "links": [],
         "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4503847,
-          35.6344204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرمحمد رهنما",
-        "name_en": "Amir Mohammad Rahnama",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Kianshahr",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Mohammad Rahnama/Amir Mohammad Rahnama.jpg",
-          "Amir Mohammad Rahnama/Amir Mohammad Rahnama_.jpg"
-        ]
       },
       "geometry": {
         "type": "Point",
@@ -23639,7 +21491,9 @@
         "city": "Seighalan Rasht",
         "province": "Gilan",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "links": [
           "https://www.youtube.com/watch?v=B7Sk7f4AT_I"
         ],
@@ -23656,34 +21510,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرمحمد شادرو",
-        "name_en": "Amir Mohammad Shadrou",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Rasht",
-        "province": "Gilan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Mohammad Shadrou/Amir Mohammad Shadrou.jpg",
-          "Amir Mohammad Shadrou/Amir Mohammad Shadrou_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5832,
-          37.2808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "امیرمحمد صفری",
         "name_en": "Amirmohammad Safari",
         "year": 2026,
@@ -23693,40 +21519,12 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amirmohammad Safari/Amirmohammad Safari.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرمحمد صفری ۱۵ساله",
-        "name_en": "Amir Mohammad Safari",
-        "year": null,
-        "age": 15,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Amir Mohammad Safari/Amir Mohammad Safari.jpg",
-          "Amir Mohammad Safari/Amir Mohammad Safari_.jpg"
+          "Amirmohammad Safari/Amirmohammad Safari.jpg"
         ]
       },
       "geometry": {
@@ -23750,7 +21548,8 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b46"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b46",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": []
@@ -23760,34 +21559,6 @@
         "coordinates": [
           51.235,
           35.5486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرمحمد قورت‌بیگلو",
-        "name_en": "Amir Mohammad Ghoratbeiglou",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Eslamshahr",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amir Mohammad Ghoratbeiglou/Amir Mohammad Ghoratbeiglou.jpg",
-          "Amir Mohammad Ghoratbeiglou/Amir Mohammad Ghoratbeiglou_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
         ]
       }
     },
@@ -23860,7 +21631,8 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/articles/cj4l8dkw851o",
-          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF."
+          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF.",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -23879,36 +21651,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرمحمد کوهکن",
-        "name_en": "Amirmohammad Kouhkan",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Neyriz",
-        "province": "Fars",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Amirmohammad Kouhkan/Amirmohammad Kouhkan.jpg",
-          "Amirmohammad Kouhkan/Amirmohammad Kouhkan_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.3278,
-          29.1988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "امیرمحمد گمشادزهی فرزند قادر",
-        "name_en": "Amirmhmd Gmshadzhi Farznd Qadr",
+        "name_en": "Amirmhmd Gmshadzhi",
         "year": 2022,
         "age": null,
         "gender": "male",
@@ -23932,7 +21676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرمحمد لطفی ۱۶ ساله",
+        "name_fa": "امیرمحمد لطفی",
         "name_en": "Amir Mohammad Lotfi",
         "year": null,
         "age": 16,
@@ -24098,29 +21842,6 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امیرمهدی حسنی",
-        "name_en": "Amir Mehdi Hasani",
-        "year": null,
-        "age": 23,
-        "gender": "male",
-        "city": "Ghuchan",
-        "province": null,
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امیرمهدی حسنی",
         "name_en": "Amirmehdi Hassani",
         "year": 2022,
         "age": 23,
@@ -24257,7 +21978,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرمهدی مرادی ۱۵ساله",
+        "name_fa": "امیرمهدی مرادی",
         "name_en": "Amirmehdi Moradi",
         "year": null,
         "age": 15,
@@ -24337,7 +22058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امیرمهدی نعمتی‌نژاد ۱۷ ساله",
+        "name_fa": "امیرمهدی نعمتی‌نژاد",
         "name_en": "Amirmehdi Nematinejad",
         "year": 2026,
         "age": 17,
@@ -24456,37 +22177,11 @@
         "city": "Rasht",
         "province": "Gilan",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5832,
-          37.2808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امین امانی‌نژاد",
-        "name_en": "Amin Amani-Nejad",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Rasht",
-        "province": "Gilan",
-        "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Amin Amani-Nejad/Amin Amani-Nejad.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -24696,69 +22391,16 @@
         "age": 39,
         "gender": "male",
         "city": "Khorramabad",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Amin Toolabi/Amin Toolabi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.35583,
-          33.48778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امین طولابی",
-        "name_en": "Amin Toolabi",
-        "year": 2026,
-        "age": 39,
-        "gender": "male",
-        "city": "Parand",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.youtube.com/watch?v=BQfIpuHXUow"
-        ],
-        "links": [],
-        "photos": [
-          "Amin Toolabi/Amin Toolabi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امین طولابی",
-        "name_en": "Amin Toulabi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Khorramabad",
         "province": "Lorestan",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://www.youtube.com/watch?v=BQfIpuHXUow",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Amin Toulabi/Amin Toulabi.jpg",
-          "Amin Toulabi/Amin Toulabi_.jpg"
+          "Amin Toolabi/Amin Toolabi.jpg"
         ]
       },
       "geometry": {
@@ -25178,40 +22820,12 @@
         "province": "Markazi",
         "country": "Iran",
         "sources": [
-          "https://www.iranintl.com/202602034951"
+          "https://www.iranintl.com/202602034951",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [
           "https://x.com/hashtag/%D8%A7%DB%8C%D8%B1%D8%AC_%DB%8C%D9%88%D8%B3%D9%81%DB%8C?src=hashtag_click"
         ],
-        "photos": [
-          "Iraj Yousefi/Iraj Yousefi.jpg",
-          "Iraj Yousefi/Iraj Yousefi.png",
-          "Iraj Yousefi/Iraj Yousefi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7,
-          34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ایرج یوسفی",
-        "name_en": "Iraj Yousefi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Arak",
-        "province": "Markazi",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
         "photos": [
           "Iraj Yousefi/Iraj Yousefi.jpg",
           "Iraj Yousefi/Iraj Yousefi.png",
@@ -25237,7 +22851,9 @@
         "city": "Zanjan",
         "province": "Zanjan",
         "country": "Iran",
-        "sources": [],
+        "sources": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "links": [],
         "photos": []
       },
@@ -25252,35 +22868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "ایلیا اجاقلو ۱۸ ساله",
-        "name_en": "Ilya Ajaghlou",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Zanjan",
-        "province": "Zanjan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Ilya Ajaghlou/Ilya Ajaghlou.jpg",
-          "Ilya Ajaghlou/Ilya Ajaghlou_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.49628,
-          36.6736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ایلیا جعفری ثانی ۱۵ساله",
+        "name_fa": "ایلیا جعفری ثانی",
         "name_en": "Ilya Jafari Sani",
         "year": null,
         "age": 15,
@@ -25313,42 +22901,15 @@
         "year": 2026,
         "age": 19,
         "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ایلیا دهقانی",
-        "name_en": "Ilya Dehghani",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Tehranpars",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Ilya Dehghani/Ilya Dehghani.jpg",
-          "Ilya Dehghani/Ilya Dehghani_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -25389,7 +22950,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "ایلیا قدسی ۱۷ ساله",
+        "name_fa": "ایلیا قدسی",
         "name_en": "Ilya Ghodsi",
         "year": null,
         "age": 17,
@@ -25532,7 +23093,6 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -25589,6 +23149,7 @@
         "province": "markazi",
         "country": "Iran",
         "sources": [
+          "https://t.me/RememberTheirNames/",
           "https://www.instagram.com/p/DVJz8M-ikkH/"
         ],
         "links": [],
@@ -25615,9 +23176,7 @@
         "city": "Arak",
         "province": "Markazi",
         "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
+        "sources": [],
         "links": [],
         "photos": [
           "Iman Bhdari/Iman Bhdari.jpg",
@@ -25657,31 +23216,6 @@
         "coordinates": [
           50.9768155,
           35.852431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ایمان بهزادپور",
-        "name_en": "Iman Behzadpour",
-        "year": null,
-        "age": null,
-        "gender": "male",
-        "city": "Sanandaj",
-        "province": "Kurdistan",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Iman Behzadpour/Iman Behzadpour.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.99883,
-          35.31495
         ]
       }
     },
@@ -25907,11 +23441,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "ایمان فرعی ۱۸ ساله",
+        "name_fa": "ایمان فرعی",
         "name_en": "Iman Farei",
-        "year": null,
-        "age": null,
-        "gender": null,
+        "year": 2026,
+        "age": 18,
+        "gender": "male",
         "city": "Arak",
         "province": "Markazi",
         "country": "Iran",
@@ -26207,62 +23741,7 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
-        ],
-        "links": [],
-        "photos": [
-          "Ayoub Bahramian/Ayoub Bahramian.jpg",
-          "Ayoub Bahramian/Ayoub Bahramian2.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.059,
-          35.659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ایوب بهرامیان",
-        "name_en": "Ayoub Bahramian",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Ayoub Bahramian/Ayoub Bahramian.jpg",
-          "Ayoub Bahramian/Ayoub Bahramian2.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ایوب بهرامیان",
-        "name_en": "Ayoub Bahramian",
-        "year": 2019,
-        "age": null,
-        "gender": null,
-        "city": "Shahriar",
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
           "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
@@ -26482,39 +23961,12 @@
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Babak Jaefari/Babak Jaefari.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بابک جعفری",
-        "name_en": "Babak Jafari",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Isfahan",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Babak Jafari/Babak Jafari.jpg",
-          "Babak Jafari/Babak Jafari_.jpg"
+          "Babak Jaefari/Babak Jaefari.jpg"
         ]
       },
       "geometry": {
@@ -26537,39 +23989,12 @@
         "province": "Markazi",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Babak Jamali/Babak Jamali.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7,
-          34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بابک جمالی",
-        "name_en": "Babak Jmali",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Arak",
-        "province": "Markazi",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Babak Jmali/Babak Jmali.jpg",
-          "Babak Jmali/Babak Jmali_.jpg"
+          "Babak Jamali/Babak Jamali.jpg"
         ]
       },
       "geometry": {
@@ -26669,32 +24094,9 @@
       "properties": {
         "name_fa": "باربد تهرانی",
         "name_en": "Barbad Tehrani",
-        "year": null,
+        "year": 2026,
         "age": 17,
         "gender": "male",
-        "city": "Roodaki",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.672786,
-          34.0714716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "باربد علی‌طهرانی ۱۷ساله",
-        "name_en": "Barbad Ali-Tehrani",
-        "year": null,
-        "age": 17,
-        "gender": null,
         "city": "Salsabil (Tehran)",
         "province": "Tehran",
         "country": "Iran",
@@ -26702,10 +24104,7 @@
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Barbad Ali-Tehrani/Barbad Ali-Tehrani.jpg",
-          "Barbad Ali-Tehrani/Barbad Ali-Tehrani_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -26946,40 +24345,14 @@
         "age": 36,
         "gender": "male",
         "city": "Saveh",
-        "province": null,
-        "country": "Iran",
-        "sources": [],
-        "links": [
-          "https://www.youtube.com/watch?v=LUCCvOcvvU0"
-        ],
-        "photos": [
-          "Bashir Karimi/Bashir Karimi.jpg",
-          "Bashir Karimi/Bashir Karimi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.3585,
-          35.0236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بشیر کریمی",
-        "name_en": "Bashir Karimi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Saveh",
         "province": "Markazi",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
-        "links": [],
+        "links": [
+          "https://www.youtube.com/watch?v=LUCCvOcvvU0"
+        ],
         "photos": [
           "Bashir Karimi/Bashir Karimi.jpg",
           "Bashir Karimi/Bashir Karimi_.jpg"
@@ -27189,7 +24562,9 @@
         "province": "Gilan",
         "country": "Iran",
         "sources": [
-          "https://www.youtube.com/watch?v=wkidZ2WJa7o"
+          "https://www.youtube.com/watch?v=wkidZ2WJa7o",
+          "https://t.me/RememberTheirNames/",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -27207,39 +24582,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "بنیامین گلریز مژدهی",
-        "name_en": "Beniamin Golriz Mojdehi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Rasht",
-        "province": "Gilan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Beniamin Golriz Mojdehi/Beniamin Golriz Mojdehi.jpg",
-          "Beniamin Golriz Mojdehi/Beniamin Golriz Mojdehi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5832,
-          37.2808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بنیامین محمدی ۱۵ ساله",
+        "name_fa": "بنیامین محمدی",
         "name_en": "Benyamin Mohammadi",
         "year": 2026,
-        "age": null,
+        "age": 15,
         "gender": null,
         "city": "Golchin",
         "province": "Tehran",
@@ -27350,42 +24696,14 @@
         "name_fa": "بهار حسینی",
         "name_en": "Bahar Hosseini",
         "year": 2026,
-        "age": null,
+        "age": 3,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Bahar Hosseini/Bahar Hosseini.jpeg",
-          "Bahar Hosseini/Bahar Hosseini.jpg",
-          "Bahar Hosseini/Bahar Hosseini_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بهار حسینی ۳ ساله",
-        "name_en": "Bahar Hosseini",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Neyshabur",
         "province": "Razavi Khorasan",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
         "links": [],
         "photos": [
@@ -27432,33 +24750,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "بهار شادمهرى",
-        "name_en": "Bahar Shadmehri",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Bahar Shadmehri/Bahar Shadmehri.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "بهار شادمهری",
         "name_en": "Bahar Shad Mehri",
         "year": 2026,
@@ -27468,7 +24759,9 @@
         "province": "Razavi Khorasan",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -27480,34 +24773,6 @@
         "coordinates": [
           58.7958,
           36.2141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بهار شاه‌مهری",
-        "name_en": "Bahar Shaeh-Mehri",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Neyshabur",
-        "province": "Razavi Khorasan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Bahar Shaeh-Mehri/Bahar Shaeh-Mehri.jpg",
-          "Bahar Shaeh-Mehri/Bahar Shaeh-Mehri_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.7922291,
-          36.2105604
         ]
       }
     },
@@ -27546,43 +24811,16 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Bahareh Babaii/Bahareh Babaii.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بهاره بابایی",
-        "name_en": "Bhareh Babaei",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Farrokhshahr",
         "province": "Chaharmahal and Bakhtiari",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Bhareh Babaei/Bhareh Babaei.jpg",
-          "Bhareh Babaei/Bhareh Babaei_.jpg"
+          "Bahareh Babaii/Bahareh Babaii.jpeg"
         ]
       },
       "geometry": {
@@ -27718,7 +24956,8 @@
         "province": "Alborz",
         "country": "Iran",
         "sources": [
-          "https://www.iranintl.com/fa/202602042837"
+          "https://www.iranintl.com/fa/202602042837",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [
           "https://www.youtube.com/watch?v=hOapPfXBzZU"
@@ -27737,38 +24976,6 @@
         "coordinates": [
           50.9391,
           35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بهرام اخلاقی",
-        "name_en": "Bahram Akhlaghi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Hashtgerd",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Bahram Akhlaghi/Bahram Akhlaghi.jpg",
-          "Bahram Akhlaghi/Bahram Akhlaghi_.jpg",
-          "Bahram Akhlaghi/bahram.png",
-          "Bahram Akhlaghi/G_p2vLsWIAIrZPy.png",
-          "Bahram Akhlaghi/images (1).jpg",
-          "Bahram Akhlaghi/vHZQBavo2Tq-FE36.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6858036,
-          35.9641824
         ]
       }
     },
@@ -27950,38 +25157,12 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
-        ],
-        "links": [],
-        "photos": [
-          "Behrouz Asqarpour/Behrouz Asqarpour.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.059,
-          35.659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بهروز اصغری پور",
-        "name_en": "Behrouz Asghari Pour",
-        "year": 2019,
-        "age": 32,
-        "gender": null,
-        "city": "Shahriar",
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
           "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
-          "Behrouz Asghari Pour/Behrouz Asghari Pour.jpg"
+          "Behrouz Asqarpour/Behrouz Asqarpour.jpg"
         ]
       },
       "geometry": {
@@ -28053,36 +25234,11 @@
       "properties": {
         "name_fa": "بهروز تمندانی",
         "name_en": "Behrouz Tamandani",
-        "year": null,
-        "age": null,
-        "gender": "male",
-        "city": "Iranshahr",
-        "province": "Baluchestan",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Behrouz Tamandani/Behrouz Tamandani.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          60.6848,
-          27.2025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بهروز تمندانی",
-        "name_en": "Behrouz Tamandani",
         "year": 2022,
         "age": 33,
         "gender": "male",
         "city": "Iranshahr",
-        "province": null,
+        "province": "Baluchestan",
         "country": "Iran",
         "sources": [
           "https://iranhrs.org/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D9%88-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%DB%B6%DB%B6%DB%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%A7%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA/"
@@ -42556,64 +39712,7 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
-        ],
-        "links": [],
-        "photos": [
-          "Hossein Ghasemi/Hossein Ghasemi.jpg",
-          "Hossein Ghasemi/Hossein Ghasemi.png",
-          "Hossein Ghasemi/Hossein Ghasemi3.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "حسین قاسمی",
-        "name_en": "Hossein Ghasemi",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Hossein Ghasemi/Hossein Ghasemi.jpg",
-          "Hossein Ghasemi/Hossein Ghasemi.png",
-          "Hossein Ghasemi/Hossein Ghasemi3.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "حسین قاسمی",
-        "name_en": "Hossein Ghasemi",
-        "year": 2019,
-        "age": 19,
-        "gender": null,
-        "city": "Eslamshahr",
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
           "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
@@ -42644,7 +39743,8 @@
         "country": "Iran",
         "sources": [
           "https://policehumanrightsresources.org/content/uploads/2021/03/MDE1323082020ENGLISH.pdf",
-          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
+          "https://amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": [
@@ -42657,34 +39757,6 @@
         "coordinates": [
           50.9796,
           35.7247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "حسین قدمی",
-        "name_en": "Hossein Ghadami",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Hossein Ghadami/Hossein Ghadami.jpg",
-          "Hossein Ghadami/Hossein Ghadami.png"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
         ]
       }
     },
@@ -42721,36 +39793,8 @@
       "properties": {
         "name_fa": "حسین کریمی",
         "name_en": "Hossein Karimi",
-        "year": 2019,
+        "year": 2026,
         "age": 51,
-        "gender": null,
-        "city": "Isfahan",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Hossein Karimi/Hossein Karimi.jpg",
-          "Hossein Karimi/Hossein Karimi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "حسین کریمی",
-        "name_en": "Hossein Karimi",
-        "year": null,
-        "age": null,
         "gender": null,
         "city": "Yaftabad",
         "province": "Tehran",
@@ -42942,27 +39986,24 @@
       "type": "Feature",
       "properties": {
         "name_fa": "حسین لشنی",
-        "name_en": "Hossein Lashani",
+        "name_en": null,
         "year": null,
         "age": null,
         "gender": null,
-        "city": "Pakdasht",
-        "province": "Tehran",
+        "city": null,
+        "province": null,
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Hossein Lashani/Hossein Lashani.jpg",
-          "Hossein Lashani/Hossein Lashani_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.6833,
-          35.4667
+          55.5,
+          33.3
         ]
       }
     },
@@ -43349,31 +40390,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "حسین نیاز",
-        "name_en": "Hossein Niaz",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "حسین نیازی",
         "name_en": "Hossein Niazi",
         "year": 2019,
@@ -43383,32 +40399,8 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/",
           "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "حسین نیازی",
-        "name_en": "Hossein Niazi",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": []
@@ -55950,40 +52942,11 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Rezvan Abdi/Rezvan Abdi.jpeg",
-          "Rezvan Abdi/Rezvan Abdi.jpg",
-          "Rezvan Abdi/Rezvan Abdi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "رضوان عبدی",
-        "name_en": "Rezvan Abdi",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -56114,7 +53077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "رهام برجسته ۱۱ساله",
+        "name_fa": "رهام برجسته",
         "name_en": "Raham Borjasteh",
         "year": null,
         "age": 11,
@@ -56167,7 +53130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "رهام سعادتی ۱۷ ساله",
+        "name_fa": "رهام سعادتی",
         "name_en": "Roham Saadati",
         "year": null,
         "age": 17,
@@ -56257,90 +53220,14 @@
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Robina Aminian/Robina Aminian.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "روبینا امینیان",
-        "name_en": "Roubina Aminian",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b14"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "روبینا امینیان",
-        "name_en": "Robina Aminian",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Robina Aminian/Robina Aminian.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "روبینا امینیان",
-        "name_en": "Rvbyna Aminian",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b14",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Rvbyna Aminian/Rvbyna Aminian.jpg",
-          "Rvbyna Aminian/Rvbyna Aminian_.jpg"
+          "Robina Aminian/Robina Aminian.jpeg"
         ]
       },
       "geometry": {
@@ -56523,34 +53410,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "روح‌الله ستاره مشتری",
-        "name_en": "Rouh-Allah Setareh Moshtari",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Chenaran",
-        "province": "Razavi Khorasan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Rouh-Allah Setareh Moshtari/Rouh-Allah Setareh Moshtari.jpg",
-          "Rouh-Allah Setareh Moshtari/Rouh-Allah Setareh Moshtari_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.1185005,
-          36.6483961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "روح‌الله ستاره‌مشتری",
         "name_en": "Rouhollah Settare Moshtari",
         "year": 2026,
@@ -56560,7 +53419,8 @@
         "province": "Khorasan Razavi",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b05"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b05",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": []
@@ -56990,39 +53850,11 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Reyhaneh Ghodsi/Reyhaneh Ghodsi.jpeg",
-          "Reyhaneh Ghodsi/Reyhaneh Ghodsi.jpg",
-          "Reyhaneh Ghodsi/Reyhaneh Ghodsi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ریحانه قدسی",
-        "name_en": "Reyhaneh Ghodsi",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Qazvin",
         "province": "Qazvin",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -76728,8 +73560,7 @@
         ],
         "links": [],
         "photos": [
-          "Abbas Babanajad/Abbas Babanajad.jpg",
-          "Abbas Babanajad/Abbas Babanajad_.jpg"
+          "Abbas Babanajad/Abbas Babanajad.jpg"
         ]
       },
       "geometry": {
@@ -119303,10 +116134,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "محمدرضا خانی ۱۷ ساله",
+        "name_fa": "محمدرضا خانی",
         "name_en": "Mohammadreza Khani",
         "year": 2026,
-        "age": null,
+        "age": 17,
         "gender": null,
         "city": "Karaj",
         "province": "Alborz",
@@ -129686,7 +126517,9 @@
           "https://www.youtube.com/shorts/zkD4hBDdBwM",
           "https://www.instagram.com/reels/DUgGQBwiCdJ/"
         ],
-        "links": [],
+        "links": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "photos": [
           "Mozaffar Shad mehr/2.PNG",
           "Mozaffar Shad mehr/as2.PNG",
@@ -129699,34 +126532,6 @@
         "coordinates": [
           51.165,
           35.5569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مظفر شادمهر",
-        "name_en": "Mozaffar Shadmehr",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Nasimshahr",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mozaffar Shadmehr/Mozaffar Shadmehr.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1591692,
-          35.5683375
         ]
       }
     },
@@ -129795,31 +126600,6 @@
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Masoumeh Ebrahimi/Masoumeh Ebrahimi.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "معصومه ابراهیمی",
-        "name_en": "Masoumeh Ebrahimi",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
         "sources": [
           "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
@@ -129831,8 +126611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.5,
-          33.3
+          51.1039,
+          35.5611
         ]
       }
     },
@@ -129872,38 +126652,11 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Masoumeh Hafezi/Masoumeh Hafezi.jpg",
-          "Masoumeh Hafezi/Masoumeh Hafezi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "معصومه حافظی",
-        "name_en": "Masoumeh Hafezi",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Qazvin",
         "province": "Qazvin",
         "country": "Iran",
         "sources": [
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -130019,45 +126772,18 @@
         "year": 2026,
         "age": 21,
         "gender": "male",
-        "city": "Shahriyar",
-        "province": null,
+        "city": "Shahriar",
+        "province": "Tehran",
         "country": "Iran",
         "sources": [
           "https://www.iranintl.com/fa/202602178347",
-          "https://www.iranintl.com/202601280860?utm_source=chatgpt.com"
+          "https://www.iranintl.com/202601280860?utm_source=chatgpt.com",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
           "Moeen Basiri/34.PNG",
           "Moeen Basiri/moein1.PNG"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.0586022,
-          35.6589015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "معین بصیری",
-        "name_en": "Moein Basiri",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Shahriar",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Moein Basiri/Moein Basiri.jpg",
-          "Moein Basiri/Moein Basiri_.jpg"
         ]
       },
       "geometry": {
@@ -130598,65 +127324,12 @@
         "province": null,
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b40"
-        ],
-        "links": [],
-        "photos": [
-          "Melika Dastyab/Melika Dastyab.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ملیکا دستیاب",
-        "name_en": "Melika Dastyab",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b40",
           "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
         "links": [],
         "photos": [
           "Melika Dastyab/Melika Dastyab.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ملیکا شاه‌مرادی",
-        "name_en": "Melika Shahmoradi",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Melika Shahmoradi/Melika Shahmoradi.jpeg"
         ]
       },
       "geometry": {
@@ -130671,20 +127344,20 @@
       "type": "Feature",
       "properties": {
         "name_fa": "ملیکا شاهمرادی (دستیاب)",
-        "name_en": "Mlyka Shahmradi (Dstyab)",
+        "name_en": "Melika Shahmoradi",
         "year": 2026,
         "age": 15,
-        "gender": null,
+        "gender": "female",
         "city": "Kerend-e Gharb",
         "province": "Kermanshah",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
         "links": [],
         "photos": [
-          "Mlyka Shahmradi (Dstyab)/Mlyka Shahmradi (Dstyab).jpg",
-          "Mlyka Shahmradi (Dstyab)/Mlyka Shahmradi (Dstyab)_.jpg"
+          "Melika Shahmoradi/Melika Shahmoradi.jpeg"
         ]
       },
       "geometry": {
@@ -130740,7 +127413,8 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
-          "https://www.instagram.com/p/DT8kEZrAU9T/"
+          "https://www.instagram.com/p/DT8kEZrAU9T/",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -130753,34 +127427,6 @@
         "coordinates": [
           47.1318,
           34.3826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ملینا اسدی ۳ ساله",
-        "name_en": "Mlyna Asadi",
-        "year": 2026,
-        "age": 3,
-        "gender": null,
-        "city": "Kermanshah",
-        "province": "Kermanshah",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mlyna Asadi/Mlyna Asadi.jpg",
-          "Mlyna Asadi/Mlyna Asadi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.065,
-          34.3142
         ]
       }
     },
@@ -131038,33 +127684,7 @@
         "province": "Khuzestan",
         "country": "Iran",
         "sources": [
-          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com"
-        ],
-        "links": [],
-        "photos": [
-          "Mansour Asakereh/Mansour Asakereh.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.1981,
-          30.5589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "منصور عساکره",
-        "name_en": "Mansour Asakereh",
-        "year": 2019,
-        "age": null,
-        "gender": null,
-        "city": "Mahshahr",
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com",
           "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
@@ -131199,7 +127819,8 @@
         "province": null,
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
         "links": [],
         "photos": []
@@ -131209,61 +127830,6 @@
         "coordinates": [
           55.5,
           33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "منصوره حیدری",
-        "name_en": "Mansoureh Heydari",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Mansoureh Heydari/Mansoureh Heydari.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "منصوره حیدری و بهروز منصوری",
-        "name_en": "Mnsvreh Heidari U Behrouz Mansouri",
-        "year": 2026,
-        "age": 15,
-        "gender": null,
-        "city": "Bushehr",
-        "province": "Bushehr",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mnsvreh Heidari U Behrouz Mansouri/Mnsvreh Heidari U Behrouz Mansouri.jpg",
-          "Mnsvreh Heidari U Behrouz Mansouri/Mnsvreh Heidari U Behrouz Mansouri_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8203,
-          28.9234
         ]
       }
     },
@@ -131331,41 +127897,14 @@
         "age": null,
         "gender": "male",
         "city": "Lahijan",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.0034,
-          37.2076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "منوچهر نیک‌پور",
-        "name_en": "Manouchehr Nikpour",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Lahijan",
         "province": "Gilan",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Manouchehr Nikpour/Manouchehr Nikpour.jpg",
-          "Manouchehr Nikpour/Manouchehr Nikpour_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -131585,37 +128124,11 @@
         "city": "Aryashahr",
         "province": "Tehran",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3148,
-          35.7219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی آقاحسینی",
-        "name_en": "Mehdi Aghahsyni",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Ariyashahr",
-        "province": "Tehran",
-        "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Mehdi Aghahsyni/Mehdi Aghahsyni.jpg",
-          "Mehdi Aghahsyni/Mehdi Aghahsyni_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -132139,38 +128652,11 @@
         "year": 2026,
         "age": null,
         "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b34"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Emamipour/Mehdi Emamipour.jpg",
-          "Mehdi Emamipour/Mehdi Emamipour_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی امامی‌پور",
-        "name_en": "Mehdi Emamipour",
-        "year": 2026,
-        "age": null,
-        "gender": null,
         "city": "Malekshahi",
         "province": "Ilam",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b34",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -132218,7 +128704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "مهدی ایران‌پور",
+        "name_fa": "مهدی ایرانپور",
         "name_en": "Mehdi Iranpour",
         "year": 2026,
         "age": 30,
@@ -132226,61 +128712,8 @@
         "city": "Kerman",
         "province": "Kerman",
         "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": [
-          "Mehdi Iranpour/Mehdi Iranpour.jpg",
-          "Mehdi Iranpour/Mehdi Iranpour_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.0788,
-          30.2832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی ایرانپور",
-        "name_en": "Mehdi Iranpour",
-        "year": 2026,
-        "age": 30,
-        "gender": "male",
-        "city": "Kerman",
-        "province": null,
-        "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Iranpour/Mehdi Iranpour.jpg",
-          "Mehdi Iranpour/Mehdi Iranpour_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.0788,
-          30.2832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی ایرانپور",
-        "name_en": "Mehdi Iranpour",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Kerman",
-        "province": "Kerman",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -132411,31 +128844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "مهدی بحر نژاد",
-        "name_en": "Mehdi Bahr Nezhad",
-        "year": 2022,
-        "age": 0,
-        "gender": "male",
-        "city": "Torbat Jam",
-        "province": "Khorasan",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D9%88-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%DB%B6%DB%B6%DB%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%A7%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          60.6225,
-          35.244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "مهدی بقایی",
         "name_en": "Mehdi Baghaei",
         "year": null,
@@ -132492,44 +128900,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "مهدی بیاضی",
-        "name_en": "Mehdi Bayazi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Rasht",
-        "province": "Gilan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Bayazi/Mehdi Bayazi.jpg",
-          "Mehdi Bayazi/Mehdi Bayazi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5832,
-          37.2808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "مهدی بیضایی",
         "name_en": "Mehdi Beizaei",
         "year": 2026,
         "age": 36,
         "gender": "male",
         "city": "Rasht",
-        "province": null,
+        "province": "Gilan",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
+          "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
@@ -132556,7 +128937,8 @@
         "province": "Alborz",
         "country": "Iran",
         "sources": [
-          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com"
+          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": []
@@ -132566,58 +128948,6 @@
         "coordinates": [
           50.9796,
           35.7247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی پاپی",
-        "name_en": "Mehdi Papei",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی پایی",
-        "name_en": "Mehdi Papey",
-        "year": 2019,
-        "age": 31,
-        "gender": null,
-        "city": "Shahriar",
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Papey/Mehdi Papey.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.059,
-          35.659
         ]
       }
     },
@@ -132766,66 +129096,11 @@
         "year": 2026,
         "age": 0,
         "gender": "male",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Jafari/Mehdi Jafari.jpg",
-          "Mehdi Jafari/Mehdi Jafari_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی جعفری",
-        "name_en": "Mehdi Jafari",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Jafari/Mehdi Jafari.jpg",
-          "Mehdi Jafari/Mehdi Jafari_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی جعفری",
-        "name_en": "Mehdi Jafari",
-        "year": null,
-        "age": null,
-        "gender": null,
         "city": "Karaj",
         "province": "Alborz",
         "country": "Iran",
         "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
@@ -132938,7 +129213,8 @@
         "province": "Fars",
         "country": "Iran",
         "sources": [
-          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com"
+          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com",
+          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
         "photos": []
@@ -132948,31 +129224,6 @@
         "coordinates": [
           52.5837,
           29.5918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی جهانبازی",
-        "name_en": "Mehdi Jahanbazi",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Fars",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.5097,
-          29.8012
         ]
       }
     },
@@ -133148,35 +129399,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "مهدی حسینی",
-        "name_en": "Mehdi Hosseini",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Ariashahr",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Hosseini/Mehdi Hosseini.jpg",
-          "Mehdi Hosseini/Mehdi Hosseini_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3148,
-          35.7219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "مهدی حسینی منجزی",
         "name_en": "Mehdi Hosseini Monjazi",
         "year": null,
@@ -133269,39 +129491,12 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Heidar Arabi/Mehdi Heidar Arabi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی حیدرعربی",
-        "name_en": "Mehdi Hydrrbi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
         "photos": [
-          "Mehdi Hydrrbi/Mehdi Hydrrbi.jpg",
-          "Mehdi Hydrrbi/Mehdi Hydrrbi_.jpg"
+          "Mehdi Heidar Arabi/Mehdi Heidar Arabi.jpg"
         ]
       },
       "geometry": {
@@ -133436,60 +129631,7 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Daemi/Mehdi Daemi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.059,
-          35.659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی دائمی",
-        "name_en": "Mehdi Daemi",
-        "year": 2019,
-        "age": null,
-        "gender": "male",
-        "city": null,
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
-        ],
-        "links": [],
-        "photos": [
-          "Mehdi Daemi/Mehdi Daemi.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "مهدی دائمی",
-        "name_en": "Mehdi Daemi",
-        "year": 2019,
-        "age": null,
-        "gender": null,
-        "city": "Shahriar",
-        "province": null,
-        "country": "Iran",
-        "sources": [
+          "https://www.amnesty.org/en/wp-content/uploads/2022/07/MDE1323082020ENGLISH.pdf?utm_source=chatgpt.com",
           "https://iranhrs.org/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B9%DB%B8-%DA%A9%D8%A7/"
         ],
         "links": [],
