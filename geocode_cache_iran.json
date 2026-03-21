@@ -4626,5 +4626,37 @@
   "chaloos, mazandaran, iran": [
     36.6506329,
     51.4223717
+  ],
+  "isfahan, esfahan, iran": [
+    32.6707877,
+    51.6650002
+  ],
+  "shahr-e qods tehran, tehran, iran": [
+    35.7245271,
+    51.1285863
+  ],
+  "shahrak-e andisheh, karaj, iran": [
+    null,
+    null
+  ],
+  "shooshtar, khuzestan, iran": [
+    null,
+    null
+  ],
+  "afsarieh tehran, tehran, iran": [
+    35.6540129,
+    51.4953395
+  ],
+  "shahriar amiriyeh, tehran, iran": [
+    null,
+    null
+  ],
+  "dolatabad shahr-e ray, tehran, iran": [
+    null,
+    null
+  ],
+  "siahkal, gilan, iran": [
+    37.1521893,
+    49.8716407
   ]
 }
