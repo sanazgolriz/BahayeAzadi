@@ -4658,5 +4658,61 @@
   "siahkal, gilan, iran": [
     37.1521893,
     49.8716407
+  ],
+  "nazeebad, tehran, iran": [
+    null,
+    null
+  ],
+  "nazeebad, iran": [
+    null,
+    null
+  ],
+  "saba shahr, tehran, iran": [
+    null,
+    null
+  ],
+  "kut abdollah ahvaz, khuzestan, iran": [
+    null,
+    null
+  ],
+  "nahavand, tehran, iran": [
+    null,
+    null
+  ],
+  "kaj square, tehran, tehran, iran": [
+    35.7816063,
+    51.374782
+  ],
+  "saveh road tehran, tehran, iran": [
+    35.5022576,
+    51.1300359
+  ],
+  "zeinabiyeh isfahan, isfahan, iran": [
+    null,
+    null
+  ],
+  "golpayegan, iran": [
+    33.456488,
+    50.2883303
+  ],
+  "golsar rasht, gilan, iran": [
+    37.30577,
+    49.5803468
+  ],
+  "arak, fars, iran": [
+    34.0718355,
+    49.7381425
+  ],
+  "dizaj, kurdistan, iran": [
+    35.1065,
+    47.9725
+  ],
+  "shahrak andishe, iran": [
+    31.8085635,
+    54.3661093
+  ],
+  "shahr-e qods, tehran, iran": [
+    35.7245271,
+    51.1285863
   ]
 }
