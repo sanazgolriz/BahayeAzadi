@@ -81234,7 +81234,7 @@
       "type": "Feature",
       "properties": {
         "name_fa": "غزل دمیرچلی",
-        "name_en": "Ghazal Domarcheli",
+        "name_en": "Ghazal Damircheli",
         "year": 2026,
         "age": 17,
         "gender": "female",
@@ -81243,13 +81243,12 @@
         "country": "Iran",
         "sources": [
           "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/_masood_damircheli/",
+          "https://www.instagram.com/mansuredamirchy/"
         ],
         "links": [],
-        "photos": [
-          "Ghazal Domarcheli/Ghazal Demircheli.JPG",
-          "Ghazal Domarcheli/Ghazal Domarcheli.jpeg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -101596,34 +101595,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "محمدابراهیم داداشی کلایی",
-        "name_en": "Mhmdabrahym Dadashi Klayi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Babol",
-        "province": "Mazandaran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mhmdabrahym Dadashi Klayi/Mhmdabrahym Dadashi Klayi.jpg",
-          "Mhmdabrahym Dadashi Klayi/Mhmdabrahym Dadashi Klayi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.6786,
-          36.55102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "محمدابراهیم داداشی‌زاده",
         "name_en": "Mohammad Ebrahim Dadashi Zadeh",
         "year": 2026,
@@ -107853,39 +107824,12 @@
         "province": "Alborz",
         "country": "Iran",
         "sources": [
+          "https://t.me/RememberTheirNames/",
           "https://www.instagram.com/p/DVSt3jIEc0N/"
         ],
         "links": [],
         "photos": [
           "Mohammadmehdi Khan Mohamadi/Mohammadmehdi Khan Mohamadi.PNG"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "محمدمهدی خان‌محمدی",
-        "name_en": "Mohammadmehdi Khanmohammadi",
-        "year": null,
-        "age": null,
-        "gender": null,
-        "city": "Karaj",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Mohammadmehdi Khanmohammadi/Mohammadmehdi Khanmohammadi.jpg"
         ]
       },
       "geometry": {
@@ -128906,7 +128850,6 @@
         "links": [],
         "photos": [
           "Negin Ghadimi/Negin Ghadimi.jpeg",
-          "Negin Ghadimi/Negin Ghadimi.JPG",
           "Negin Ghadimi/Negin Ghadimi.png",
           "Negin Ghadimi/Negin Ghadimi_.jpg",
           "Negin Ghadimi/Negin2.PNG",
@@ -132651,34 +132594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "یاسین (سهیل) الماسی",
-        "name_en": "Yasin (Soheil) Almasi",
-        "year": 2026,
-        "age": 17,
-        "gender": null,
-        "city": "Marvdasht",
-        "province": "Fars",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Yasin (Soheil) Almasi/Yasin (Soheil) Almasi.jpg",
-          "Yasin (Soheil) Almasi/Yasin (Soheil) Almasi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.8025,
-          29.8742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "یاسین (مجتبی) رمضان‌نژاد",
         "name_en": "Yasin (Mojtaba) Ramezan Nejad",
         "year": 2019,
@@ -134556,14 +134471,14 @@
         "name_fa": "یونس وحیدی",
         "name_en": "Younes Vahidi",
         "year": null,
-        "age": null,
+        "age": 25,
         "gender": null,
         "city": "Rudhen",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
+          "https://www.instagram.com/p/DVQ628SCvQ0/"
         ],
         "links": [],
         "photos": [
@@ -134575,6 +134490,1278 @@
         "coordinates": [
           51.1039,
           35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "عسل نجفی راد",
+        "name_en": "Asal Najafi Rad",
+        "year": null,
+        "age": 19,
+        "gender": null,
+        "city": "Tehran",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "جواد ملاوردی خانی",
+        "name_en": "Javad Mollaverdi Khani",
+        "year": null,
+        "age": 34,
+        "gender": null,
+        "city": "Golshahr Karaj",
+        "province": "Albroz",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9363742,
+          35.817864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "فاطمه عباسی",
+        "name_en": "Fatemeh Abbasi",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Keshavarz Blvd",
+        "province": "Isfahan",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6273002,
+          32.6235632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "رسول فعله گری",
+        "name_en": "Rasool Felegari",
+        "year": null,
+        "age": 41,
+        "gender": null,
+        "city": "Qarchak",
+        "province": "Varamin",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.57757,
+          35.42873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "غزل عجمانی",
+        "name_en": "Ghazal Ajmani",
+        "year": null,
+        "age": 19,
+        "gender": null,
+        "city": "Parand",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "علی غلاملو",
+        "name_en": "Ali Gholamloo",
+        "year": null,
+        "age": 17,
+        "gender": null,
+        "city": "Shahriar",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": [
+          "Ali Gholamloo/Ali Gholamloo.jpg",
+          "Ali Gholamloo/ali1.PNG"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.059,
+          35.659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "حسن مظلومی",
+        "name_en": "Hassan Mazloomi",
+        "year": null,
+        "age": 28,
+        "gender": null,
+        "city": "Yaftabad",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3421551,
+          35.6612358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "امین اسکندری",
+        "name_en": "Amin Eskandari",
+        "year": null,
+        "age": 39,
+        "gender": null,
+        "city": "Ardabil",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2933,
+          38.2498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "پوریا جوادی",
+        "name_en": "Pouriya Javadi",
+        "year": null,
+        "age": 28,
+        "gender": null,
+        "city": "Tehranpars",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5259,
+          35.7446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "علی منوچهر آبادی",
+        "name_en": "Ali Manoochehr Abadi",
+        "year": null,
+        "age": 22,
+        "gender": null,
+        "city": "Tehranpars",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5259,
+          35.7446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "مهدی عباداللهی",
+        "name_en": "Mehdi Ebadullahi",
+        "year": null,
+        "age": 36,
+        "gender": null,
+        "city": "Tajrish",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4409634,
+          35.804937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Hossein Salahi",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Qaemshahr",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Hossein Salahi/Hossein Salahi.jpg",
+          "Hossein Salahi/Hossein Salahi_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8606,
+          36.4627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Hossein Sadeghi Sadr",
+        "year": null,
+        "age": 21,
+        "gender": null,
+        "city": "Tehran",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Hossein Sadeghi Sadr/Hossein Sadeghi Sadr.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Saeid Salari",
+        "year": null,
+        "age": 34,
+        "gender": null,
+        "city": "Golestan Baharestan",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1602714,
+          35.5186844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Ali Sharif Hosseini",
+        "year": null,
+        "age": 25,
+        "gender": null,
+        "city": "Shadabad",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5447,
+          35.7955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Amirreza Khosrotaj",
+        "year": null,
+        "age": 31,
+        "gender": null,
+        "city": "Shiraz",
+        "province": "Fars",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Amirreza Khosrotaj/Amirreza Khosrotaj.jpg",
+          "Amirreza Khosrotaj/Amirreza Khosrotaj_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5837,
+          29.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Ariya Rafei",
+        "year": null,
+        "age": 55,
+        "gender": null,
+        "city": "Baharestan",
+        "province": "Isfahan",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Ariya Alidoost",
+        "year": null,
+        "age": 26,
+        "gender": null,
+        "city": "Lahijan",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0034,
+          37.2076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Amirmohhamad Hamouleh",
+        "year": null,
+        "age": 24,
+        "gender": null,
+        "city": "Andishe",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0296232,
+          35.7052413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Sina Alizadegan",
+        "year": null,
+        "age": 20,
+        "gender": null,
+        "city": "Andishe Shahriyar",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Sina Alizadegan/Sina Alizadegan.jpg",
+          "Sina Alizadegan/Sina Alizadegan_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0193867,
+          35.6863198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mostafa Salehi",
+        "year": null,
+        "age": 41,
+        "gender": null,
+        "city": "Yazdanshahr",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Mostafa Salehi/Mostafa Salehi.jpg",
+          "Mostafa Salehi/Mostafa Salehi_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Naser Khoshnoodi Najafabadi",
+        "year": null,
+        "age": 39,
+        "gender": null,
+        "city": "Najafabad",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3668,
+          32.6344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mohammad Mehdi Majidi",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Najafabad",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3668,
+          32.6344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Ahmad Raisi Nafchi",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Yazdanshahr",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Arash Ghoreyshi",
+        "year": null,
+        "age": 27,
+        "gender": null,
+        "city": "Nasimshahr",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1591692,
+          35.5683375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mostafa Koohsari",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Azadshahr",
+        "province": "Golestan",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1725639,
+          37.0875125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mehdi Mardan Nik",
+        "year": null,
+        "age": 34,
+        "gender": null,
+        "city": "Emamiyeh Mashhad",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5171874,
+          36.3593499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Ariya Shoghi",
+        "year": null,
+        "age": 16,
+        "gender": null,
+        "city": "Fardis",
+        "province": "Karaj",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mohammad Ghalenoeyi",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Jajarm",
+        "province": "North Khorasan",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.5278232,
+          36.7038273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Arash Mohammadizadeh",
+        "year": null,
+        "age": 15,
+        "gender": null,
+        "city": "Shiraz",
+        "province": "Fars",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5837,
+          29.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Amir Fooladi",
+        "year": null,
+        "age": 22,
+        "gender": null,
+        "city": "Dampezeshki St",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Amir Fooladi/Amir Fooladi.jpg",
+          "Amir Fooladi/Amir Fooladi.PNG",
+          "Amir Fooladi/Amir Fooladi_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3697155,
+          35.6933037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mohammadreza Nemati Seraj",
+        "year": null,
+        "age": 52,
+        "gender": null,
+        "city": "Fardis",
+        "province": "Karaj",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Amirhossein Vaghari",
+        "year": null,
+        "age": 21,
+        "gender": null,
+        "city": "Fardis",
+        "province": "Karaj",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Amirhossein Vaghari/Amirhossein Vaghari.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mohammadhossein Rezaei",
+        "year": null,
+        "age": 21,
+        "gender": null,
+        "city": "Shiraz",
+        "province": "Fars",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5837,
+          29.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mohammad Goli",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Najafabad",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Mohammad Goli/Mohammad Goli.jpg",
+          "Mohammad Goli/Mohammad Goli_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3668,
+          32.6344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Amirhossein Karimi",
+        "year": null,
+        "age": 20,
+        "gender": null,
+        "city": "Narmak",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Amirhossein Karimi/Amirhossein Karimi.jpg",
+          "Amirhossein Karimi/Amirhossein Karimi_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4864,
+          35.7368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mohammad Rajabi Bistgani",
+        "year": null,
+        "age": 36,
+        "gender": null,
+        "city": "Zayande rood Esfahan",
+        "province": "Isfahan",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Mohammad Rajabi Bistgani/Mohammad Rajabi Bistgani.jpg",
+          "Mohammad Rajabi Bistgani/Mohammad Rajabi Bistgani_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6840002,
+          32.6334209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Amirreza Kermajani",
+        "year": null,
+        "age": 23,
+        "gender": null,
+        "city": "Fardis",
+        "province": "Karaj",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Omid Allahdad",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Hafthoz",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Omid Allahdad/Omid Allahdad.jpg",
+          "Omid Allahdad/Omid Allahdad_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Hessamudin Aalami",
+        "year": null,
+        "age": 20,
+        "gender": null,
+        "city": "Mehrshahr",
+        "province": "Karaj",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8986711,
+          35.8090781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Mehdi Karimpour",
+        "year": null,
+        "age": 22,
+        "gender": null,
+        "city": "Mehskin dasht Karaj",
+        "province": "Alborz",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Mehdi Karimpour/Mehdi Karimpour.jpg",
+          "Mehdi Karimpour/Mehdi Karimpour_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9391,
+          35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Babak Sadeghi Mohseni",
+        "year": null,
+        "age": 31,
+        "gender": null,
+        "city": "Tehran",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Babak Sadeghi Mohseni/Babak Sadeghi Mohseni.jpg",
+          "Babak Sadeghi Mohseni/Babak Sadeghi Mohseni_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Behrouz Aghajanlou",
+        "year": null,
+        "age": 37,
+        "gender": null,
+        "city": "Zanjan",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Behrouz Aghajanlou/Behrouz Aghajanlou.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.49628,
+          36.6736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Alireza Safdel",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Rasht",
+        "province": "Gilan",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Alireza Safdel/Alireza Safdel.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5832,
+          37.2808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Sajjad Hassanlou",
+        "year": null,
+        "age": null,
+        "gender": null,
+        "city": "Vavan",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.217727,
+          35.5080435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Shaghayegh Kamali",
+        "year": null,
+        "age": 27,
+        "gender": null,
+        "city": "Vavan",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": [
+          "Shaghayegh Kamali/Shaghayegh Kamali.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.217727,
+          35.5080435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Amir Taha Eskandari",
+        "year": null,
+        "age": 19,
+        "gender": null,
+        "city": "Vavan",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.217727,
+          35.5080435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Hamidreza Namazi",
+        "year": null,
+        "age": 26,
+        "gender": null,
+        "city": "Vavan",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.217727,
+          35.5080435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": null,
+        "name_en": "Yusef Mohammadali Zadeh",
+        "year": null,
+        "age": 33,
+        "gender": null,
+        "city": "Parand",
+        "province": null,
+        "country": "Iran",
+        "sources": [],
+        "links": [
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
         ]
       }
     }

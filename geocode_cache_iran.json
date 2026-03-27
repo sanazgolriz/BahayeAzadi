@@ -4714,5 +4714,61 @@
   "shahr-e qods, tehran, iran": [
     35.7245271,
     51.1285863
+  ],
+  "golshahr karaj, albroz, iran": [
+    null,
+    null
+  ],
+  "golshahr karaj, iran": [
+    35.817864,
+    50.9363742
+  ],
+  "keshavarz blvd, isfahan, iran": [
+    32.6235632,
+    51.6273002
+  ],
+  "golestan baharestan, tehran, iran": [
+    35.5186844,
+    51.1602714
+  ],
+  "andishe, tehran, iran": [
+    35.7052413,
+    51.0296232
+  ],
+  "andishe shahriyar, iran": [
+    35.6863198,
+    51.0193867
+  ],
+  "emamiyeh mashhad, iran": [
+    36.3593499,
+    59.5171874
+  ],
+  "dampezeshki st, tehran, iran": [
+    35.6933037,
+    51.3697155
+  ],
+  "zayande rood esfahan, isfahan, iran": [
+    32.6334209,
+    51.6840002
+  ],
+  "hafthoz, tehran, iran": [
+    null,
+    null
+  ],
+  "hafthoz, iran": [
+    null,
+    null
+  ],
+  "mehrshahr, karaj, iran": [
+    35.8090781,
+    50.8986711
+  ],
+  "mehskin dasht karaj, alborz, iran": [
+    null,
+    null
+  ],
+  "mehskin dasht karaj, iran": [
+    null,
+    null
   ]
 }
