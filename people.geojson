@@ -53042,20 +53042,22 @@
         "name_fa": "شیوا رحیمی",
         "name_en": "Shiva Rahimi",
         "year": 2026,
-        "age": null,
+        "age": 33,
         "gender": "female",
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
           "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/p/DXCW1QmCjUo/"
         ],
         "links": [],
         "photos": [
           "Shiva Rahimi/Shiva Rahimi.jpeg",
           "Shiva Rahimi/Shiva Rahimi.jpg",
-          "Shiva Rahimi/Shiva Rahimi_.jpg"
+          "Shiva Rahimi/Shiva Rahimi_.jpg",
+          "Shiva Rahimi/Shiva.PNG"
         ]
       },
       "geometry": {
@@ -59578,59 +59580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "گلاله محمودآذر",
-        "name_en": "Golaleh Mahmoud Azar",
-        "year": 2026,
-        "age": null,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "گلاله محمودی‌آذر",
-        "name_en": "Glaleh Mahmoudiazar",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Glaleh Mahmoudiazar/Glaleh Mahmoudiazar.jpg",
-          "Glaleh Mahmoudiazar/Glaleh Mahmoudiazar_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "گلسا شریفی",
         "name_en": "Golsa Sharifi",
         "year": 2026,
@@ -60332,7 +60281,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "مبین یعقوبزاده",
+        "name_fa": "مبین یعقوب زاده",
         "name_en": "Mobin Yaghubzadeh",
         "year": 2026,
         "age": 17,
@@ -91911,7 +91860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "دیاکو گنجور ۱۷ساله",
+        "name_fa": "دیاکو گنجور",
         "name_en": "Diako Ganjour",
         "year": 2026,
         "age": 17,
@@ -91940,34 +91889,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "رئوف درخشان‌فر",
-        "name_en": "Raoof Derakhshanfar",
-        "year": 2026,
-        "age": 19,
-        "gender": null,
-        "city": "Dezful",
-        "province": "Khuzestan",
-        "country": "Iran",
-        "sources": [],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.4053,
-          32.3836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "رئوف درخشانی‌مهر",
         "name_en": "Raouf Derakhshanimehr",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 19,
+        "gender": "male",
         "city": "Dezful",
         "province": "Khuzestan",
         "country": "Iran",
@@ -92022,17 +91948,19 @@
         "name_fa": "راحله اکرمی",
         "name_en": "Raheleh Akrami",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 37,
+        "gender": "female",
         "city": "Narmak (Tehran)",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/p/DW_xyqSCnDb/"
         ],
         "links": [],
         "photos": [
           "Raheleh Akrami/Raheleh Akrami.jpg",
+          "Raheleh Akrami/Raheleh Akrami.PNG",
           "Raheleh Akrami/Raheleh Akrami_.jpg"
         ]
       },
@@ -92128,11 +92056,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "رامتین میرزادخت ۱۷ ساله",
+        "name_fa": "رامتین میرزادخت",
         "name_en": "Ramtin Mirzadokht",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 17,
+        "gender": "male",
         "city": "Vavan (Eslamshahr)",
         "province": "Tehran",
         "country": "Iran",
@@ -100347,17 +100275,19 @@
         "name_fa": "عباس قنبری",
         "name_en": "Abbas Ghanbari",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 38,
+        "gender": "male",
         "city": "Shiraz",
         "province": "Fars",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/media.mosavar/p/DXExiFxCk4e/"
         ],
         "links": [],
         "photos": [
           "Abbas Ghanbari/Abbas Ghanbari.jpg",
+          "Abbas Ghanbari/Abbas Ghanbari.PNG",
           "Abbas Ghanbari/Abbas Ghanbari_.jpg"
         ]
       },
@@ -128820,7 +128750,9 @@
           "https://www.instagram.com/p/DTxFoDFDPGd/"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Amirsalar Bahmannejad/Amirsalar Bahmannejad.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -185456,19 +185388,26 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "گالله محمودی آذر",
-        "name_en": "Galleh Mahmoudi Azar",
+        "name_fa": "گلالە محمودی آذر",
+        "name_en": "Golaleh Mahmoudi Azar",
         "year": 2026,
-        "age": 0,
-        "gender": "unknown",
+        "age": 31,
+        "gender": "female",
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://www.instagram.com/p/DTfXSyviuqr/",
+          "https://www.instagram.com/reels/DTgWdNbgZnQ/",
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
         ],
-        "links": [],
-        "photos": []
+        "links": [
+          "https://t.me/RememberTheirNames/"
+        ],
+        "photos": [
+          "Golaleh Mahmoudi Azar/Golaleh Mahmoudi Azar.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
