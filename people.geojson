@@ -38,7 +38,7 @@
         "age": 18,
         "gender": "female",
         "city": "Bandar Abbas",
-        "province": null,
+        "province": "Hormozgan",
         "country": "Iran",
         "sources": [
           "https://www.facebook.com/TweetNewsOfficial/videos/%D9%81%D8%B1%D8%B2%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%AC%D8%A7%D9%86-%D9%81%D8%AF%D8%A7%DB%8C-%D9%85%DB%8C%D9%87%D9%86vaisi_morad/2101344313948869/",
@@ -59,8 +59,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.2808,
-          27.1865
+          56.2842212,
+          27.1901938
         ]
       }
     },
@@ -111,7 +111,10 @@
         "links": [
           "https://www.youtube.com/watch?v=b9BD8x9GtOQ"
         ],
-        "photos": []
+        "photos": [
+          "Sogand Mohadesse Amani/Sogand Amani.jpg",
+          "Sogand Mohadesse Amani/Sogand-Amani-149x150.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -75886,7 +75889,7 @@
         "name_fa": "سروش سلیمانی",
         "name_en": "Soroush Soleimani",
         "year": 2026,
-        "age": 0,
+        "age": 26,
         "gender": "male",
         "city": "Hafshejan",
         "province": "Chaharmahal and Bakhtiari",
@@ -75894,40 +75897,17 @@
         "sources": [
           "https://www.bbc.com/persian/articles/cj4l8dkw851o",
           "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#:~:text=%D8%B4%D8%A8%DA%A9%D9%87%D9%94%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%D9%86%DB%8C%D8%B2%20%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7%D9%8B,%D8%A8%D9%87%E2%80%8C%D8%B7%D9%88%D8%B1%20%D8%B1%D8%B3%D9%85%DB%8C%20%D8%AB%D8%A8%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B4%D9%86%D8%AF.",
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b35"
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b35",
+          "Chaharmahal and Bakhtiari"
         ],
         "links": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "photos": [
-          "Soroush Soleimani/Soroush Soleimani.jpg",
-          "Soroush Soleimani/Soroush Soleimani_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7933,
-          32.2276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "سروش سلیمانی (حافظ سلیمانی)",
-        "name_en": "Soroush Soleimani (Hafez Soleimani)",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Hafshejan",
-        "province": "Chaharmahal and Bakhtiari",
-        "country": "Iran",
-        "sources": [
           "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
-        "links": [],
-        "photos": []
+        "photos": [
+          "Soroush Soleimani/G90GCTyagAAcZ1E.jpg",
+          "Soroush Soleimani/G9zuOkaWsAA3ZGN.jpg",
+          "Soroush Soleimani/Soroush Soleimani.jpg"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -75946,11 +75926,9 @@
         "age": 19,
         "gender": "male",
         "city": "Javanrud",
-        "province": "Kermanshah",
+        "province": null,
         "country": "Iran",
-        "sources": [
-          "https://iranhrs.org/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%D9%88-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%DB%B6%DB%B6%DB%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%A7%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA/"
-        ],
+        "sources": [],
         "links": [],
         "photos": []
       },
@@ -77566,8 +77544,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "سعید سمیعیفر",
-        "name_en": "Saeed Smifr",
+        "name_fa": "سعید سمیعی فر",
+        "name_en": "Saeed Sameifar",
         "year": 2026,
         "age": 0,
         "gender": "male",
@@ -77592,7 +77570,7 @@
       "type": "Feature",
       "properties": {
         "name_fa": "سعید سنجیده",
-        "name_en": "Saeed Snjydeh",
+        "name_en": "Saeed Sanjideh",
         "year": 2026,
         "age": null,
         "gender": null,
@@ -77603,10 +77581,7 @@
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Saeed Snjydeh/Saeed Snjydeh.jpg",
-          "Saeed Snjydeh/Saeed Snjydeh_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -78510,21 +78485,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "سعید مسعودی مرغملکی",
+        "name_fa": "سعید مسعودی مرغ ملکی",
         "name_en": "Saeed Masoudi Morghmaleki",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 32,
+        "gender": "male",
         "city": "Shahrekord",
         "province": "Chaharmahal and Bakhtiari",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://x.com/irannewsagency0/status/2016701335412801949",
+          "https://www.instagram.com/p/DUGH9eQjBIa/",
+          "https://www.instagram.com/p/DUDY_aFjKAl/"
         ],
         "links": [],
         "photos": [
-          "Saeed Masoudi Morghmaleki/Saeed Masoudi Morghmaleki.jpg",
-          "Saeed Masoudi Morghmaleki/Saeed Masoudi Morghmaleki_.jpg"
+          "Saeed Masoudi Morghmaleki/saedi.PNG",
+          "Saeed Masoudi Morghmaleki/Saeed Masoudi Morghmaleki.png"
         ]
       },
       "geometry": {
@@ -81056,35 +81034,6 @@
         "coordinates": [
           55.5,
           33.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "سوگند امانی",
-        "name_en": "Sogand Amani",
-        "year": 2026,
-        "age": 0,
-        "gender": "female",
-        "city": "Kish",
-        "province": "Hormozgan",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": [
-          "Sogand Amani/Sogand Amani.jpeg",
-          "Sogand Amani/Sogand Amani.jpg",
-          "Sogand Amani/Sogand-Amani-149x150.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.9862,
-          26.5323
         ]
       }
     },
@@ -104399,43 +104348,19 @@
         "name_en": "Ali Moradi-Moghaddam",
         "year": 2026,
         "age": null,
-        "gender": null,
+        "gender": "male",
         "city": "Kerman",
         "province": "Kerman",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
         "links": [],
         "photos": [
           "Ali Moradi-Moghaddam/Ali Moradi-Moghaddam.jpg",
           "Ali Moradi-Moghaddam/Ali Moradi-Moghaddam_.jpg"
         ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.0788,
-          30.2832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "علی مرادیمقدم",
-        "name_en": "Ali Mradimghdm",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Kerman",
-        "province": "Kerman",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -104641,42 +104566,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "علی منوچهر آبادی",
-        "name_en": "Ali Manoochehr Abadi",
-        "year": 2026,
-        "age": 22,
-        "gender": null,
-        "city": "Tehranpars",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [],
-        "links": [
-          "https://www.youtube.com/watch?v=hSk7EwLfqxk"
-        ],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5259,
-          35.7446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "علی منوچهر‌آبادی",
         "name_en": "Ali Manouchehrabadi",
         "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Tehran",
+        "age": 22,
+        "gender": "male",
+        "city": "Tehranpars",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.youtube.com/watch?v=hSk7EwLfqxk",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
         "links": [],
         "photos": [
@@ -104686,33 +104588,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "علی منوچهری",
-        "name_en": "Ali Manuchehri",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
+          51.5259,
+          35.7446
         ]
       }
     },
@@ -106311,71 +106188,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "علیرضا احمدی آبادی",
-        "name_en": "Alireza Ahmadi 1991",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Shahr-e Kord",
-        "province": "Chaharmahal and Bakhtiari",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8497369,
-          32.3257366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "علیرضا احمدی آبادی (بابادی)",
-        "name_en": "Alireza Ahmadi 1991 (Babadi)",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Neyshabur",
-        "province": "Razavi Khorasan",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.7922291,
-          36.2105604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name_fa": "علیرضا احمدی بابادی",
         "name_en": "Alireza Ahmadi Babadi",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 32,
+        "gender": "male",
         "city": "Shahrekord",
         "province": "Chaharmahal and Bakhtiari",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://x.com/IranNewsAgency0/status/2017455179616993672",
+          "https://www.instagram.com/reels/DUIsZE0jFhi/"
         ],
         "links": [],
         "photos": [
-          "Alireza Ahmadi Babadi/Alireza Ahmadi Babadi.jpg"
+          "Alireza Ahmadi Babadi/Alireza Ahmadi Babadi.jpg",
+          "Alireza Ahmadi Babadi/Alireza.PNG",
+          "Alireza Ahmadi Babadi/G_9wy3RWcAAF4pl.png"
         ]
       },
       "geometry": {
@@ -127301,18 +127132,26 @@
       "type": "Feature",
       "properties": {
         "name_fa": "محسن آرمک",
-        "name_en": "Mohsen Aramak",
+        "name_en": "Mohsen Armak",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 20,
+        "gender": "male",
         "city": "Hafshejan",
         "province": "Chaharmahal and Bakhtiari",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/reels/DTIxuoBCKiR/",
+          "https://www.instagram.com/p/DUgf9OMjmWp/",
+          "https://www.amnesty.org/en/latest/news/2026/01/iran-deaths-injuries-authorities-protest-bloodshed/?utm_source=chatgpt.com"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Mohsen Armak/Mohsen Armk.png",
+          "Mohsen Armak/ئخاسثد2.PNG",
+          "Mohsen Armak/حسن2.PNG",
+          "Mohsen Armak/محسن.PNG"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -130040,18 +129879,26 @@
         "name_fa": "محمد اسکندری",
         "name_en": "Mohammad Eskandari",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 24,
+        "gender": "male",
         "city": "Shahrekord",
         "province": "Chaharmahal and Bakhtiari",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/javidnam_muhammad_24/"
         ],
         "links": [],
         "photos": [
-          "Mohammad Eskandari/Mohammad Eskandari.jpg"
+          "Mohammad Eskandari/Mohammad Eskandari.jpg",
+          "Mohammad Eskandari/اسمن2.PNG",
+          "Mohammad Eskandari/اسمند.PNG",
+          "Mohammad Eskandari/اسندر2.PNG",
+          "Mohammad Eskandari/اسکش1.PNG",
+          "Mohammad Eskandari/اسکند2.PNG",
+          "Mohammad Eskandari/ثسنش21.PNG",
+          "Mohammad Eskandari/ثسنشد.PNG"
         ]
       },
       "geometry": {
@@ -137063,8 +136910,7 @@
         ],
         "links": [],
         "photos": [
-          "Mohammad Malek/Mohammad Malek.jpg",
-          "Mohammad Malek/Mohammad Malek_.jpg"
+          "Mohammad Malek/Mohammad Malek.png"
         ]
       },
       "geometry": {
@@ -145257,18 +145103,25 @@
         "name_fa": "محمدرضا علیخانی",
         "name_en": "Mohammadreza Alikhani",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 20,
+        "gender": "male",
         "city": "Shahrekord",
         "province": "Chaharmahal and Bakhtiari",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/reels/DVHJvGqglm5/",
+          "https://www.instagram.com/p/DT4KetPj5Ml/"
         ],
         "links": [],
         "photos": [
-          "Mohammadreza Alikhani/Mohammadreza Alikhani.jpg",
-          "Mohammadreza Alikhani/Mohammadreza Alikhani_.jpg"
+          "Mohammadreza Alikhani/image2s.png",
+          "Mohammadreza Alikhani/images.png",
+          "Mohammadreza Alikhani/images1.png",
+          "Mohammadreza Alikhani/images444.jpg",
+          "Mohammadreza Alikhani/mohad.PNG",
+          "Mohammadreza Alikhani/Mohammadreza Alikhani.png",
+          "Mohammadreza Alikhani/YCF1kLrI3YKmxQYl.jpg"
         ]
       },
       "geometry": {
@@ -145287,42 +145140,18 @@
         "year": 2026,
         "age": 16,
         "gender": "male",
-        "city": "Qaleh Mir (Saveh Rd)",
+        "city": "Baharestan",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
         "links": [],
         "photos": [
           "Mohammadreza Alizadeh-Nasab/Mohammadreza Alizadeh-Nasab.jpg",
           "Mohammadreza Alizadeh-Nasab/Mohammadreza Alizadeh-Nasab_.jpg"
         ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "محمدرضا علیزادهنسب",
-        "name_en": "Mohammadreza Lizadhnsb",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Baharestan",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -145372,38 +145201,11 @@
         "province": "Razavi Khorasan",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.60567,
-          36.29807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "محمدرضا غلامزاده",
-        "name_en": "Mohammadreza Gholamzadeh",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Mashhad",
-        "province": "Razavi Khorasan",
-        "country": "Iran",
-        "sources": [
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": [
-          "Mohammadreza Gholamzadeh/Mohammadreza Gholamzadeh.jpg",
-          "Mohammadreza Gholamzadeh/Mohammadreza Gholamzadeh_.jpg"
-        ]
+        "photos": []
       },
       "geometry": {
         "type": "Point",
