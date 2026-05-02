@@ -16546,7 +16546,7 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": "Isfahan",
+        "city": null,
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
@@ -16574,7 +16574,7 @@
         "year": 2026,
         "age": null,
         "gender": "female",
-        "city": "Kermanshah",
+        "city": "Isfahan",
         "province": "Kermanshah",
         "country": "Iran",
         "sources": [
@@ -16590,8 +16590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.065,
-          34.3142
+          51.668,
+          32.6546
         ]
       }
     },
@@ -16834,7 +16834,12 @@
           "https://t.me/RememberTheirNames/"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Elias Farkhari/22.jpg",
+          "Elias Farkhari/3221.jpg",
+          "Elias Farkhari/EliyaF.png",
+          "Elias Farkhari/images.jpg"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -16850,24 +16855,30 @@
         "name_fa": "الینا بهرامی",
         "name_en": "Elina Bahrami",
         "year": 2026,
-        "age": null,
+        "age": 19,
         "gender": "female",
-        "city": null,
-        "province": null,
+        "city": "Tehran",
+        "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
+          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
+          "https://x.com/autnews_org/status/2014957320908743151"
         ],
         "links": [],
         "photos": [
-          "Elina Bahrami/Elina Bahrami.jpeg"
+          "Elina Bahrami/22.png",
+          "Elina Bahrami/Elina Bahrami.jpeg",
+          "Elina Bahrami/Image May 2",
+          "2026",
+          "02_19_00 AM.png",
+          "Elina Bahrami/image.png"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.5,
-          33.3
+          51.1039,
+          35.5611
         ]
       }
     },
@@ -16890,7 +16901,13 @@
         ],
         "links": [],
         "photos": [
-          "Elina Hojjati/Elina Hojjati.jpeg"
+          "Elina Hojjati/23.png",
+          "Elina Hojjati/34.png",
+          "Elina Hojjati/Elina Hojjati.jpeg",
+          "Elina Hojjati/Image May 2",
+          "2026",
+          "02_27_39 AM.png",
+          "Elina Hojjati/image.png"
         ]
       },
       "geometry": {
@@ -16904,16 +16921,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "امالبنی غالمی کمساری",
-        "name_en": "Amalbni Ghalmi Kmsari",
+        "name_fa": "ام البنی غلامی کمساری",
+        "name_en": "Ommolbani Gholami Komsari",
         "year": 2026,
         "age": 0,
-        "gender": "unknown",
+        "gender": "male",
         "city": "Unknown",
         "province": "Unknown",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://studylib.net/doc/28382419/the-crimson-winter-english-version",
+          "https://iranmassacre.net/people/all/"
         ],
         "links": [],
         "photos": []
@@ -16930,15 +16949,18 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امامعلی صالحی باشسیز",
-        "name_en": "Amamli Salehi Bashsiz",
+        "name_en": "Imamali Salehi Bashsiz",
         "year": 2026,
         "age": 0,
-        "gender": "unknown",
+        "gender": "male",
         "city": "Unknown",
         "province": "Unknown",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://studylib.net/doc/28382419/the-crimson-winter-english-version",
+          "https://iranmassacre.net/people/all/",
+          "https://melliun.org/iran/514077"
         ],
         "links": [],
         "photos": []
@@ -16957,18 +16979,25 @@
         "name_fa": "امرالله ارغده",
         "name_en": "Amrollah Arghadeh",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 0,
+        "gender": "male",
         "city": "Bushehr",
         "province": "Bushehr",
         "country": "Iran",
         "sources": [
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://studylib.net/doc/28382419/the-crimson-winter-english-version",
+          "https://javidname.org/",
+          "https://t.me/s/tahkimmelat?before=43795"
+        ],
+        "links": [
           "https://t.me/RememberTheirNames/"
         ],
-        "links": [],
         "photos": [
           "Amrollah Arghadeh/Amrollah Arghadeh.jpg",
-          "Amrollah Arghadeh/Amrollah Arghadeh_.jpg"
+          "Amrollah Arghadeh/Image May 2",
+          "2026",
+          "02_50_51 AM.png"
         ]
       },
       "geometry": {
@@ -17008,18 +17037,22 @@
       "type": "Feature",
       "properties": {
         "name_fa": "امید ابویی",
-        "name_en": "Omid Abuyi",
+        "name_en": "Omid Abouei",
         "year": 2026,
-        "age": 44,
+        "age": 40,
         "gender": "male",
         "city": "Haft Hoz",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/",
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://studylib.net/doc/28382419/the-crimson-winter-english-version",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://www.iranncr.org/2026/01/14/13710/"
         ],
-        "links": [],
+        "links": [
+          "https://www.iranntv.com/960811"
+        ],
         "photos": []
       },
       "geometry": {
@@ -17093,7 +17126,7 @@
         "name_en": "Omid Ahmadi",
         "year": 2026,
         "age": null,
-        "gender": null,
+        "gender": "male",
         "city": "Mashhad",
         "province": "Razavi Khorasan",
         "country": "Iran",
@@ -17120,19 +17153,25 @@
         "name_fa": "امید الله‌داد",
         "name_en": "Omid Allahdad",
         "year": 2026,
-        "age": null,
-        "gender": null,
+        "age": 36,
+        "gender": "male",
         "city": "Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
+          "https://iran-archive.org/victim/1455",
+          "https://javidnaman.iranintl.com/memorial/NhziYOq5tc1XRhPSUVAs3W",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
           "https://www.youtube.com/watch?v=0v7Y9fvH67M"
         ],
-        "links": [],
+        "links": [
+          "https://t.me/RememberTheirNames/"
+        ],
         "photos": [
-          "Omid Allahdad/Omid Allahdad.jpg",
-          "Omid Allahdad/Omid Allahdad_.jpg"
+          "Omid Allahdad/Image May 2",
+          "2026",
+          "03_27_56 AM.png",
+          "Omid Allahdad/Omid Allahdad.jpg"
         ]
       },
       "geometry": {
@@ -17140,31 +17179,6 @@
         "coordinates": [
           51.1039,
           35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "امید الهداد",
-        "name_en": "Omid Alhdad",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Unknown",
-        "province": "Unknown",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3814338,
-          35.7482708
         ]
       }
     },
