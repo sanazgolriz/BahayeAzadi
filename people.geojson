@@ -1068,7 +1068,7 @@
         "name_fa": "امید خندان چافی",
         "name_en": "Omid Khandan Chafi",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Andisheh Shahriar",
         "province": "Tehran",
@@ -1121,7 +1121,7 @@
         "name_fa": "امین موسوی",
         "name_en": "Amin Mousavi",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": "male",
         "city": "Zanjan",
         "province": "Zanjan",
@@ -1186,7 +1186,9 @@
           "https://iranmassacre.net/people/all/"
         ],
         "links": [],
-        "photos": []
+        "photos": [
+          "Mehdi Mehmadi Kertelayi/Mehdi Mehmadi Kertelayi.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1216,7 +1218,9 @@
         "links": [
           "https://www.youtube.com/watch?v=hSk7EwLfqxk"
         ],
-        "photos": []
+        "photos": [
+          "Javad Mollaverdi Khani/Javad Mollaverdi Khani.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1246,7 +1250,9 @@
         "links": [
           "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
-        "photos": []
+        "photos": [
+          "Lona (Fatemeh) Kermaninejad/Lona (Fatemeh) Kermaninejad.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1262,7 +1268,7 @@
         "name_fa": "آتنا حسینیان",
         "name_en": "Atena Hosseinian",
         "year": 2026,
-        "age": null,
+        "age": 0,
         "gender": "female",
         "city": "Gorgan",
         "province": "Golestan",
@@ -1279,6 +1285,7 @@
         "photos": [
           "Atena Hosseinian/Atena Hosseinian.jpeg",
           "Atena Hosseinian/Atena Hosseinian.jpg",
+          "Atena Hosseinian/Atena Hosseinian.png",
           "Atena Hosseinian/Atena Hosseinian_.jpg"
         ]
       },
@@ -1338,7 +1345,9 @@
         "links": [
           "https://witness.report/images/303c162d-0295-11f1-9fbd-560003f1f421.png"
         ],
-        "photos": []
+        "photos": [
+          "Azar Nasirpour Lichaie/Azar Nasirpour Lichaie.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1436,7 +1445,9 @@
         "links": [
           "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
-        "photos": []
+        "photos": [
+          "Araz Salimian/Araz Salimian.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1449,19 +1460,26 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "آرتین خواجوینیا",
+        "name_fa": "آرتین خواجوی‌نیا",
         "name_en": "Artin Khajavinia",
         "year": 2026,
-        "age": 0,
+        "age": 16,
         "gender": "male",
         "city": "Shahr-e Qods",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
+          "https://witness.report/people/33bffae4-0498-11f1-9fbd-560003f1f421/art-in-khajavi-niya",
+          "https://www.iranintl.com/fa/202602168245",
+          "https://javidnaman.iranintl.com/memorial/AihVWIC374ZkzYtGRfoRMp",
+          "https://iran-archive.org/victim/2067"
+        ],
+        "links": [
           "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
-        "links": [],
-        "photos": []
+        "photos": [
+          "Artin Khajavinia/Artin Khajavinia.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1483,10 +1501,17 @@
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://hengaw.net/fa/news/2026/01/article-189-1",
+          "https://hengaw.net/en/news/2026/01/article-190",
+          "https://witness.report/people/c612bac2-f81e-11f0-af24-560003f1f421/artin-abdullahi"
         ],
-        "links": [],
-        "photos": []
+        "links": [
+          "https://witness.report/images/c612bac2-f81e-11f0-af24-560003f1f421.png"
+        ],
+        "photos": [
+          "Artin Abdollahi/Artin Abdollahi.png"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1508,12 +1533,14 @@
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
-          "https://t.me/RememberTheirNames/",
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://www.iranintl.com/fa/202602242466",
+          "https://www.iranintl.com/en/202602242048",
+          "https://iranwire.com/en/news/148300-arezoo-abedi-mother-who-passed-away-in-her-sons-arms/",
+          "https://www.daadaar.com/en/memorial/81b74eda-205b-413b-801c-09d315a8fec1"
         ],
-        "links": [],
+        "links": [
+          "https://wncri.org/2026/02/10/arezoo-abedi-was-killed-on-january-9-2026/"
+        ],
         "photos": [
           "Arezoo Abedi/Arezoo Abedi.jpg"
         ]
@@ -1523,33 +1550,6 @@
         "coordinates": [
           51.668,
           32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرزو مدنی",
-        "name_en": "Arezou Madani",
-        "year": 2026,
-        "age": 0,
-        "gender": "female",
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/"
-        ],
-        "links": [],
-        "photos": [
-          "Arezou Madani/Arezou Madani.jpeg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.5,
-          33.3
         ]
       }
     },
@@ -1566,11 +1566,13 @@
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/s/Kashowra?after=23409",
+          "https://t.me/s/Kashowra?before=23443"
         ],
         "links": [],
         "photos": [
-          "Arash Aghaali/Arash Aghaali.jpg"
+          "Arash Aghaali/Arash Aghaali.jpg",
+          "Arash Aghaali/Arash Aghaali.png"
         ]
       },
       "geometry": {
@@ -1587,18 +1589,22 @@
         "name_fa": "آرش احمدوند",
         "name_en": "Arash Ahmadvand",
         "year": 2026,
-        "age": 0,
-        "gender": null,
-        "city": "Tehran",
+        "age": 17,
+        "gender": "male",
+        "city": "Nizamabad Tehran",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
+          "https://www.en-hrana.org/wp-content/uploads/2026/02/The-Crimson-Winter-English-version.pdf",
+          "https://www.independentpersian.com/node/419272/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%88-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/print%20%27/taxonomy/term/%27.%24node-%3Efield_main_section%5B%27und%27%5D%5B0%5D%5B%27tid%27%5D",
+          "https://fa.iran-hrm.com/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%B9%D9%84%DB%8C%D9%87-%D8%BA%DB%8C%D8%B1/"
+        ],
+        "links": [
           "https://t.me/RememberTheirNames/"
         ],
-        "links": [],
         "photos": [
-          "Arash Ahmadvand/Arash Ahmadvand.jpg"
+          "Arash Ahmadvand/Arash Ahmadvand.jpg",
+          "Arash Ahmadvand/Arash Ahmadvand.png"
         ]
       },
       "geometry": {
@@ -1613,7 +1619,7 @@
       "type": "Feature",
       "properties": {
         "name_fa": "آرش پورهءچهریق",
-        "name_en": "Arash Porhchhrigh",
+        "name_en": "Arash Poure Chehriq",
         "year": 2026,
         "age": 0,
         "gender": "male",
@@ -1621,7 +1627,10 @@
         "province": "Unknown",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://iranmassacre.net/people/all/",
+          "https://melliun.org/iran/514077",
+          "https://melliun.org/iran/514077/amp"
         ],
         "links": [],
         "photos": []
@@ -1641,13 +1650,13 @@
         "name_en": "Arash Rahimi",
         "year": 2026,
         "age": 0,
-        "gender": null,
+        "gender": "male",
         "city": "Pirouzi (Tehran)",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
           "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
+          "https://iranmassacre.net/people/all/"
         ],
         "links": [],
         "photos": [
@@ -1669,13 +1678,16 @@
         "name_fa": "آرش صالحی",
         "name_en": "Arash Salehi",
         "year": 2026,
-        "age": 0,
+        "age": 46,
         "gender": "male",
         "city": "Isfahan",
         "province": "Isfahan",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://javidnaman.iranintl.com/memorial/6fdnU2KKCNcBWVCaTAJu15",
+          "https://witness.report/people/d3c56a5c-1320-11f1-b649-560003f1f421/arash-salehi",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://www.hra-iran.org/wp-content/uploads/2026/02/The-Crimson-Winter-English-version.pdf"
         ],
         "links": [],
         "photos": []
@@ -1700,7 +1712,10 @@
         "province": "Unknown",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://tirdadname.ir/asami-koshteshodegan/",
+          "https://fa.wikipedia.org/wiki/فهرست_دولتی_کشته‌شدگان_اعتراضات_دی_۱۴۰۴_ایران",
+          "https://iranmassacre.net/person/64-%D8%A2%D8%B1%D8%B4-%D8%B5%D8%AF%D9%82%DB%8C/"
         ],
         "links": [],
         "photos": []
@@ -1716,53 +1731,32 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "آرش طلوع",
-        "name_en": "Arash Toloo",
+        "name_fa": "آرش طلوع شیخ‌زاده",
+        "name_en": "Arash Toloo Sheykhzadeh",
         "year": 2026,
         "age": 37,
         "gender": "male",
         "city": "Mashhad",
-        "province": "Razavi",
+        "province": "Razavi Khorasan",
         "country": "Iran",
         "sources": [
-          "https://www.youtube.com/watch?v=-W4VfDNi2_o"
+          "https://www.independentpersian.com/node/419356/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%88-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C/%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D8%A7%DB%8C%D9%86%D8%AF%D9%BE%D9%86%D8%AF%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%D8%9B-%D8%A2%D8%B1%D8%B4-%D8%B7%D9%84%D9%88%D8%B9-%D8%B2%DB%8C%D8%B1-%D8%B4%DA%A9%D9%86%D8%AC%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%B4%D9%87%D8%AF-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF",
+          "https://www.iranintl.com/fa/202602224597",
+          "https://www.iranintl.com/fa/202602235710",
+          "https://javidnaman.iranintl.com/memorial/T3rRAhXlRSZcnoSVfNjlA4"
         ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.6059232,
-          36.2974945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرش طلوع شیخ‌زاده",
-        "name_en": "Arash Tolou Sheikhzadeh",
-        "year": 2026,
-        "age": 0,
-        "gender": null,
-        "city": null,
-        "province": null,
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
+        "links": [
+          "https://memorial.iranische-liberale-frauen.org/victim/69ad5385287808450b2d1636"
         ],
-        "links": [],
         "photos": [
-          "Arash Tolou Sheikhzadeh/Arash Tolou Sheikhzadeh.jpg",
-          "Arash Tolou Sheikhzadeh/Arash Tolou Sheikhzadeh_.jpg"
+          "Arash Toloo Sheykhzadeh/Arash Toloo Sheykhzadeh.png"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.5,
-          33.3
+          59.60567,
+          36.29807
         ]
       }
     },
@@ -1770,46 +1764,57 @@
       "type": "Feature",
       "properties": {
         "name_fa": "آرش قریشی",
-        "name_en": "Arash Ghoreyshi",
+        "name_en": "Arash Ghoreishi",
         "year": 2026,
         "age": 27,
         "gender": "male",
-        "city": "Nasimshahr",
+        "city": "Nasimshahr / Eslamshahr",
         "province": "Tehran",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://www.youtube.com/watch?v=0v7Y9fvH67M"
+          "https://www.youtube.com/watch?v=0v7Y9fvH67M",
+          "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0Co4n9w",
+          "https://iran-archive.org/victim/965",
+          "https://t.me/s/RememberTheirNames/965"
         ],
-        "links": [],
-        "photos": []
+        "links": [
+          "https://d1fwhlqkr1vj82.cloudfront.net/image/7G0E78pdgELSDZc0Co4n9w?width=288"
+        ],
+        "photos": [
+          "Arash Ghoreishi/Arash Ghoreishi.png"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.1591692,
-          35.5683375
+          51.1039,
+          35.5611
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "آرش ملکشاهی",
+        "name_fa": "آرش ملکشاهی مهترکلاته",
         "name_en": "Arash Malekshahi",
         "year": 2026,
-        "age": 0,
+        "age": 18,
         "gender": "male",
         "city": "Gorgan",
         "province": "Golestan",
         "country": "Iran",
         "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+          "https://t.me/RememberTheirNames/789",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://javidnaman.iranintl.com/memorial/faVC3p6tCxw9DOdQXw9Mdg",
+          "https://iran-archive.org/victim/789"
         ],
-        "links": [],
+        "links": [
+          "https://d1fwhlqkr1vj82.cloudfront.net/image/faVC3p6tCxw9DOdQXw9Mdg?width=288"
+        ],
         "photos": [
           "Arash Malekshahi/Arash Malekshahi.jpg",
+          "Arash Malekshahi/Arash Malekshahi.png",
           "Arash Malekshahi/Arash Malekshahi_.jpg"
         ]
       },
@@ -1824,281 +1829,53 @@
     {
       "type": "Feature",
       "properties": {
-        "name_fa": "آرش میرهادی",
-        "name_en": "Arash Mirhadi",
+        "name_fa": "بنیامین گلریز",
+        "name_en": "Benjamin Golriz",
         "year": 2026,
-        "age": 0,
+        "age": 34,
+        "gender": "male",
+        "city": "Rasht",
+        "province": "Gilan",
+        "country": "Iran",
+        "sources": [
+          "https://www.youtube.com/watch?v=wkidZ2WJa7o",
+          "https://t.me/RememberTheirNames/",
+          "https://t.me/RememberTheirNames/"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5832,
+          37.2808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ایمان بهداری",
+        "name_en": "Iman Behdari",
+        "year": 2026,
+        "age": 25,
         "gender": "male",
         "city": "Arak",
         "province": "Markazi",
         "country": "Iran",
         "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7,
-          34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرش نجفی",
-        "name_en": "Arash Najafi",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Isfahan",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرش یزدانی",
-        "name_en": "Arash Yazdani",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرشان قاسمی",
-        "name_en": "Arshan Ghasemi",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Haft Hoz",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Arshan Ghasemi/Arshan Ghasemi.jpg",
-          "Arshan Ghasemi/Arshan Ghasemi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.367,
-          35.817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمان استواری",
-        "name_en": "Arman Ostavari",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Marvdasht",
-        "province": "Fars",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.8025,
-          29.8742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمان قهرمانی",
-        "name_en": "Arman Ghahramani",
-        "year": 2026,
-        "age": 36,
-        "gender": "male",
-        "city": "Mehrabad South Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.instagram.com/p/DVJz8M-ikkH/",
+          "https://www.iranintl.com/fa/202602024021",
+          "https://witness.report/people/cf4334f2-f8c2-11f0-af24-560003f1f421/iman-behdari"
         ],
         "links": [
-          "https://www.youtube.com/watch?v=B7Sk7f4AT_I"
+          "https://witness.report/images/cf4334f2-f8c2-11f0-af24-560003f1f421.jpeg"
         ],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.328872,
-          35.6767162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمان کالنتری",
-        "name_en": "Arman Kalntri",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Isfahan",
-        "province": "Isfahan",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.668,
-          32.6546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمان گرجیان بهمیاری",
-        "name_en": "Arman Gorjian Behmiari",
-        "year": 2026,
-        "age": 19,
-        "gender": "male",
-        "city": "Rostam Babameidan",
-        "province": "Fars",
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
-          "https://t.me/RememberTheirNames/",
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
         "photos": [
-          "Arman Gorjian Behmiari/Arman Gorjian Behmiari.jpg"
+          "Iman Behdari/Iman Behdari.png"
         ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.188,
-          30.373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمان مرادی",
-        "name_en": "Arman Moradi",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Karaj",
-        "province": "Alborz",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Arman Moradi/Arman Moradi.jpg",
-          "Arman Moradi/Arman Moradi_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9391,
-          35.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمان مهدی پور",
-        "name_en": "Arman Mehdi Pur",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Tehran",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرمیا فضلی",
-        "name_en": "Armita Fzli",
-        "year": 2026,
-        "age": 0,
-        "gender": "unknown",
-        "city": "Arak",
-        "province": "Markazi",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
       },
       "geometry": {
         "type": "Point",
@@ -2121,15 +1898,19 @@
         "country": "Iran",
         "sources": [
           "https://www.iranintl.com/202602034951",
-          "https://t.me/RememberTheirNames/"
+          "https://witness.report/people/d3e6dfc1-f808-11f0-b167-560003f1f421/iraj-yousefi",
+          "https://iran-archive.org/victim/1100",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
         "links": [
-          "https://x.com/hashtag/%D8%A7%DB%8C%D8%B1%D8%AC_%DB%8C%D9%88%D8%B3%D9%81%DB%8C?src=hashtag_click"
+          "https://javidnaman.iranintl.com/memorial/f02f6d1e-a707-40a2-9c2e-5f97d98b52ee"
         ],
         "photos": [
-          "Iraj Yousefi/Iraj Yousefi.jpg",
           "Iraj Yousefi/Iraj Yousefi.png",
-          "Iraj Yousefi/Iraj Yousefi_.jpg"
+          "Iraj Yousefi/Iraj Yousefi_.jpg",
+          "Iraj Yousefi/Iraj Yousefi_2.jpg",
+          "Iraj Yousefi/Iraj Yousefiasd.jpg",
+          "Iraj Yousefi/Iraj Yousefiss.png"
         ]
       },
       "geometry": {
@@ -2137,63 +1918,6 @@
         "coordinates": [
           49.7,
           34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "ایمان بهداری",
-        "name_en": "Iman Bahdari",
-        "year": 2026,
-        "age": 25,
-        "gender": "male",
-        "city": "Arak",
-        "province": "markazi",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/",
-          "https://www.instagram.com/p/DVJz8M-ikkH/"
-        ],
-        "links": [],
-        "photos": [
-          "Iman Bahdari/Iman Bahdari.JPG"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7,
-          34.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "بنیامین گلریز",
-        "name_en": "Benjamin Golriz",
-        "year": 2026,
-        "age": 34,
-        "gender": "male",
-        "city": "Rasht",
-        "province": "Gilan",
-        "country": "Iran",
-        "sources": [
-          "https://www.youtube.com/watch?v=wkidZ2WJa7o",
-          "https://t.me/RememberTheirNames/",
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Benjamin Golriz/Benjamin Golriz.PNG"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5832,
-          37.2808
         ]
       }
     },
@@ -2205,18 +1929,21 @@
         "year": 2026,
         "age": 59,
         "gender": "male",
-        "city": "Karaj",
+        "city": "Hashtgerd",
         "province": "Alborz",
         "country": "Iran",
         "sources": [
           "https://www.iranintl.com/fa/202602042837",
-          "https://t.me/RememberTheirNames/"
+          "https://www.independentpersian.com/tv/ایندیپندنت-فارسی/«زندگي-آتشگهی-ديرنده-پا-برجاست»؛-بهرام-اخلاقی،-جانباز-جنگ،-در-حال-خواندن-شعر-آرش-کمانگیر-6NgmRecI",
+          "https://ir.voanews.com/a/8108694.html",
+          "https://telegram.me/s/Tavaana_TavaanaTech?q=%23هشتگرد"
         ],
         "links": [
-          "https://www.youtube.com/watch?v=hOapPfXBzZU"
+          "https://t.me/RememberTheirNames/"
         ],
         "photos": [
           "Bahram Akhlaghi/Bahram Akhlaghi.jpg",
+          "Bahram Akhlaghi/Bahram Akhlaghi.png",
           "Bahram Akhlaghi/Bahram Akhlaghi_.jpg",
           "Bahram Akhlaghi/bahram.png",
           "Bahram Akhlaghi/G_p2vLsWIAIrZPy.png",
@@ -2227,8 +1954,509 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          50.6858036,
+          35.9641824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرش میرهادی",
+        "name_en": "Arash Mirhadi",
+        "year": 2026,
+        "age": 25,
+        "gender": "male",
+        "city": "Imam Street Arak",
+        "province": "Markazi",
+        "country": "Iran",
+        "sources": [
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://studylib.net/doc/28382419/the-crimson-winter-english-version",
+          "https://darrahevatan.com/records",
+          "https://javidnaman.iranintl.com/memorial/EHaCND9v0u9aDEC8cikZVu"
+        ],
+        "links": [
+          "https://darrahevatan.com/static/uploads/7bc032656358485ca730ab0c02dc1f9d.jpg"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6937668,
+          34.1161496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرمان مرادی",
+        "name_en": "Arman Moradi",
+        "year": 2026,
+        "age": 32,
+        "gender": "male",
+        "city": "Karaj",
+        "province": "Alborz",
+        "country": "Iran",
+        "sources": [
+          "https://t.me/RememberTheirNames/",
+          "https://witness.report/people/e35e38b8-0b6e-11f1-9fbd-560003f1f421/arman-moradi",
+          "https://iran-archive.org/victim/1850",
+          "https://hanahr.org/en/news/identification-of-four-kurdish-citizens-among-those-killed-during-the-january-2026-popular-protests/"
+        ],
+        "links": [
+          "https://witness.report/images/e35e38b8-0b6e-11f1-9fbd-560003f1f421.PNG"
+        ],
+        "photos": [
+          "Arman Moradi/Arman Moradi.jpg",
+          "Arman Moradi/Arman Moradi_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           50.9391,
           35.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرمان مهدی‌پور",
+        "name_en": "Arman Mahdipour",
+        "year": 2026,
+        "age": 24,
+        "gender": "male",
+        "city": "Tehran",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://javidnaman.iranintl.com/memorial/6fdnU2KKCNcBWVCaT7ruIR",
+          "https://iran-archive.org/victim/1590",
+          "https://t.me/s/RememberTheirNames/1590",
+          "https://www.iranprotests.com/victims-iranprotests-2026/arman-mehdipour"
+        ],
+        "links": [
+          "https://d1fwhlqkr1vj82.cloudfront.net/image/6fdnU2KKCNcBWVCaT7ruIR?width=288"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرمان گرجیان بهمیاری",
+        "name_en": "Arman Gorjian Bahmiyari",
+        "year": 2026,
+        "age": 19,
+        "gender": "male",
+        "city": "Babameidan / Rostam County",
+        "province": "Fars",
+        "country": "Iran",
+        "sources": [
+          "https://iranwire.com/en/features/148795-arman-gorjian-he-wanted-to-be-a-doctor-they-shot-him-in-the-heart/",
+          "https://www.iranintl.com/fa/202601276576",
+          "https://hengaw.net/en/news/2026/01/article-224",
+          "https://witness.report/people/c7403771-fa42-11f0-a915-560003f1f421/arman-gorjian-bahmiyari"
+        ],
+        "links": [
+          "https://iran-archive.org/victim/772"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5097,
+          29.8012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرش (مجید) بهفر",
+        "name_en": "Arash (Majid) Behfar",
+        "year": 2026,
+        "age": 40,
+        "gender": "male",
+        "city": "Nezamabad",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://hengaw.net/en/news/2026/01/article-108",
+          "https://witness.report/people/b9daa606-fa72-11f0-a725-560003f1f421/arash-behfar",
+          "https://iran-archive.org/victim/391",
+          "https://www.daadaar.com/en/memorial/ac47ee2a-d5a9-4783-b199-ab5e591c0457"
+        ],
+        "links": [
+          "https://iranianlives.com/2026/victims/arash-behfar"
+        ],
+        "photos": [
+          "Arash (Majid) Behfar/Arash (Majid) Behfar.jpg",
+          "Arash (Majid) Behfar/Arash (Majid) Behfar_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4642016,
+          35.7184215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آذین فریدونی",
+        "name_en": "Azin Fereydouni",
+        "year": 2026,
+        "age": 40,
+        "gender": "female",
+        "city": "Andisheh / Shahriar",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://witness.report/people/2ef060a1-10d2-11f1-97e4-560003f1f421/azin-fereydouni",
+          "https://iran-archive.org/victim/2026",
+          "https://iranunified.com/remember/azhin-freydouni/",
+          "https://www.iranintl.com/fa/202602094981"
+        ],
+        "links": [
+          "https://iran-archive.org/_next/image?q=75&url=%2Fphotos%2F2026.jpg&w=3840"
+        ],
+        "photos": [
+          "Azin Fereydouni/Azin Fereydouni.jpg",
+          "Azin Fereydouni/Azin Fereydouni_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0292726,
+          35.6965278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرمان استواری",
+        "name_en": "Arman Ostavari",
+        "year": 2026,
+        "age": 17,
+        "gender": "male",
+        "city": "Marvdasht",
+        "province": "Fars",
+        "country": "Iran",
+        "sources": [
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://darrahevatan.com/records",
+          "https://javidnaman.iranintl.com"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8025,
+          29.8742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آذرنوش خراسانی",
+        "name_en": "Azarnoush Khorasani",
+        "year": 2026,
+        "age": 8,
+        "gender": "female",
+        "city": "Mashhad",
+        "province": "Razavi Khorasan",
+        "country": "Iran",
+        "sources": [
+          "https://t.me/RememberTheirNames/",
+          "https://www.iranintl.com/fa/202603317743",
+          "https://witness.report/people/3f0aeeb5-0c5f-11f1-9fbd-560003f1f421/azarnoush-khorasani",
+          "https://javidnaman.iranintl.com/memorial/3927ee14-b06f-4b0b-adc3-e6d76161f915"
+        ],
+        "links": [
+          "https://witness.report/images/3f0aeeb5-0c5f-11f1-9fbd-560003f1f421.png"
+        ],
+        "photos": [
+          "Azarnoush Khorasani/Azarnoush Khorasani.jpg",
+          "Azarnoush Khorasani/Azarnoush Khorasani_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60567,
+          36.29807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرمان قهرمانی",
+        "name_en": "Arman Ghahramani",
+        "year": 2026,
+        "age": 36,
+        "gender": "male",
+        "city": "Mehrabad South Tehran",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://t.me/RememberTheirNames/",
+          "https://www.youtube.com/watch?v=B7Sk7f4AT_I",
+          "https://javidnaman.iranintl.com/memorial/6fdnU2KKCNcBWVCaTEZgKT",
+          "https://iran-archive.org/victim/100"
+        ],
+        "links": [
+          "https://d1fwhlqkr1vj82.cloudfront.net/image/6fdnU2KKCNcBWVCaTEZgKT?width=288"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.328872,
+          35.6767162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرشان قاسمی",
+        "name_en": "Arshan Ghasemi",
+        "year": 2026,
+        "age": 18,
+        "gender": "male",
+        "city": "Tehran",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://www.iranintl.com/fa/202602188317",
+          "https://witness.report/people/0bd0e726-fe98-11f0-a725-560003f1f421/arshan-ghasemi",
+          "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClTah9",
+          "https://iranianlives.com/en/2026/victims/arshan-ghasemi"
+        ],
+        "links": [
+          "https://pbs.twimg.com/media/G_tgo6GWoAAC3ZT.jpg"
+        ],
+        "photos": [
+          "Arshan Ghasemi/Arshan Ghasemi.jpg",
+          "Arshan Ghasemi/Arshan Ghasemi_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرش بهشتی",
+        "name_en": "Arash Beheshti",
+        "year": 2026,
+        "age": 26,
+        "gender": "male",
+        "city": "Haft-e Hoz",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://iranwire.com/fa/news-1/151420-%D8%A2%D8%B1%D8%B4-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%A2%DB%8C%D8%AA%DB%8C-%DB%B2%DB%B6-%D8%B3%D8%A7%D9%84%D9%87-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D8%AD%D9%88%D8%B6-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B4%D9%84%DB%8C%DA%A9-%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85-%DA%AF%D9%84%D9%88%D9%84%D9%87-%D8%A8%D9%87-%D8%B3%D8%B1-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+          "https://witness.report/people/c0679e54-1db5-11f1-be02-560003f1f421/arash-beheshti",
+          "https://iranwire.com/fa/special-features/149025",
+          "https://t.me/s/RememberTheirNames?before=1187"
+        ],
+        "links": [
+          "https://iranwire.com/petition/149011-%D8%A2%D8%B1%D8%B4-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D8%AD%D9%88%D8%B6-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B4%D9%84%DB%8C%DA%A9-%DA%AF%D9%84%D9%88%D9%84%D9%87-%D8%A8%D9%87-%D8%B3%D8%B1-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/"
+        ],
+        "photos": [
+          "Arash Beheshti/Arash Beheshti.jpg",
+          "Arash Beheshti/Arash Beheshti_.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرش نجفی",
+        "name_en": "Arash Najafi",
+        "year": 2026,
+        "age": 23,
+        "gender": "male",
+        "city": "Isfahan",
+        "province": "Isfahan",
+        "country": "Iran",
+        "sources": [
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://iranunified.com/remember/arash-najafi/",
+          "https://iranunified.com/images/victims/2842/01.webp"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.668,
+          32.6546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "ارمیا فضلی",
+        "name_en": "Ermia Fazli",
+        "year": 2026,
+        "age": 20,
+        "gender": "male",
+        "city": "Arak",
+        "province": "Markazi",
+        "country": "Iran",
+        "sources": [
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://iranwire.com/fa/news-1/147777-%D8%A7%D8%B1%D9%85%DB%8C%D8%A7-%D9%81%D8%B6%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A7%D8%B1%D8%A7%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+          "https://hengaw.net/fa/news/2026/01/article-154-1",
+          "https://witness.report/people/8d582499-0671-11f1-9fbd-560003f1f421/armia-fazli"
+        ],
+        "links": [
+          "https://witness.report/images/8d582499-0671-11f0-9fbd-560003f1f421.png"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7,
+          34.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرمان کلانتری",
+        "name_en": "Arman Kalantari",
+        "year": 2026,
+        "age": 0,
+        "gender": "male",
+        "city": "Isfahan",
+        "province": "Isfahan",
+        "country": "Iran",
+        "sources": [
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+        ],
+        "links": [],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.668,
+          32.6546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "آرش یزدانی‌همت‌آبادی",
+        "name_en": "Arash Yazdani Hemmatabadi",
+        "year": 2026,
+        "age": 27,
+        "gender": "male",
+        "city": "Tehran",
+        "province": "Tehran",
+        "country": "Iran",
+        "sources": [
+          "https://iranwire.com/fa/special-features/149025-%DA%A9%D8%B4%D8%AA%D9%87%D8%B4%D8%AF%DA%AF%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DB%B1%DB%B4%DB%B0%DB%B4/",
+          "https://hengaw.net/en/news/2026/01/article-108",
+          "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWg1OI",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
+        ],
+        "links": [
+          "https://iranunified.com/remember/arash-hemmat-abadi-yazdani/"
+        ],
+        "photos": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1039,
+          35.5611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fa": "نگین قدیمی",
+        "name_en": "Negin Ghadimi",
+        "year": 2026,
+        "age": 27,
+        "gender": "female",
+        "city": "Tonekabon / Shahsavar",
+        "province": "Mazandaran",
+        "country": "Iran",
+        "sources": [
+          "https://www.iranhr.net/en/articles/8531/",
+          "https://witness.report/people.php?peopleId=640bae10-f271-11f0-87d3-560003f1f421",
+          "https://wncri.org/2026/01/26/negin-ghadimi-was-killed/",
+          "https://www.abc.net.au/news/2026-01-15/iran-protests-negin-ghadimi-dies-speaking-out-blood-in-streets/106233624"
+        ],
+        "links": [
+          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00"
+        ],
+        "photos": [
+          "Negin Ghadimi/Negin Ghadimi.jpeg",
+          "Negin Ghadimi/Negin Ghadimi.png",
+          "Negin Ghadimi/Negin Ghadimi_.jpg",
+          "Negin Ghadimi/Negin2.PNG",
+          "Negin Ghadimi/Negin43.PNG",
+          "Negin Ghadimi/negin5.PNG",
+          "Negin Ghadimi/Negin6.PNG",
+          "Negin Ghadimi/negin7.PNG",
+          "Negin Ghadimi/Negin8.PNG",
+          "Negin Ghadimi/negin89.PNG",
+          "Negin Ghadimi/negin99.PNG",
+          "Negin Ghadimi/sa1.PNG"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6786,
+          36.55102
         ]
       }
     },
@@ -2254,174 +2482,6 @@
         "coordinates": [
           50.8203,
           28.9234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آذر نصیرپور",
-        "name_en": "Azar Nasirpour",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Rasht",
-        "province": "Gilan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Azar Nasirpour/Azar Nasirpour.jpg",
-          "Azar Nasirpour/Azar Nasirpour_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5832,
-          37.2808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آذرنوش خراسانی",
-        "name_en": "Azarnoush Khorasani",
-        "year": 2026,
-        "age": 8,
-        "gender": null,
-        "city": "Mashhad",
-        "province": "Razavi Khorasan",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Azarnoush Khorasani/Azarnoush Khorasani.jpg",
-          "Azarnoush Khorasani/Azarnoush Khorasani_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.60567,
-          36.29807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آذین فریدونی",
-        "name_en": "Azin Fereydouni",
-        "year": 2026,
-        "age": null,
-        "gender": null,
-        "city": "Shahrak-e Ansheh",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Azin Fereydouni/Azin Fereydouni.jpg",
-          "Azin Fereydouni/Azin Fereydouni_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرتین خواجوی‌نیا",
-        "name_en": "Artin Khajouei-Nia",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Qaleh Hasan Khan",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Artin Khajouei-Nia/Artin Khajouei-Nia.jpg",
-          "Artin Khajouei-Nia/Artin Khajouei-Nia_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرش (مجید) بهفر",
-        "name_en": "Arash (Majid) Behfar",
-        "year": 2026,
-        "age": 0,
-        "gender": "male",
-        "city": "Nezamabad",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Arash (Majid) Behfar/Arash (Majid) Behfar.jpg",
-          "Arash (Majid) Behfar/Arash (Majid) Behfar_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4642016,
-          35.7184215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "آرش بهشتی",
-        "name_en": "Arash Beheshti",
-        "year": 2026,
-        "age": 0,
-        "gender": null,
-        "city": "Haft-e Hoz",
-        "province": "Tehran",
-        "country": "Iran",
-        "sources": [
-          "https://t.me/RememberTheirNames/"
-        ],
-        "links": [],
-        "photos": [
-          "Arash Beheshti/Arash Beheshti.jpg",
-          "Arash Beheshti/Arash Beheshti_.jpg"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1039,
-          35.5611
         ]
       }
     },
@@ -143764,7 +143824,8 @@
         "country": "Iran",
         "sources": [
           "https://wncri.org/photo-gallery-of-the-martyrs-of-the-2026-uprising-2/",
-          "https://t.me/RememberTheirNames/"
+          "https://t.me/RememberTheirNames/",
+          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
         ],
         "links": [],
         "photos": [
@@ -143776,31 +143837,6 @@
         "coordinates": [
           51.1039,
           35.5611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "نسترن زارعمنش",
-        "name_en": "Nastaran Zaremanesh",
-        "year": 2026,
-        "age": 0,
-        "gender": "female",
-        "city": "Unknown",
-        "province": "Unknown",
-        "country": "Iran",
-        "sources": [
-          "https://www.hra-news.org/wp-content/uploads/2026/02/The-Crimson-Winter-Persian.pdf"
-        ],
-        "links": [],
-        "photos": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3814338,
-          35.7482708
         ]
       }
     },
@@ -144149,47 +144185,6 @@
         "coordinates": [
           59.60567,
           36.29807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name_fa": "نگین قدیمی",
-        "name_en": "Negin Ghadimi",
-        "year": 2026,
-        "age": 27,
-        "gender": "female",
-        "city": "Tonekabon",
-        "province": "Mazandaran",
-        "country": "Iran",
-        "sources": [
-          "https://www.bbc.com/persian/resources/idt-c005edd8-7204-4c74-a478-f9d719519b00",
-          "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%D9%86_%D9%86%DA%AF%DB%8C%D9%86_%D9%82%D8%AF%DB%8C%D9%85%DB%8C",
-          "https://www.instagram.com/p/DUJO1AfCJOQ/",
-          "https://www.instagram.com/p/DUBw0i5DpNe/"
-        ],
-        "links": [],
-        "photos": [
-          "Negin Ghadimi/Negin Ghadimi.jpeg",
-          "Negin Ghadimi/Negin Ghadimi.png",
-          "Negin Ghadimi/Negin Ghadimi_.jpg",
-          "Negin Ghadimi/Negin2.PNG",
-          "Negin Ghadimi/Negin43.PNG",
-          "Negin Ghadimi/negin5.PNG",
-          "Negin Ghadimi/Negin6.PNG",
-          "Negin Ghadimi/negin7.PNG",
-          "Negin Ghadimi/Negin8.PNG",
-          "Negin Ghadimi/negin89.PNG",
-          "Negin Ghadimi/negin99.PNG",
-          "Negin Ghadimi/sa1.PNG"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8787003,
-          36.8154324
         ]
       }
     },

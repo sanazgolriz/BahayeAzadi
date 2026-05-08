@@ -5014,5 +5014,69 @@
   "unknown, iran, iran": [
     34.0202231,
     48.6383613
+  ],
+  "nizamabad tehran, tehran, iran": [
+    null,
+    null
+  ],
+  "nizamabad tehran, iran": [
+    null,
+    null
+  ],
+  "nasimshahr / eslamshahr, tehran, iran": [
+    null,
+    null
+  ],
+  "nasimshahr / eslamshahr, iran": [
+    null,
+    null
+  ],
+  "imam street arak, markazi, iran": [
+    34.1161496,
+    49.6937668
+  ],
+  "babameidan / rostam county, fars, iran": [
+    null,
+    null
+  ],
+  "babameidan / rostam county, iran": [
+    null,
+    null
+  ],
+  "andisheh / shahriar, tehran, iran": [
+    35.6965278,
+    51.0292726
+  ],
+  "tonekabon / shahsavar, mazandaran, iran": [
+    null,
+    null
+  ],
+  "tonekabon / shahsavar, iran": [
+    null,
+    null
+  ],
+  "sadeghiyeh / tehran, tehran, iran": [
+    35.7179,
+    51.3309022
+  ],
+  "zeinabieh isfahan, isfahan, iran": [
+    null,
+    null
+  ],
+  "zeinabieh isfahan, iran": [
+    null,
+    null
+  ],
+  "naziabad - tehran, tehran, iran": [
+    null,
+    null
+  ],
+  "naziabad - tehran, iran": [
+    null,
+    null
+  ],
+  "mashhad, khorsan, iran": [
+    null,
+    null
   ]
 }
