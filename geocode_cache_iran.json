@@ -5078,5 +5078,41 @@
   "mashhad, khorsan, iran": [
     null,
     null
+  ],
+  "sadeghieh (ariyashahr), tehran, iran": [
+    35.7220232,
+    51.3416667
+  ],
+  "yakh-sazi street rasht, gilan, iran": [
+    null,
+    null
+  ],
+  "yakh-sazi street rasht, iran": [
+    null,
+    null
+  ],
+  "hengam / narmak tehran, tehran, iran": [
+    35.7370605,
+    51.4887537
+  ],
+  "mahshahr / bandar-e mahshahr, khuzestan, iran": [
+    30.5138555,
+    49.0894043
+  ],
+  "fardis/karaj, alborz, iran": [
+    35.7557008,
+    51.0091955
+  ],
+  "saadatabad tehran, tehran, iran": [
+    null,
+    null
+  ],
+  "saadatabad tehran, iran": [
+    null,
+    null
+  ],
+  "sadeghieh - tehran, tehran, iran": [
+    35.7220232,
+    51.3416667
   ]
 }
